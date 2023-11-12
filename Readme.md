@@ -46,7 +46,7 @@ Os substantivos são palavras que nomeiam objetos, conceitos, lugares, entre out
 
 - **Scientia (Feminino)** - Ciência
 - **Domus (Neutro)** - Casa
-- **Computátore (Neutro)** - Computador
+- **Computation (Neutro)** - Computador
 - **Planet (Masculino)** - Planeta
 - **Mathematica (Feminino)** - Matemática
 - **Astrum (Neutro)** - Estrela

@@ -323,7 +323,7 @@ Aqui estão alguns exemplos de conjugação de verbos em Vetum:
      - Les creaverunt - Eles/Elas criaram
 
    - Futuro do Indicativo:
-     - Mi creaberé - Eu criarei
+     - Mi creabere - Eu criarei
      - Tu creaberes - Você criará
      - Lo/La/Lu creabet - Ele/Ela criará
      - Nos creabemus - Nós criaremos
@@ -420,7 +420,7 @@ Aqui estão alguns exemplos de conjugação de verbos em Vetum:
     - Les comprehenderunt - Eles/Elas compreenderam
 
 	Futuro do Indicativo:
-    - Mi comprehenderé - Eu compreenderei
+    - Mi comprehendere - Eu compreenderei
     - Tu comprehenderes - Você compreenderá
     - Lo/La/Lu comprehendet - Ele/Ela compreenderá
     - Nos comprehendemus - Nós compreenderemos
@@ -468,7 +468,7 @@ Aqui estão alguns exemplos de conjugação de verbos em Vetum:
 	  - Les exsequiverunt - Eles/Elas realizaram
 
 	Futuro do Indicativo:
-	  - Mi exsequaré - Eu realizarei
+	  - Mi exsequare - Eu realizarei
 	  - Tu exsequeres - Você realizará
 	  - Lo/La/Lu exsequet - Ele/Ela realizará
 	  - Nos exsequemus - Nós realizaremos
@@ -562,8 +562,8 @@ Aqui estão alguns exemplos de conjugação de verbos em Vetum:
 	- Les iverunt - Eles/Elas foram
 
 	Futuro do Indicativo:
-	- Mi iraré - Eu irei
-	- Tu irarés - Você irá
+	- Mi irare - Eu irei
+	- Tu irares - Você irá
 	- Lo/La/Lu iraret - Ele/Ela irá
 	- Nos iraremos - Nós iremos
 	- Vos iraretis - Vocês irão
@@ -610,16 +610,16 @@ Aqui estão alguns exemplos de conjugação de verbos em Vetum:
 	- Les staverunt - Eles/Elas estiveram
 
 	Futuro do Indicativo:
-	- Mi staré - Eu estarei
-	- Tu starés - Você estará
+	- Mi stare - Eu estarei
+	- Tu stares - Você estará
 	- Lo/La/Lu staret - Ele/Ela estará
 	- Nos staremus - Nós estaremos
 	- Vos staretis - Vocês estarão
 	- Les starent - Eles/Elas estarão
 
 	Condicional:
-	- Mi staría - Eu estaria
-	- Tu starías - Você estaria
+	- Mi staria - Eu estaria
+	- Tu starias - Você estaria
 	- Lo/La/Lu staría - Ele/Ela estaria
 	- Nos stariam - Nós estaríamos
 	- Vos stariat - Vocês estariam
@@ -657,8 +657,8 @@ Aqui estão alguns exemplos de conjugação de verbos em Vetum:
 	- Les docuerunt - Eles/Elas ensinaram
 
 	Futuro do Indicativo:
-	- Mi doceré - Eu ensinarei
-	- Tu docerés - Você ensinará (informal)
+	- Mi docere - Eu ensinarei
+	- Tu doceres - Você ensinará (informal)
 	- Lo/La/Lu doceret - Ele/Ela ensinará
 	- Nos doceremus - Nós ensinaremos
 	- Vos doceretis - Vocês ensinarão
@@ -681,8 +681,8 @@ Aqui estão alguns exemplos de conjugação de verbos em Vetum:
 	- Les copiverunt - Eles/Elas copiaram
 
 	Futuro do Indicativo:
-	- Mi copiré - Eu copiarei
-	- Tu copirés - Você copiará
+	- Mi copire - Eu copiarei
+	- Tu copires - Você copiará
 	- Lo/La/Lu copiret - Ele/Ela copiará
 	- Nos copiremus - Nós copiaremos
 	- Vos copiretis - Vocês copiarão
@@ -712,8 +712,8 @@ Aqui estão alguns exemplos de conjugação de verbos em Vetum:
 	- Les mixiverunt - Eles/Elas misturaram
 
 	Futuro do Indicativo:
-	- Mi mixiré - Eu misturarei
-	- Tu mixirés - Você misturará
+	- Mi mixire - Eu misturarei
+	- Tu mixires - Você misturará
 	- Lo/La/Lu mixiret - Ele/Ela misturará
 	- Nos mixiremus - Nós misturaremos
 	- Vos mixiretis - Vocês misturarão
@@ -733,7 +733,57 @@ Aqui estão alguns exemplos de conjugação de verbos em Vetum:
 	- Nos mixam - Misturemos (plural)
 	- Vos mixat - Misturai (plural - informal)
 	- Les mixant - Misturem (plural)
+14. **Verbo: Vivere (Viver)**
+	Presente do Indicativo:
+    - Mi vivo - Eu vivo
+    - Tu vives - Você vive
+    - Lo/La/Lu vivet - Ele/Ela vive
+    - Nos vivemus - Nós vivemos
+    - Vos vivetis - Vocês vivem
+    - Les vivent - Eles/Elas vivem
 
+    Pretérito Perfeito do Indicativo:
+
+    - Mi vici - Eu vivi
+    - Tu vicisti - Você viveu
+    - Lo/La/Lu vicit - Ele/Ela viveu
+    - Nos vicimus - Nós vivemos
+    - Vos vicistis - Vocês viveram
+    - Les vicerunt - Eles/Elas viveram
+
+    Futuro do Indicativo:
+
+    - Mi vivere - Eu viverei
+    - Tu viveres - Você viverá
+    - Lo/La/Lu viveret - Ele/Ela viverá
+    - Nos viveremus - Nós viveremos
+    - Vos viveretis - Vocês viverão
+    - Les viverent - Eles/Elas viverão
+
+    Condicional:
+
+    - Mi viveria - Eu viveria
+    - Tu viverias - Você viveria
+    - Lo/La/Lu viveria - Ele/Ela viveria
+    - Nos viveriam - Nós viveríamos
+    - Vos viveriat - Vocês viveriam
+    - Les viverian - Eles/Elas viveriam
+
+    Imperativo:
+
+    - Tu vive - Vive (singular)
+    - Lo/La/Lu vivet - Viva (singular - formal)
+    - Nos vivemus - Vivamos (plural)
+    - Vos vivetis - Vivei (plural - informal)
+    - Les vivent - Vivam (plural)
+
+    Presente do Subjuntivo:
+    - Mi viva - Que eu viva
+    - Tu vivas - Que você viva
+    - Lo/La/Lu vivat - Que ele/ela viva
+    - Nos vivamus - Que nós vivamos
+    - Vos vivatis - Que vocês vivam
+    - Les vivant - Que eles/elas vivam
 
 **Passos para a Conjugação Verbal em Vetum:**
 
