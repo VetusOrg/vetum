@@ -3,11 +3,11 @@
 ## Substantivos
 - Scientia (F) - Ciência
 - Domus (N) - Casa
-- Computácione (N) - Computador
-- Computâcion (N) - Computação
+- Computation (N) - Computador
+- Computacione (M) - Computação
 - Planet (M) - Planeta
 - Astronomya (F) - Astronomia
-- Mathematic (F) - Matemática
+- Mathematica (F) - Matemática
 - Astrum (N) - Estrela
 - Natura (F) - Natureza
 - Machina (F) - Máquina
@@ -34,9 +34,9 @@
 - Domus (M) - Casa
 - Aqua (F) - Água
 - Pan (F) - Pão
-- Deos (M) - Deus
-- Deosa (F) - Deusa
-- Deidat (F) - Deidade
+- Theos (M) - Deus
+- Thea (F) - Deusa
+- Theotita (F) - Deidade
 - Tenebrae (N) - Trevas
 - Abysmus (N) - Abismo
 - Formare (F) - Forma
@@ -271,8 +271,8 @@
 - Lamentabilmente - Lamentavelmente
 
 ## Outros
-- Vetúm - O nome do idioma Vetum
-- Scientia computácio (F) - Ciência da computação
+- Vetum - O nome do idioma Vetum
+- Scientia computacion (F) - Ciência da computação
 
 #### Passo 4: Conjugação do Verbo
 
@@ -810,7 +810,7 @@ WIP -> Ainda para ser feito
 28. **Scientia et art educe las personas** - Ciência e arte educam as pessoas.
 29. **Nos ambula in parco.** - Nós caminhamos no parque.
 30. **Tempus semper cambia.** - O tempo está sempre mudando.
-31. **"In initium, Deos creavit aéreth et terrae."** - "No principio, Deus criou os céus e a terra."
+31. **"In initium, Theos creavit aéreth et terrae."** - "No principio, Deus criou os céus e a terra."
 32. **Irea praedire un lactea.** - Vai tomar um leite.
 33. **Bones diem.** - Bom dia.
 34. **Bonas nocte.** - Boa noite.
@@ -835,9 +835,9 @@ WIP -> Ainda para ser feito
 **Vá, quid iste destinum
 la victoria expecta!
 Avê - per nos honra
-et nos Deos!**
+et nos Theos!**
 
-**In Deos, in fides, prevalecimus
+**In Theos, in fides, prevalecimus
 et hostes mortis sun!
 Vá per destinum
 Mors, nos duc iter**
@@ -851,5 +851,5 @@ Em Deus, na fé, prevalecemos
 e os inimigos morrerão
 Avante para o destino
 Morte, guie nosso caminho
-49. **La sed evolucion tum non pragma res'as Deos, angelis, alms etc.** - Mas a evolução então não explica coisas como Deus, anjos, almas, etc.
-50. **"Essencialis es haber matere ad si pruvi."** - "É necessário ter materialidade para se comprovar algo."
+49. **La sed evolucion tum non pragma res'as Theos, angelis, alms etc.** - Mas a evolução então não explica coisas como Deus, anjos, almas, etc.
+50. **Essencialis es haber matere ad si pruvi.** - É necessário ter materialidade para se comprovar algo.
