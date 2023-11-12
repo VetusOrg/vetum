@@ -1,6 +1,6 @@
 ## Introdução
 
-O Vetum é uma interlíngua (ConLang) projetada para facilitar a comunicação internacional, proporcionando uma linguagem expressiva e um vocabulário rico. Baseado no latim e em idiomas indo-europeias, o Vetum também incorpora acentuação gráfica para indicar entonação e facilitar a ortografia fonética. Esta documentação detalha os principais aspectos gramaticais e léxicos do Vetum.
+O Vetum é uma interlíngua (ConLang) projetada para facilitar a comunicação internacional, proporcionando uma linguagem expressiva e um vocabulário rico. Baseado no latim e em idiomas indo-europeias. Esta documentação detalha os principais aspectos gramaticais e léxicos do Vetum.
 
 ## Fonética (WIP)
 
