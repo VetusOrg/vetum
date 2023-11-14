@@ -343,12 +343,12 @@ WIP -> Work In Progress
 
 #### Músicas
 
-**Avanti, quid iste destinum
+Avanti, quid iste destinum
 la victoria expecta!
 Salve - per nostre honor
-et nostre Theos!**
+et nostre Theos!
 
-**In Theos, in fides, prevalescemus
+In Theos, in fides, prevalescemus
 et inimicos moriemus!
 Avanti per le destinum
 Morte, guide nostre via
