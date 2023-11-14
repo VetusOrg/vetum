@@ -18,11 +18,11 @@ O Vetum é uma interlíngua (ConLang) projetada para facilitar a comunicação i
 2. **Consoantes**:
 
 - **B** - [b] - Como em "bom".
-- **C** - [k] - Como em "casa" (antes de 'a', 'o', 'u') e [s] - Como em "ciência" (antes de 'e', 'i').
+- **C** - [k] - Como em "casa".
 - **D** - [d] - Como em "dedo".
 - **F** - [f] - Como em "falar".
-- **G** - [g] - Como em "grande" (antes de 'a', 'o', 'u') e [ʤ] - Como em "gente" (antes de 'e', 'i').
-- **H** - [h] - Como em "hoje" (mudo, menos em `ph`).
+- **G** - [g] - Como em "grande".
+- **H** - [h] - Como em "hoje" (mudo).
 - **L** - [l] - Como em "lua".
 - **M** - [m] - Como em "mãe".
 - **N** - [n] - Como em "nós".
@@ -57,19 +57,21 @@ Os substantivos são palavras que nomeiam objetos, conceitos, lugares, entre out
 
 - **Lo (Masculino)** - O
 - **La (Feminino)** - A
-- **Lu (Neutro)** - O / A
+- **Le (Neutro)** - O / A
+
 - **Los (Masculino plural)** - Os
 - **Las (Feminino plural)** - As
-- **Lus (Neutro)** - Os / As
+- **Les (Neutro)** - Os / As
 
 **Artigos Indefinidos:**
 
 - **Un (Masculino Singular)** - Um
 - **Una (Feminino Singular)** - Uma
-- **Unu (Neutro Singular)** - Um / Uma
+- **Une (Neutro Singular)** - Um / Uma
+
 - **Unos (Masculino Plural)** - Uns
 - **Unas (Feminino Plural)** - Umas
-- **Unus (Neutro Plural)** - Uns / Umas
+- **Unes (Neutro Plural)** - Uns / Umas
 
 ### Adjetivos
 
@@ -118,12 +120,9 @@ Os adjetivos e pronomes concordam em gênero e número com os substantivos a que
 
 Os pronomes pessoais são palavras usadas para substituir nomes, indicando quem está realizando a ação ou a quem a ação é direcionada. Em Vetum, eles são diretos e de fácil compreensão.
 
-- **Mi** - Eu
-- **Tu** - Você (informal)
-- **Lo/La/Lu** - Ele/Ela
-- **Nos** - Nós
-- **Vos** - Vocês
-- **Les** - Eles / Elas
+- **Io** - Eu
+- **Tu** - Você
+- **Ille / Ella / Lui** - Ele/Ela
 
 ## Pronomes Possessivos
 
@@ -131,10 +130,7 @@ Os pronomes possessivos indicam a posse de algo e são utilizados para indicar a
 
 - **Mi** - Meu / Minha
 - **Tu** - Teu / Tua
-- **Su** - Seu / Sua (formal)
-- **Nos** - Nosso / Nossa
-- **Vos** - Vosso / Vossa
-- **Les** - Seus / Suas (deles / delas)
+- **Su** - Seu / Sua
 
 ## Pronomes Demonstrativos
 
@@ -142,37 +138,37 @@ Os pronomes demonstrativos indicam a proximidade ou distância em relação ao f
 
 - **Iste** - Este / Esta (próximo ao falante)
 - **Ille** - Aquele / Aquela (mais distante do falante)
-- **Istes** - Estes / Estas (próximos ao falante)
-- **Illes** - Aqueles / Aquelas (mais distantes do falante)
 
 ## Pronomes Reflexivos
 
-Os pronomes reflexivos são utilizados quando o sujeito e o objeto da ação são a mesma pessoa ou coisa.
+Os pronomes reflexivos são utilizados quando o sujeito e o objeto da ação são a mesma pessoa ou coisa. Em vez de usar um pronome reflexivo separado, a Vetum usa um pronome pessoal seguido do pronome reflexivo "se".
 
-- **Mesme** - Eu mesmo / Eu mesma
-- **Tesme** - Você mesmo / Você mesma
-- **Lesme** - Ele mesmo / Ela mesma
-- **Nosmesme** - Nós mesmos / Nós mesmas
-- **Vosmesme** - Vocês mesmos / Vocês mesmas
-- **Lesme** - Eles mesmos / Elas mesmas
+- **Io me lavo.** - Eu me lavo.
+- **Tu te lavas.** - Você se lava.
+- **Ille se lava.** - Ele se lava.
+- **Ella se lava.** - Ela se lava.
+- **Lui se lava.** - El(e) se lava.
+
+Em alguns casos, o pronome reflexivo "se" pode ser omitido. Isso ocorre quando o pronome pessoal é claro do contexto.
+
+- **Io lava me.** -  Eu me lavo.
+- **Tu lava te.** - Você se lava.
+
+Os pronomes reflexivos também podem ser usados para indicar que a ação do verbo é feita para o próprio sujeito.
+
+- **Io me lava le manos.** - Eu lavo as minhas mãos.
+- **Tu te lava le capillus.** - Você lava o seu cabelo.
 
 ## Pronomes Interrogativos
 
 Os pronomes interrogativos são utilizados para fazer perguntas, buscando informações específicas.
 
-- **Chi** - Quem
-- **Che** - Que
+- **Qui** - Quem
+- **Que** - Que
 - **Ubi** - Onde
 - **Cum** - Quando
 - **Quer** - Por que / Por quê
-- **As** - Como
-
-## Pronomes de Tratamento
-
-Os pronomes de tratamento são usados para indicar formalidade ou respeito em situações específicas.
-
-- **Vosso (Formal)** - Seu / Sua (formal)
-- **Vi mem (Formal Reflexivo)** - A si mesmo / A si mesma (formal)
+- **Como** - Como
 
 ## Preposições Comuns
 
@@ -185,13 +181,13 @@ As preposições são palavras que estabelecem relações entre os termos de uma
 - **Inter** - Entre
 - **Ad** - Para
 - **Con** - Com
-- **Pro** - Através
+- **Pro** - Através / A favor
 - **Per** - Por
 - **Post** - Depois de
 - **Ante** - Antes de
 - **Propter** - Devido a
 - **Circa** - Cerca de
-- **Del** - Do/Da/De
+- **Del** - Do / Da / De
 
 ## Conjunções
 
@@ -200,17 +196,22 @@ As conjunções são palavras que ligam elementos da frase, como palavras, oraç
 - **Et** - E
 - **Es** - É
 - **Or** - Ou
-- **Sed** - Mas
+- **Ma** - Mas
+- **Si** - Se
+- **Ubi** - Onde
 - **Quia** - Porque
+- **Quod** - Que
+- **Qualque** - Qualquer
 
 ## Advérbios de Tempo
 
 Os advérbios de tempo são palavras que indicam quando uma ação ocorre, fornecendo informações sobre o contexto temporal.
 
-- **Nunc** - Agora
+- **Adesso** - Agora
 - **Tum** - Então
 - **Semper** - Sempre
 - **Hodie** - Hoje
+- **Mai** - Nunca
 
 ### Verbos
 
@@ -229,48 +230,127 @@ Primeiro, identifique o verbo na forma infinitiva (a forma base do verbo, como "
 Decida quem está realizando a ação (pessoa) e se é singular ou plural (número).
 
 - **Pessoa Singular:**
-  - Mi - Eu
-  - Tu - Você (informal)
-  - Lo/La/Lu - Ele / Ela
+  - Io - Eu
+  - Tu - Você
+  - Ille / illa / Lui - Ele / Ela
 
 - **Pessoa Plural:**
   - Nos - Nós
   - Vos - Vocês
-  - Les - Eles / Elas
+  - Loro - Eles / Elas
+
+Algumas explicações:
+
+Os pronomes pessoais de terceira pessoa em Vetum têm três formas:
+
+- **Lui** - forma geral
+- **Ille** - forma masculina
+- **Illa** - forma feminina
+
+A forma "Lui" é usada quando o gênero da pessoa ou coisa a que se refere é desconhecido ou irrelevante. A forma "Ille" é usada quando o gênero da pessoa ou coisa a que se refere é masculino. A forma "Illa" é usada quando o gênero da pessoa ou coisa a que se refere é feminino.
+
+- **Le libro lui es nuevo.** (O livro dele é novo.) - o gênero do livro é desconhecido
+- **Le domus ille es magnus.** (A casa dele é grande.) - o gênero da casa é irrelevante, mas a pessoa que fala sabe que a casa pertence a um homem
+- **Le canis illa es blanc.** (O cachorro dela é branco.) - o gênero do cachorro é irrelevante, mas a pessoa que fala sabe que o cachorro pertence a uma mulher
 
 #### Passo 3: Escolher o Tempo e o Modo
 
 Escolha o tempo verbal (presente, passado, futuro) e o modo (indicativo, subjuntivo, imperativo, etc.) de acordo com o contexto da frase.
 
+- **Pessoa:** os verbos em Vetum têm três pessoas: primeira, segunda e terceira. Para indicar a pessoa, usamos os seguintes sufixos:
+
+    - **1ª pessoa:** **-o**
+    - **2ª pessoa:** **-i**
+    - **3ª pessoa:** **-a**
+
+Por exemplo, o verbo "parlare" (falar) na primeira pessoa do singular é "parlo" (eu falo), na segunda pessoa do singular é "parli" (tu falas), e na terceira pessoa do singular é "parla" (ele/ela fala).
+
+- **Número:** os verbos em interlingua têm dois números: singular e plural. Para indicar o número, usamos os seguintes sufixos:
+
+    - **Singular:** nenhum sufixo
+    - **Plural:** **-n**
+
+Por exemplo, o verbo "parlare" (falar) na primeira pessoa do singular é "parlo", e na primeira pessoa do plural é "parliamo" (nós falamos).
+
+- **Tempo:** os verbos em Vetum têm quatro tempos: presente, passado, futuro e imperfeito. Para indicar o tempo, usamos os seguintes sufixos:
+
+    - **Presente:** nenhum sufixo
+    - **Passado:** **-i**
+    - **Futuro:** **-à**
+    - **Imperfeito:** **-ava**
+
+Por exemplo, o verbo "parlare" (falar) no presente é "parlo", no passado é "parlai", no futuro é "parlerò" e no imperfeito era "parlava".
+
+- **Modo:** os verbos em interlingua têm cinco modos: indicativo, subjuntivo, imperativo, condicional e infinitivo. Para indicar o modo, usamos os seguintes sufixos:
+
+    - **Indicativo:** nenhum sufixo
+    - **Subjuntivo:** **-a**
+    - **Imperativo:** **-a**
+    - **Condicional:** **-à**
+    - **Infinitivo:** nenhum sufixo
+
+Por exemplo, o verbo "parlare" (falar) no indicativo é "parlo", no subjuntivo é "parli", no imperativo é "parla", no condicional é "parlerò" e no infinitivo é "parlare".
+
 #### Passo 4: Conjugação do Verbo
 
-Aqui estão alguns exemplos de conjugação de verbos em Vetum:
+**Conjugação do verbo "parlare" em Vetum**
 
-1. **Verbo: Cognoscere (Saber)**
+**Indicativo**
 
-   - Presente do Indicativo:
-     - Mi cognosce - Eu sei
-     - Tu cognosces - Você sabe
-     - Lo/La/Lu cognoscet - Ele/Ela sabe
-     - Nos cognoscimus - Nós sabemos
-     - Vos cognoscitis - Vocês sabem
-     - Les cognoscent - Eles/Elas sabem
+| Modo | Pessoa | Singular | Plural |
+|---|---|---|---|
+| **Presente** | io parlo | nos parliamo | tu parli | voi parlate | lui/lei parla | loro parlano |
+| **Passado** | io parlai | nos parlammo | tu parlasti | voi parlaste | lui/lei parlò | loro parlarono |
+| **Futuro** | io parlerò | nos parleremo | tu parlerai | voi parlerete | lui/lei parlerà | loro parleranno |
+| **Imperfeito** | io parlavo | nos parlavamo | tu parlavi | voi parlavate | lui/lei parlava | loro parlavano |
 
-   - Pretérito Perfeito do Indicativo:
-     - Mi cognovi - Eu soube
-     - Tu cognovis - Você soube
-     - Lo/La/Lu cognovit - Ele/Ela soube
-     - Nos cognovimus - Nós soubemos
-     - Vos cognovitis - Vocês souberam
-     - Les cognoverunt - Eles/Elas souberam
+**Subjuntivo**
 
-   - Futuro do Indicativo:
-     - Mi cognosceré - Eu saberei
-     - Tu cognosceres - Você saberá
-     - Lo/La/Lu cognoscet - Ele/Ela saberá
-     - Nos cognoscemus - Nós saberemos
-     - Vos cognoscetis - Vocês saberão
-     - Les cognoscerent - Eles/Elas saberão
+| Modo | Pessoa | Singular | Plural |
+|---|---|---|---|
+| **Presente** | io parli | nos parliamo | tu parli | voi parliate | lui/lei parli | loro parlino |
+| **Passado** | io parlassi | nos parlassimo | tu parlassi | voi parlaste | lui/lei parlasse | loro parlassero |
+| **Futuro** | io parlerei | nos parleremmo | tu parleresti | voi parlereste | lui/lei parlerebbe | loro parlerebbero |
+| **Imperfeito** | io parlassi | nos parlassimo | tu parlassi | voi parlaste | lui/lei parlasse | loro parlassero |
+
+**Imperativo**
+
+| Modo | Pessoa | Singular | Plural |
+|---|---|---|---|
+| **Afirmativo** | parla | parliamo | parlate | parlino |
+| **Negativo** | non parlare | non parliamo | non parlate | non parlino |
+
+**Condicional**
+
+| Modo | Pessoa | Singular | Plural |
+|---|---|---|---|
+| **Presente** | io parlerei | nos parleremmo | tu parleresti | voi parlereste | lui/lei parlerebbe | loro parlerebbero |
+| **Passado** | io avrei parlato | nos avremmo parlato | tu avresti parlato | voi avreste parlato | lui/lei avrebbe parlato | loro avrebbero parlato |
+
+**Infinito**
+
+| Modo | Pessoa | Singular | Plural |
+|---|---|---|---|
+| parlare | parlare | parlare | parlare |
+
+**Participio Presente**
+
+| Modo | Pessoa | Singular | Plural |
+|---|---|---|---|
+| parlando | parlando | parlando | parlando |
+
+**Participio Passado**
+
+| Modo | Pessoa | Singular | Plural |
+|---|---|---|---|
+| parlato | parlato | parlato | parlato |
+
+- **Io parlo italiane.** (Eu falo italiano.)
+- **Tu parli inglese?** (Tu falas inglês?)
+- **Ille parla francese.** (Ele fala francês.)
+- **Nos parliamo spagnolo.** (Nós falamos espanhol.)
+- **Vos parlate tedesco?** (Vocês falam alemão?)
+- **Loro parlano russe.** (Eles falam russo.)
 
 ## Sintaxe
 
