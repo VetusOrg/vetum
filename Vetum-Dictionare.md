@@ -338,7 +338,11 @@ WIP -> Work In Progress
 45. **Nucleares fission constat in mergir duos atomus.** - Fusão nuclear consiste em fundir dois átomos.
 46. **La lume mova aprocimantament in duocenti nonaginta novem milhones, septingenti nongenti duos millia, quadringentesimo quinquagesimo quinquaginta métris per secund.** - A luz se move a aproximadamente duzentos e noventa e nove milhões, setecentos e noventa e dois mil, quatrocentos e cinquenta e oito metros por segundo.
 47. **La serenitate del sapient non es disturbate per le medo del morte, proque tote mal e tote ben se trova in le sensation, et le morte es le absentia de sensibilitate, igitur, de patimento. Nos non nos incontrara con le morte, proque quando nos es, illa non es, quando illa es, nos non es plus. Epicure, autem, non defende le suicidio que ille poteva justificar con plus magnus ration que le stoicos.** - A serenidade do sábio não é perturbada pelo medo da morte, pois todo mal e todo bem se acham na sensação, e a morte é a ausência de sensibilidade, portanto, de sofrimento. Nunca nos encontraremos com a morte, porque quando nós somos, ela não é, quando ela é, nós não somos mais. Epicuro, porém, não defende o **suicídio** que poderia justificar com maior razão do que os estoicos.
-48.
+49. **Le evolucion non pragma como Theos, angelis, alms etc.** - Mas a evolução então não explica coisas como Deus, anjos, almas, etc.
+50. **Es necessari haber materialitate pre pruvi qualque cosa.** - É necessário ter materialidade para se comprovar algo.
+
+#### Músicas
+
 **Avanti, quid iste destinum
 la victoria expecta!
 Salve - per nostre honor
@@ -347,8 +351,10 @@ et nostre Theos!**
 **In Theos, in fides, prevalescemus
 et inimicos moriemus!
 Avanti per le destinum
-Morte, guide nostre via**
--
+Morte, guide nostre via
+
+---
+
 Avante, aqui está o destino
 a vitória espera
 Salve - pela nossa honra
@@ -358,5 +364,3 @@ Em Deus, na fé, prevalecemos
 e os inimigos morrerão
 Avante para o destino
 Morte, guie nosso caminho
-49. **Le evolucion non pragma como Theos, angelis, alms etc.** - Mas a evolução então não explica coisas como Deus, anjos, almas, etc.
-50. **Es necessari haber materialitate pre pruvi qualque cosa.** - É necessário ter materialidade para se comprovar algo.

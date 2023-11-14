@@ -299,19 +299,19 @@ Por exemplo, o verbo "parlare" (falar) no indicativo é "parlo", no subjuntivo �
 
 | Modo | Pessoa | Singular | Plural |
 |---|---|---|---|
-| **Presente** | io parlo | nos parliamo | tu parli | voi parlate | lui/lei parla | loro parlano |
-| **Passado** | io parlai | nos parlammo | tu parlasti | voi parlaste | lui/lei parlò | loro parlarono |
-| **Futuro** | io parlerò | nos parleremo | tu parlerai | voi parlerete | lui/lei parlerà | loro parleranno |
-| **Imperfeito** | io parlavo | nos parlavamo | tu parlavi | voi parlavate | lui/lei parlava | loro parlavano |
+| **Presente** | io parlo | nos parliamo | tu parli | vos parlate | ille parla | loro parlano |
+| **Passado** | io parlai | nos parlammo | tu parlasti | vos parlaste | ille parlò | loro parlarono |
+| **Futuro** | io parlerò | nos parleremo | tu parlerai | vos parlerete | ille parlerà | loro parleranno |
+| **Imperfeito** | io parlavo | nos parlavamo | tu parlavi | vos parlavate | ille parlava | loro parlavano |
 
 **Subjuntivo**
 
 | Modo | Pessoa | Singular | Plural |
 |---|---|---|---|
-| **Presente** | io parli | nos parliamo | tu parli | voi parliate | lui/lei parli | loro parlino |
-| **Passado** | io parlassi | nos parlassimo | tu parlassi | voi parlaste | lui/lei parlasse | loro parlassero |
-| **Futuro** | io parlerei | nos parleremmo | tu parleresti | voi parlereste | lui/lei parlerebbe | loro parlerebbero |
-| **Imperfeito** | io parlassi | nos parlassimo | tu parlassi | voi parlaste | lui/lei parlasse | loro parlassero |
+| **Presente** | io parli | nos parliamo | tu parli | vos parliate | ille parli | loro parlino |
+| **Passado** | io parlassi | nos parlassimo | tu parlassi | vos parlaste | ille parlasse | loro parlassero |
+| **Futuro** | io parlerei | nos parleremmo | tu parleresti | vos parlereste | ille parlerebbe | loro parlerebbero |
+| **Imperfeito** | io parlassi | nos parlassimo | tu parlassi | vos parlaste | ille parlasse | loro parlassero |
 
 **Imperativo**
 
@@ -324,8 +324,8 @@ Por exemplo, o verbo "parlare" (falar) no indicativo é "parlo", no subjuntivo �
 
 | Modo | Pessoa | Singular | Plural |
 |---|---|---|---|
-| **Presente** | io parlerei | nos parleremmo | tu parleresti | voi parlereste | lui/lei parlerebbe | loro parlerebbero |
-| **Passado** | io avrei parlato | nos avremmo parlato | tu avresti parlato | voi avreste parlato | lui/lei avrebbe parlato | loro avrebbero parlato |
+| **Presente** | io parlerei | nos parleremmo | tu parleresti | vos parlereste | ille parlerebbe | loro parlerebbero |
+| **Passado** | io avrei parlato | nos avremmo parlato | tu avresti parlato | vos avreste parlato | ille avrebbe parlato | loro avrebbero parlato |
 
 **Infinito**
 
