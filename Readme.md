@@ -1,42 +1,100 @@
 ## Introdução
 
-O Vetum é uma interlíngua (ConLang) projetada para facilitar a comunicação internacional, proporcionando uma linguagem expressiva e um vocabulário rico. Baseado no latim e em idiomas indo-europeias. Esta documentação detalha os principais aspectos gramaticais e léxicos do Vetum.
+O Vetum é uma interlíngua (ConLang) projetada para facilitar a comunicação internacional, proporcionando uma linguagem expressiva e um vocabulário rico. Baseado no latim e em línguas indo-europeias, esta documentação detalha os principais aspectos gramaticais e léxicos de Vetum.
 
 ## Fonética (WIP)
 
-### Sons
+**Fonética de Vetum**
 
-1. **Vogais**:
+A Vetum é uma conlang internacional baseada em elementos comuns das línguas românicas, germânicas e eslavas. A sua fonética é relativamente simples, com apenas 23 sons consonantais e 5 sons vocálicos.
 
-- **A** - [a] - Como em "casa".
-- **E** - [ɛ] - Como em "médio".
-- **I** - [i] - Como em "ciência".
-- **O** - [o] - Como em "computador".
-- **U** - [u] - Como em "lua".
-- **Y** - [ʏ] - Como em "música" (som entre 'u' e 'i').
+**Consoantes**
 
-2. **Consoantes**:
+Os sons consonantais em Vetum são os seguintes:
 
-- **B** - [b] - Como em "bom".
-- **C** - [k] - Como em "casa".
-- **D** - [d] - Como em "dedo".
-- **F** - [f] - Como em "falar".
-- **G** - [g] - Como em "grande".
-- **H** - [h] - Como em "hoje" (mudo).
-- **L** - [l] - Como em "lua".
-- **M** - [m] - Como em "mãe".
-- **N** - [n] - Como em "nós".
-- **P** - [p] - Como em "pão".
-- **R** - [ɾ] - Som de "r" em "caro" ou "bravo".
-- **S** - [s] - Como em "sol".
-- **T** - [t] - Como em "tudo".
-- **V** - [v] - Como em "vida".
-- **Z** - [z] - Como em "zoo".
+| Fonema | Símbolo | Pronúncia | Exemplo |
+|---|---|---|---|
+| /p/ | p | p | patre |
+| /t/ | t | t | tata |
+| /k/ | k | k | casa |
+| /b/ | b | b | babuino |
+| /d/ | d | d | dia |
+| /g/ | g | g | gato |
+| /f/ | f | f | filio |
+| /v/ | v | v | velo |
+| /s/ | s | s | sol |
+| /z/ | z | z | zeta |
+| /ʃ/ | ʃ | ch | silva |
+| /ʒ/ | ʒ | j | julgo |
+| /tʃ/ | tʃ | ch | tcheco |
+| /dʒ/ | dʒ | j | gelado |
+| /m/ | m | m | mare |
+| /n/ | n | n | nomine |
+| /ɲ/ | ɲ | ny | nio |
+| /l/ | l | l | libro |
+| /r/ | r | r | rosa |
+| /j/ | j | y | io |
 
-3. **Dígrafos**:
+**Vogais**
 
-- **Ch** - [ʧ] - Como em "chave".
-- **Ph** - [f] - Como em "filosofia".
+Os sons vocálicos em Vetum são os seguintes:
+
+| Fonema | Símbolo | Pronúncia | Exemplo |
+|---|---|---|---|
+| /a/ | a | a | amare |
+| /e/ | e | e | edere |
+| /i/ | i | i | imitar |
+| /o/ | o | o | oleo |
+| /u/ | u | u | umbra |
+
+**Acentuação**
+
+A acentuação em Vetum é tônica, ou seja, a sílaba tônica de uma palavra é a sílaba com a maior intensidade de som. A sílaba tônica é geralmente a última sílaba da palavra, mas pode também ser a penúltima ou a antepenúltima sílaba.
+
+**Exemplos**
+
+| Palavra | Acentuação | Pronúncia |
+|---|---|---|
+| casa | penúltima sílaba | /'kasa/ |
+| libro | última sílaba | /'libro/ |
+| amore | antepenúltima sílaba | /a'more/ |
+
+**Ditongos**
+
+Vetum tem dois ditongos:
+
+| Ditongo | Símbolo | Pronúncia | Exemplo |
+|---|---|---|---|
+| /ei/ | ei | ai | meio |
+| /ou/ | ou | ou | outro |
+
+**Tritongos**
+
+Vetum tem um tritongo:
+
+| Tritongo | Símbolo | Pronúncia | Exemplo |
+|---|---|---|---|
+| /iau/ | iau | au | diau |
+
+**Harmonia vocálica**
+
+A harmonia vocálica é uma característica da fonética de Vetum que consiste na correspondência entre as vogais de uma palavra. Na maioria dos casos, as vogais de uma palavra devem ser iguais ou semelhantes.
+
+**Exemplos**
+
+| Palavra | Harmonia vocálica | Pronúncia |
+|---|---|---|
+| domus | sim | /ˈdɔmus/ |
+| libro | sim | /'libro/ |
+| amore | não | /a'more/ |
+| fonte | não | /'fonte/ |
+
+**Notas**
+
+* A letra "h" é muda em Vetum.
+* As letras "c" e "g" antes de "e" e "i" são pronunciadas como [tʃ] e [dʒ], respectivamente.
+* A letra "x" é pronunciada como [ʃ] antes de "e" e "i", e como [ks] antes de "a", "o" e "u".
+* A letra "y" é pronunciada como [i] antes de "a", "o" e "u", e como [j] antes de "e" e "i".
 
 ## Léxico (WIP)
 
@@ -46,10 +104,40 @@ Os substantivos são palavras que nomeiam objetos, conceitos, lugares, entre out
 
 - **Scientia (Feminino)** - Ciência
 - **Domus (Neutro)** - Casa
-- **Computation (Neutro)** - Computador
-- **Planet (Masculino)** - Planeta
+- **Computator (Neutro)** - Computador
+- **Planeta (Feminino)** - Planeta
 - **Mathematica (Feminino)** - Matemática
-- **Astrum (Neutro)** - Estrela
+- **Stellar (Feminino)** - Estrela
+- **Astere (Neutro)** - Astro, estrela
+
+### Adjetivos
+
+Os adjetivos descrevem características ou qualidades dos substantivos. Assim como os substantivos, os adjetivos concordam em gênero e número com os substantivos que modificam. Por exemplo, "Grande" significa "Grande" e concorda em gênero e número com o substantivo que acompanha.
+
+- **Grande (Neutro)** - Grande
+- **Rapide (Neutro)** - Rápido
+- **Scientific (Neutro)** - Científico
+- **Astral (Feminino)** - Astral
+- **Logic (Neutro)** - Lógico
+
+### Verbos
+
+Os verbos indicam ações, estados ou processos. Eles são conjugados de acordo com a pessoa, número, tempo e modo. Além dos verbos regulares, existem também os verbos modais como "Poter" (Poder) e "Deber" (Dever), que expressam diferentes nuances de possibilidade, necessidade e permissão.
+
+- **Saper** - Saber
+- **Crear** - Criar
+- **Investigar** - Investigar
+- **Poter** - Poder (Verbo Modal)
+- **Deber** - Dever (Verbo Modal)
+- **Programmar** - Programar
+- **Communicar** - Comunicar
+
+### Advérbios
+
+Os advérbios modificam verbos, adjetivos ou outros advérbios e indicam circunstâncias como tempo, lugar, modo, entre outros. Por exemplo, "Scientifice" significa "Cientificamente" e fornece informação sobre como uma ação é realizada.
+
+- **Scientifice** - Cientificamente
+- **Bene** - Bem
 
 ### Artigos
 
@@ -73,35 +161,6 @@ Os substantivos são palavras que nomeiam objetos, conceitos, lugares, entre out
 - **Unas (Feminino Plural)** - Umas
 - **Unes (Neutro Plural)** - Uns / Umas
 
-### Adjetivos
-
-Os adjetivos descrevem características ou qualidades dos substantivos. Assim como os substantivos, os adjetivos concordam em gênero e número com os substantivos que modificam. Por exemplo, "Magnus" significa "Grande" e concorda em gênero e número com o substantivo que acompanha.
-
-- **Magnus (Masculino)** - Grande
-- **Rapidus (Masculino)** - Rápido
-- **Scientificus (Neutro)** - Científico
-- **Astrales (Feminino)** - Astral
-- **Logicus (Masculino)** - Lógico
-
-### Verbos
-
-Os verbos indicam ações, estados ou processos. Eles são conjugados de acordo com a pessoa, número, tempo e modo. Além dos verbos regulares, existem também os verbos modais como "Posse" (Poder) e "Debere" (Dever), que expressam diferentes nuances de possibilidade, necessidade e permissão.
-
-- **Cognoscere** - Saber
-- **Creare** - Criar
-- **Investigare** - Investigar
-- **Posse** - Poder (Verbo Modal)
-- **Debere** - Dever (Verbo Modal)
-- **Programmare** - Programar
-- **Comunicare** - Comunicar
-
-### Advérbios
-
-Os advérbios modificam verbos, adjetivos ou outros advérbios e indicam circunstâncias como tempo, lugar, modo, entre outros. Por exemplo, "Scientifice" significa "Cientificamente" e fornece informação sobre como uma ação é realizada.
-
-- **Scientifice** - Cientificamente
-- **Bene** - Bem
-
 ## Gramática (WIP)
 
 ### Gênero e Número
@@ -111,6 +170,45 @@ O Vetum possui três gêneros gramaticais - masculino, feminino e neutro. Os sub
 ### Declinações
 
 Os substantivos, adjetivos e pronomes no Vetum sofrem flexões de acordo com seu gênero, número e função na frase. Essas flexões podem alterar a terminação da palavra para indicar sua função na frase.
+
+#### Substantivos:
+
+Os substantivos em Vetum têm poucas variações de acordo com o número. Geralmente, a forma plural é indicada pelo acréscimo de "-s" ao substantivo singular.
+
+- **Singular:** _scientia_ (ciência)
+- **Plural:** _scientias_ (ciências)
+
+#### Adjetivos:
+
+Os adjetivos em Vetum concordam com os substantivos em número e, algumas vezes, em gênero.
+
+- **Singular Masculino:** _bon_ (bom)
+- **Singular Feminino:** _bona_ (boa)
+- **Plural Masculino e Feminino:** _bones_ (bons)
+
+#### Verbos:
+
+Os verbos em Vetum são relativamente simples, não sofrendo flexões por pessoa. A conjugação dos verbos não varia, sendo igual para todas as pessoas do singular e do plural.
+
+- **Verbo:** _lavar_ (lavar)
+    - **Presente do Indicativo:**
+        - _Io lava_ (Eu lavo)
+        - _Tu lava_ (Você lava)
+        - _Illo / Illa / Illes lava_ (Ele/Ela lava)
+        - _Nos lava_ (Nós lavamos)
+        - _Vos lava_ (Vós lavais)
+        - _Illos / Illas / Illes lava_ (Eles/Elas lavam)
+
+#### Pronomes:
+
+Os pronomes pessoais têm formas específicas para cada pessoa gramatical, mas não variam por caso ou função.
+
+- **Nominativo (Caso Reto):**
+	- Singular: _io_ (eu), _tu_ (tu, você), _illo_ (ele), _illa_ (ela)
+	- Plural: _nos_ (nós), _vos_ (vós, vocês), _illes_ (eles, elas)
+- **Objetivo (Caso Oblíquo):**
+	- Singular: _me_ (me, mim), _te_ (te, você), _lo_ (o, ele), _la_ (a, ela)
+	- Plural: _nos_ (nos, nós), _les_ (os, eles, elas)
 
 ### Concordância de Gênero
 
@@ -122,7 +220,7 @@ Os pronomes pessoais são palavras usadas para substituir nomes, indicando quem 
 
 - **Io** - Eu
 - **Tu** - Você
-- **Ille / Ella / Lui** - Ele/Ela
+- **Illo / Illa / Ille** - Ele/Ela
 
 ## Pronomes Possessivos
 
@@ -136,28 +234,45 @@ Os pronomes possessivos indicam a posse de algo e são utilizados para indicar a
 
 Os pronomes demonstrativos indicam a proximidade ou distância em relação ao falante, facilitando a identificação de objetos ou conceitos no contexto da conversa.
 
-- **Iste** - Este / Esta (próximo ao falante)
-- **Ille** - Aquele / Aquela (mais distante do falante)
+- **Pronomes Demonstrativos de Distância Próxima:**
+    - **Singular:** _iste_ (este, esta)
+    - **Plural:** _istes_ (estes, estas)
+- **Pronomes Demonstrativos de Distância Média:**
+    - **Singular:** _ille_ (esse, essa)
+    - **Plural:** _illes_ (esses, essas)
+- **Pronomes Demonstrativos de Distância Longínqua:**
+    - **Singular:** _il_ (aquele, aquela)
+    - **Plural:** _illes_ (aqueles, aquelas)
 
 ## Pronomes Reflexivos
 
-Os pronomes reflexivos são utilizados quando o sujeito e o objeto da ação são a mesma pessoa ou coisa. Em vez de usar um pronome reflexivo separado, a Vetum usa um pronome pessoal seguido do pronome reflexivo "se".
+Os pronomes reflexivos são utilizados quando o sujeito e o objeto da ação são a mesma pessoa ou coisa.
 
-- **Io me lavo.** - Eu me lavo.
-- **Tu te lavas.** - Você se lava.
-- **Ille se lava.** - Ele se lava.
-- **Ella se lava.** - Ela se lava.
-- **Lui se lava.** - El(e) se lava.
+- **Singular:**
+    - **1ª pessoa:** _me_ (a mim mesmo/a mesma)
+    - **2ª pessoa:** _te_ (a ti mesmo/a mesma)
+    - **3ª pessoa:**
+        - **Masculino:** _se_ (a si mesmo)
+        - **Feminino:** _se_ (a si mesma)
 
-Em alguns casos, o pronome reflexivo "se" pode ser omitido. Isso ocorre quando o pronome pessoal é claro do contexto.
+- **Plural:**
+    - **1ª pessoa:** _nos_ (a nós mesmos/as mesmas)
+    - **2ª pessoa:** _vos_ (a vós mesmos/as mesmas)
+    - **3ª pessoa:**
+        - **Masculino**: _los_ (a si mesmos)
+        - **Feminino:** _las_ (a si mesmas)
+        - **Neutro** _les_ (a si mesmos(as))
 
-- **Io lava me.** -  Eu me lavo.
+- **Io lavo me.** - Eu me lavo.
 - **Tu lava te.** - Você se lava.
+- **Illo lava se.** - Ele se lava.
+- **Illa lava se.** - Ela se lava.
+- **Ille lava se.** - El(e) se lava.
 
 Os pronomes reflexivos também podem ser usados para indicar que a ação do verbo é feita para o próprio sujeito.
 
-- **Io me lava le manos.** - Eu lavo as minhas mãos.
-- **Tu te lava le capillus.** - Você lava o seu cabelo.
+- **Io lava mi manos.** - Eu lavo as minhas mãos.
+- **Tu lava tu capillo.** - Você lava o seu cabelo.
 
 ## Pronomes Interrogativos
 
@@ -165,9 +280,11 @@ Os pronomes interrogativos são utilizados para fazer perguntas, buscando inform
 
 - **Qui** - Quem
 - **Que** - Que
+- **Quo** - O que
 - **Ubi** - Onde
-- **Cum** - Quando
-- **Quer** - Por que / Por quê
+- **Quanto** - Quando
+- **Per que** - Por que
+- **Pro que** - Para que
 - **Como** - Como
 
 ## Preposições Comuns
@@ -195,23 +312,22 @@ As conjunções são palavras que ligam elementos da frase, como palavras, oraç
 
 - **Et** - E
 - **Es** - É
-- **Or** - Ou
+- **Ou** - Ou
 - **Ma** - Mas
-- **Si** - Se
-- **Ubi** - Onde
-- **Quia** - Porque
-- **Quod** - Que
-- **Qualque** - Qualquer
+- **Se** - Se
+- **Perque** - Porque
+- **Que** - Que
+- **Qualcunque** - Qualquer
 
 ## Advérbios de Tempo
 
 Os advérbios de tempo são palavras que indicam quando uma ação ocorre, fornecendo informações sobre o contexto temporal.
 
-- **Adesso** - Agora
-- **Tum** - Então
+- **Nunc** - Agora
+- **Alora** - Então
 - **Semper** - Sempre
 - **Hodie** - Hoje
-- **Mai** - Nunca
+- **Nunquam** - Nunca
 
 ### Verbos
 
@@ -232,234 +348,90 @@ Decida quem está realizando a ação (pessoa) e se é singular ou plural (núme
 - **Pessoa Singular:**
   - Io - Eu
   - Tu - Você
-  - Ille / illa / Lui - Ele / Ela
+  - Illo / Illa / Ille - Ele / Ela
 
 - **Pessoa Plural:**
   - Nos - Nós
   - Vos - Vocês
-  - Loro - Eles / Elas
+  - Illes - Eles / Elas
 
 Algumas explicações:
 
 Os pronomes pessoais de terceira pessoa em Vetum têm três formas:
 
-- **Lui** - forma geral
-- **Ille** - forma masculina
+- **Ille** - forma geral
+- **Illo** - forma masculina
 - **Illa** - forma feminina
 
-A forma "Lui" é usada quando o gênero da pessoa ou coisa a que se refere é desconhecido ou irrelevante. A forma "Ille" é usada quando o gênero da pessoa ou coisa a que se refere é masculino. A forma "Illa" é usada quando o gênero da pessoa ou coisa a que se refere é feminino.
+A forma "Ille" é usada quando o gênero da pessoa ou coisa a que se refere é desconhecido ou irrelevante. A forma "Illo" é usada quando o gênero da pessoa ou coisa a que se refere é masculino. A forma "Illa" é usada quando o gênero da pessoa ou coisa a que se refere é feminino.
 
-- **Le libro lui es nuevo.** (O livro dele é novo.) - o gênero do livro é desconhecido
-- **Le domus ille es magnus.** (A casa dele é grande.) - o gênero da casa é irrelevante, mas a pessoa que fala sabe que a casa pertence a um homem
-- **Le canis illa es blanc.** (O cachorro dela é branco.) - o gênero do cachorro é irrelevante, mas a pessoa que fala sabe que o cachorro pertence a uma mulher
+- **Le libro de illo es nove.** (O livro dele é novo.) - o gênero do livro é desconhecido
+- **Le domus de illo es grande.** (A casa dele é grande.) - o gênero da casa é irrelevante, mas a pessoa que fala sabe que a casa pertence a um homem
+- **Le canis de illa es blanc.** (O cachorro dela é branco.) - o gênero do cachorro é irrelevante, mas a pessoa que fala sabe que o cachorro pertence a uma mulher
 
-#### Passo 3: Escolher o Tempo e o Modo
+#### Passo 3: Conjugação do Verbo
 
-Escolha o tempo verbal (presente, passado, futuro) e o modo (indicativo, subjuntivo, imperativo, etc.) de acordo com o contexto da frase.
+**Conjugação do verbo "parlar" em Vetum**
 
-- **Pessoa:** os verbos em Vetum têm três pessoas: primeira, segunda e terceira. Para indicar a pessoa, usamos os seguintes sufixos:
+### Indicativo:
 
-    - **1ª pessoa:** **-o**
-    - **2ª pessoa:** **-i**
-    - **3ª pessoa:** **-a**
+- **Presente:** A forma básica do verbo é usada para todas as pessoas gramaticais: _Io parla, Tu parla, Ille parla, Nos parla, Vos parla, Illes parla._
 
-Por exemplo, o verbo "parlare" (falar) na primeira pessoa do singular é "parlo" (eu falo), na segunda pessoa do singular é "parli" (tu falas), e na terceira pessoa do singular é "parla" (ele/ela fala).
+- **Passado:** O particípio passado do verbo auxiliar "ha" (ter) é usado com o verbo principal no infinitivo: _Io ha parlate, Tu ha parlate, Ille ha parlate, Nos ha parlate, Vos ha parlate, Illes ha parlate._
 
-- **Número:** os verbos em interlingua têm dois números: singular e plural. Para indicar o número, usamos os seguintes sufixos:
+### Subjuntivo:
 
-    - **Singular:** nenhum sufixo
-    - **Plural:** **-n**
+- **Presente:** A forma do presente é idêntica ao indicativo: _Que io parla, Que tu parla, Que ille parla, Que nos parla, Que vos parla, Que illes parla._
 
-Por exemplo, o verbo "parlare" (falar) na primeira pessoa do singular é "parlo", e na primeira pessoa do plural é "parliamo" (nós falamos).
+### Imperativo:
 
-- **Tempo:** os verbos em Vetum têm quatro tempos: presente, passado, futuro e imperfeito. Para indicar o tempo, usamos os seguintes sufixos:
+- A forma do presente do verbo é utilizada para dar ordens ou comandos: _Parla (Fale), Parlate (Falem)._
 
-    - **Presente:** nenhum sufixo
-    - **Passado:** **-i**
-    - **Futuro:** **-à**
-    - **Imperfeito:** **-ava**
+### Condicional:
 
-Por exemplo, o verbo "parlare" (falar) no presente é "parlo", no passado é "parlai", no futuro é "parlerò" e no imperfeito era "parlava".
+- **Condicional Simples:** O verbo auxiliar "va" (ir) + infinitivo do verbo principal: _Io va parlar, Tu va parlar, Ille va parlar, Nos va parlar, Vos va parlar, Illes va parlar._
 
-- **Modo:** os verbos em interlingua têm cinco modos: indicativo, subjuntivo, imperativo, condicional e infinitivo. Para indicar o modo, usamos os seguintes sufixos:
+### Infinitivo:
 
-    - **Indicativo:** nenhum sufixo
-    - **Subjuntivo:** **-a**
-    - **Imperativo:** **-a**
-    - **Condicional:** **-à**
-    - **Infinitivo:** nenhum sufixo
+- A forma básica do verbo, sem conjugação: _parlar (falar), vider (ver), vader (ir)._
 
-Por exemplo, o verbo "parlare" (falar) no indicativo é "parlo", no subjuntivo é "parli", no imperativo é "parla", no condicional é "parlerò" e no infinitivo é "parlare".
+### Particípio Presente e Passado:
 
-#### Passo 4: Conjugação do Verbo
+- **Particípio Presente:** Adiciona-se "-nte" ao infinitivo: _parlante (falante), vidente (vendo)._
+- **Particípio Passado:** Utiliza-se o verbo auxiliar "ha" + particípio passado do verbo principal: _ha parlante (tem falado), ha vidente (tem visto)._
 
-**Conjugação do verbo "parlare" em Vetum**
-
-**Indicativo**
-
-| Modo | Pessoa | Singular | Plural |
-|---|---|---|---|
-| **Presente** | io parlo | nos parliamo | tu parli | vos parlate | ille parla | loro parlano |
-| **Passado** | io parlai | nos parlammo | tu parlasti | vos parlaste | ille parlò | loro parlarono |
-| **Futuro** | io parlerò | nos parleremo | tu parlerai | vos parlerete | ille parlerà | loro parleranno |
-| **Imperfeito** | io parlavo | nos parlavamo | tu parlavi | vos parlavate | ille parlava | loro parlavano |
-
-**Subjuntivo**
-
-| Modo | Pessoa | Singular | Plural |
-|---|---|---|---|
-| **Presente** | io parli | nos parliamo | tu parli | vos parliate | ille parli | loro parlino |
-| **Passado** | io parlassi | nos parlassimo | tu parlassi | vos parlaste | ille parlasse | loro parlassero |
-| **Futuro** | io parlerei | nos parleremmo | tu parleresti | vos parlereste | ille parlerebbe | loro parlerebbero |
-| **Imperfeito** | io parlassi | nos parlassimo | tu parlassi | vos parlaste | ille parlasse | loro parlassero |
-
-**Imperativo**
-
-| Modo | Pessoa | Singular | Plural |
-|---|---|---|---|
-| **Afirmativo** | parla | parliamo | parlate | parlino |
-| **Negativo** | non parlare | non parliamo | non parlate | non parlino |
-
-**Condicional**
-
-| Modo | Pessoa | Singular | Plural |
-|---|---|---|---|
-| **Presente** | io parlerei | nos parleremmo | tu parleresti | vos parlereste | ille parlerebbe | loro parlerebbero |
-| **Passado** | io avrei parlato | nos avremmo parlato | tu avresti parlato | vos avreste parlato | ille avrebbe parlato | loro avrebbero parlato |
-
-**Infinito**
-
-| Modo | Pessoa | Singular | Plural |
-|---|---|---|---|
-| parlare | parlare | parlare | parlare |
-
-**Participio Presente**
-
-| Modo | Pessoa | Singular | Plural |
-|---|---|---|---|
-| parlando | parlando | parlando | parlando |
-
-**Participio Passado**
-
-| Modo | Pessoa | Singular | Plural |
-|---|---|---|---|
-| parlato | parlato | parlato | parlato |
-
-- **Io parlo italiane.** (Eu falo italiano.)
-- **Tu parli inglese?** (Tu falas inglês?)
+- **Io parla italian.** (Eu falo italiano.)
+- **Tu parla anglese?** (Tu falas inglês?)
 - **Ille parla francese.** (Ele fala francês.)
-- **Nos parliamo spagnolo.** (Nós falamos espanhol.)
-- **Vos parlate tedesco?** (Vocês falam alemão?)
-- **Loro parlano russe.** (Eles falam russo.)
+- **Nos parla espaniol.** (Nós falamos espanhol.)
+- **Vos parla german?** (Vocês falam alemão?)
+- **Illes parla russe.** (Eles falam russo.)
+- **Ille parlate russe.** (Ele falou russo.)
+- **Ille ha parlate russe.** (Ele tem falado russo.)
 
 ## Sintaxe
 
 ### Ordem das Palavras
 
-A ordem das palavras no Vetum pode ser flexível, permitindo a ênfase em diferentes elementos da frase.
+A ordem das palavras em Vetum pode ser flexível, permitindo a ênfase em diferentes elementos da frase, mas o padrão é SVO (Sujeito-Verbo-Objeto) e a ordem do substantivo-adjetivo é primeiro o substantivo e depois o adjetivo:
+
+Un domus grande. (Uma casa grande.)
+Un libro interessante. (Um livro i.)
 
 ### Frases Complexas
 
 O Vetum é projetado para permitir a formação de frases complexas e subordinadas, facilitando a comunicação de ideias mais elaboradas.
 
-## Escrita
-
-### Alfabeto
-
-O Vetum utiliza um alfabeto baseado no latim, com algumas modificações para refletir os sons e caracteres específicos do idioma.
-
 ---
 
-## Etapas para Criar Novas Palavras em Vetum
+## Etapas para Adição de Novas Palavras em Vetum
 
-#### 1. Raiz da Palavra:
+1. **Etapa Inicial:** Derivação de línguas fonte - Vetum baseia-se principalmente no vocabulário comum a muitas línguas românicas e, em menor medida, em elementos do inglês e do alemão. Palavras de origem latina, como _libro_ (livro), _hombre_ (homem), _domus_ (casa), são amplamente utilizadas.
 
-A primeira etapa é escolher a raiz da palavra, que será o núcleo do significado que queremos transmitir. Podemos usar palavras já existentes no léxico do Vetum ou criar novas raízes com base em conceitos específicos.
+3. **Formação de Raízes e Prefixos:** Novas palavras podem ser criadas a partir de raízes reconhecíveis em várias línguas românicas e de elementos comuns. Por exemplo, _information_ (informação) do inglês pode se tornar _information_ em Vetum.
 
-#### 2. Adição de Afixos:
+5. **Adaptação Fonética e Ortográfica:** As palavras de origem em outras línguas são adaptadas para se adequarem à fonética e à ortografia de Vetum, mas mantendo o máximo possível de sua forma original reconhecível. Isso pode envolver ajustes na grafia ou na pronúncia para melhor se integrar ao sistema linguístico.
 
-A próxima etapa envolve a adição de afixos para modificar o significado da raiz. Os afixos podem incluir prefixos, sufixos ou infixos. Por exemplo, podemos adicionar um prefixo para indicar intensidade, um sufixo para indicar ação, entre outros.
+4. **Consistência Interna:** As novas palavras criadas devem manter a coerência com os princípios e padrões estabelecidos de Vetum, incluindo a forma como são compostas, conjugadas e adaptadas ao contexto gramatical.
 
-#### 3. Flexão Gramatical:
-
-A flexão gramatical é importante para adequar a nova palavra à gramática do Vetum. Isso inclui a concordância de gênero e número, bem como a conjugação verbal, se a nova palavra for um verbo.
-
-#### 4. Verificação de Fonética:
-
-É importante garantir que a nova palavra siga as regras de fonética do Vetum, garantindo que seja pronunciada corretamente.
-
-#### 5. Definição no Dicionário:
-
-Após criar a nova palavra, podemos adicioná-la ao dicionário Vetum-Português, juntamente com sua definição.
-
-#### Exemplos:
-
-1. **Céu** (onde fica as atmosferas) - **"Aerth"** (Masculino)
-
-   - **Etapas de Criação:**
-     1. Raiz da Palavra: **"Aër"** (relacionado ao ar)
-     2. Adição de Afixos: **"-eth"** (sufixo para indicar lugar ou região)
-     3. Flexão Gramatical: Concordância de gênero e número.
-
-   - **Definição no Dicionário:**
-     - **Aerth (Masculino)** - O local onde se encontram às atmosferas.
-
-2. **Nova** - **"Nuev"** (Feminino)
-
-   - **Etapas de Criação:**
-     1. Raiz da Palavra: **"Nuv"** (representando algo novo)
-     2. Adição de Afixos: Nenhuma necessária neste caso.
-     3. Flexão Gramatical: Concordância de gênero e número.
-
-   - **Definição no Dicionário:**
-     - **Nuv (Feminino)** - Algo novo ou recentemente criado.
-
-3. **Fogo** (elemento que queima) - **"Ignus"** (Masculino)
-
-   - **Etapas de Criação:**
-     1. Raiz da Palavra: **"Ign"** (relacionado ao fogo e à queima)
-     2. Adição de Afixos: Nenhuma necessária neste caso.
-     3. Flexão Gramatical: Concordância de gênero e número.
-
-   - **Definição no Dicionário:**
-     - **Ignus (Masculino)** - O elemento que queima.
-
-4. **Elemento** - **"Elementum"** (Neutro)
-
-   - **Etapas de Criação:**
-     1. Raiz da Palavra: **"Element"** (representando um elemento ou componente)
-     2. Adição de Afixos: Nenhuma necessária neste caso.
-     3. Flexão Gramatical: Concordância de gênero e número.
-
-   - **Definição no Dicionário:**
-     - **Elementum (Neutro)** - Um elemento ou componente.
-
-5. **Árvore** - **"Arbor"** (Feminino)
-
-   - **Etapas de Criação:**
-     1. Raiz da Palavra: **"Arbor"** (relacionado a árvores)
-     2. Adição de Afixos: Nenhuma necessária neste caso.
-     3. Flexão Gramatical: Concordância de gênero e número.
-
-   - **Definição no Dicionário:**
-     - **Arbor (Feminino)** - Uma árvore.
-
-6. **Principio (Masculino)** - **"Initium"**
-
-   - **Etapas de Criação:**
-     1. Raiz da Palavra: **"Init"** (representando o começo ou início)
-     2. Adição de Afixos: Nenhuma necessária neste caso.
-     3. Flexão Gramatical: Concordância de gênero e número.
-
-   - **Definição no Dicionário:**
-     - **Initium (Masculino)** - O primeiro momento ou início.
-
-7. **Terra (Feminino)** - **"Terrae"**
-
-   - **Etapas de Criação:**
-     1. Raiz da Palavra: **"Terr"** (representando a superfície sólida da crosta terrestre)
-     2. Adição de Afixos: Nenhuma necessária neste caso.
-     3. Flexão Gramatical: Concordância de gênero e número.
-
-   - **Definição no Dicionário:**
-     - **Terrae (Feminino)** - A superfície sólida da crosta terrestre.
+5. **Aceitação e Uso:** A aceitação das novas palavras é influenciada pela sua utilidade, facilidade de compreensão e adoção pelos falantes de Vetum. Se uma nova palavra é adotada e usada consistentemente pela comunidade de falantes, ela pode se tornar parte integrante do vocabulário padrão de Vetum.
