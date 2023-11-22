@@ -1,10 +1,10 @@
-### O que é Vetum?
+### 0. O que é Vetum?
 
 Vetum é um interlíngua (ConLang - Constructed Language) baseada na interlíngua IALA (International Auxiliary Language Association). Será usada pela organização **Vetus** para facilitar a comunicação a longo prazo, e seu foco será o meio cientifico e tecnológico - que é o principio da organização **Vetus**. Ao longo de nossa comunicação, modificações serão feitas para ficar de acordo com nossas necessidades.
 
 Abaixo, terá informações sobre o funcionamento da conlang interlingua do livro "Gramática Essencial de Interlingua em Português" de Cláudio Rinaldi.
 
-### O que é, como surgiu e para que serve Interlingua?
+### 1. O que é, como surgiu e para que serve Interlingua?
 
 Ao  longo  das  décadas  de  1930  e  1940,  linguistas  de  diversas  universidades europeias e norte-americanas analisaram juntos alguns projetos de línguas auxiliares internacionais, a fim de avaliar qual deles poderia ser viável caso o mundo decidisse adotar uma língua comum de intercâmbio que fosse planejada em vez de étnica. Os projetos  mais  famosos  até  então  eram  o  Esperanto  (1887),  o  Latino  sine  Flexione (1903), o Ido (1907) e o Occidental (1922). Além desses, existiam centenas de outros, em geral jamais usados por ninguém além de seus próprios inventores.
 
@@ -26,7 +26,7 @@ Por  essa  razão,  lancei-me  à  tarefa  de  compor  essa  gramática  um  pou
 
 Contei com a colaboração de alguns interlinguistas brasileiros e portugueses, que me auxiliaram com a revisão e me forneceram pistas valiosas sobre a melhor maneira de abordar determinados temas, sobretudo os mais controversos. Agradeço por esse auxílio a Aender dos Santos, Gonçalo Neves, Ramiro Castro, Carlos Soreto e Erick Fishuk. Permaneço à disposição para receber sugestões ou críticas que possam ser aproveitadas para melhorar esta gramática.
 
-#### Sons e letras
+#### 2. Sons e letras
 
 Interlingua usa o alfabeto ocidental de 26 letras, o mesmo que se usa para o português. Não  se  usam  sinais  diacríticos  como  acentos,  til  ou  cedilha,  a  não  ser  em  nomes próprios e em raras palavras emprestadas que não sofreram nenhum tipo de adaptação (p.ex. **Curaçao**, **São Paulo**, **cañon**, **kümmel**).
 
@@ -150,6 +150,7 @@ Interlingua não usa acentos. Então, é preciso memorizar qual é a sílaba tô
 As  exceções  são  várias,  mas  em  geral  mais  ou  menos  óbvias:  **harmonia**,  **phobia** (fobia), **minus** (menos), **novem** (nove), **lunedi** (segunda-feira), **martedi** (terça-feira).
 
 - **Regra "imidulic":** nas palavras que contêm as terminações **-im-**, **-id-**, -**ul**-, **-ic-**, a tônica está na sílaba que as antecede. Nessa regra, não importa se houver uma vogal após a terminação: **maxime** (máximo), **novissime** (novíssimo)**, decime** (décimo),  **intime**  (íntimo),  **anima**  (alma),  **victima**  (vítima),  **rapide**  (rápido), **timide**  (tímido),  **acido**  (ácido),  **oculo**  (olho),  **cumulo**  (cúmulo),  **macula** (mancha),  **apicula**  (abelha),  **comic**  (cômico),  **logic**  (lógico),  **magic**  (mágico, *adj.*), **magico** (mágico, *subst*.), **cynico** (cínico), **mechanico** (mecânico), **politica** (política), **codice** (código), **duplice** (duplo), **indice** (índice).
+
 - **Regra "lenere":** nas palavras terminadas em -**le**, -**ne**, -**re**, a sílaba tônica é a antepenúltima. Exemplos: **debile** (fraco), **fulmine** (relâmpago), **tenere** (macio), **utile**  (útil),  **simile**  (semelhante),  **difficile**  (difícil),  **lumine**  (luz),  **ligamine** (ligação), **corpore** (corpo), **tempore** (tempo), **arbore** (árvore), **vetere** (velho). Convém alertar que esta regra não se aplica em caso de consoante dupla: **novelle** (novato), **perenne** (perene), **bizarre** (bizarro).
 
 Os dicionários de Interlingua costumam indicar em qual vogal recai o acento tônico, pelo menos nos casos que não são cobertos pelas regras apresentadas acima.
@@ -167,14 +168,20 @@ Le orthographia de Interlingua, in certe modo, es tamben supradialectal, un vice
 Como se depreende desse fragmento, existem certas variações em relação às regras oficiais  que  são  praticadas  por  alguns  interlinguistas  e  não  causam  problema  à compreensão. Veja quais são as mais comuns:
 
 - a letra **g** pode soar como o **j** sempre que vier antes de **e**, **i**, **y**. Assim, **religion** pode ser lido "relijión" em vez de "religuión"; **general** (geral) pode ser dito "jeneral" em vez de "gueneral"; e **gynecologia** pode ser "jinekolojía" em lugar de "guinekologuía". Muitos interlinguistas de origem italiana utilizam o som /ʤ/ para  esses  casos:  "relidjión",  "djeneral",  "djinekolodjía".  Essa  variação simplifica as regras sobre a pronúncia da letra **g**, mas ao mesmo tempo gera incerteza quanto à pronúncia de palavras como **portugese** e **longe**.
+
 - **qu** pode ser lido /kv/, como em alemão: **qualitate** lê-se "kvalitate" e **aqua** é "akva". Essa pronúncia é corrente entre os interlinguistas de origem alemã ou escandinava.
+
 - a letra **s** não precisa soar como /z/ entre duas vogais: **rosa** é pronunciado "rossa" e  **casa**  é  "kassa",  confundindo-se com  **cassa**  (caixa). Essa pronúncia é mais comum entre os interlinguistas de origem hispânica, que não têm na sua língua nativa a distinção entre os fonemas /s/ e /z/.
+
 - o **y** pode soar igual ao **ü** alemão ou o **u** francês (fonema /y/): **systema** se diz "süstema". Bastante rara, essa variação ocorre sobretudo entre interlinguistas alemães.
+
 - pode-se  pronunciar  o  **r**  "forte"  (grafado  **rr**)  como  em  espanhol  e  italiano (vibrante múltiplo, fonema /r/) ou como em português e francês (vibrante uvular, fonema  /ʀ/),  diferenciando-o  do  **r**  "brando"  (vibrante  simples,  fonema  /ɾ/). Assim, a pronúncia do substantivo **terra** fica diferente da do pefixo **tera-**, por exemplo. O mesmo vale para o **r** que inicia uma palavra: **le rete** (a rede) pode ser  lido  "lerrete"  em  vez  de  "lerete".  Convém  deixar  claro,  contudo,  que oficialmente há apenas  um fonema /ɾ/ em  Interlingua (igual ao  **r** da palavra *ca**r**o*), que pode ser escrito **r**, **rr** ou **rh**, dependendo da etimologia da palavra.
+
 - Outras  consoantes  duplas  podem  ser  geminadas,  como  em  italiano: **communicar** é lido então "kom-munikár", com o **m** alongado (fonema /m:/). Aqui, também, é bom deixar claro que Interlingua não admite oficialmente a existência de consoantes geminadas, devendo as consoantes simples e duplas ser lidas exatamente da mesma maneira.
+
 - Para pronunciar os verbos no presente, alguns falantes deslocam a sílaba tônica para a penúltima: dizem **ille pronuncia** em vez de **ille pronuncia**, por exemplo. A  rigor,  deveria  ser  aplicada  nesses  casos  a  regra  geral  de  acentuação,  que posiciona a vogal tônica antes da última consoante: **ille substitue** (ele substitui), **ille  construe**  (ele  constrói),  **ille  distribue**  (ele  distribui),  **ille  accentua**  (ele acentua), **ille continua** (ele continua).
 
-### Os seres e seus atributos
+### 3. Os seres e seus atributos
 
 Em Interlingua, apenas os substantivos vão para o plural. Assim, dizemos *Mi **can** es nigre* (Meu cachorro é preto) no singular e *Mi **canes** es nigre* (Meus cachorros são pretos)  no  plural.  As  palavras  que  acompanham  o  substantivo  (adjetivos,  artigos, possessivos, indefinidos etc.) não se pluralizam.
 
@@ -188,7 +195,7 @@ Como  os  substantivos  não  têm  gênero  em  Interlingua,  as  palavras  adj
 
 Boa parte dos adjetivos termina em **-e**: **nove** (novo), **parve** (pequeno), **lente** (lento), **folle**  (louco),  **timide**  (tímido),  **audace**  (audaz),  **quadrate**  (quadrado),  **rotunde** (redondo),  **grasse**  (gordo),  **magre**  (magro).  Há  muitos  também  terminados  pelas consoantes **c** **l** **n** **r**, pois essas letras dispensam o acréscimo de -**e**: **mal** (mau), **plen** (cheio), **blanc** (branco), **sol** (só, sozinho), **brasilian** (brasileiro), **actual** (atual), **basic** (básico),  **turc**  (turco),  **brun**  (marrom).  E  existem,  em  menor  quantidade,  adjetivos terminados em outras letras: **blau** (azul), **millennari** (milenário), **buddhista** (budista).
 
-Como já foi dito, os adjetivos não vão para o plural nem variam em gênero se estiverem acompanhando um substantivo. Quando estão sozinhos, podem receber um -**s** ou -**es** para indicar o plural. Alguns podem, ainda, ser usados com -**o** ou -**a** para indicar uma pessoa:  **un  blanco**  (um  homem  branco),  **un  blanca**  (uma  mulher  branca).  Porém, muitos adjetivos não admitem essa variação de sexo, de modo que geralmente é mais fácil acrescentar um substantivo para deixar a situação mais clara: **un homine blanc** e* **un femina blanc**.
+Como já foi dito, os adjetivos não vão para o plural nem variam em gênero se estiverem acompanhando um substantivo. Quando estão sozinhos, podem receber um -**s** ou -**es** para indicar o plural. Alguns podem, ainda, ser usados com -**o** ou -**a** para indicar uma pessoa:  **un  blanco**  (um  homem  branco),  **un  blanca**  (uma  mulher  branca).  Porém, muitos adjetivos não admitem essa variação de sexo, de modo que geralmente é mais fácil acrescentar um substantivo para deixar a situação mais clara: **un homine blanc** e **un femina blanc**.
 
 Isso ocorre porque, nas línguas românicas, existem adjetivos uniformes e biformes. Os uniformes têm uma só forma para os dois gêneros (por exemplo *quente*, *ruim*, *atraente*, *simples*), ao passo que os biformes têm uma forma para o masculino e outra para o feminino (por exemplo *frio-fria, bom-boa*). Em Interlingua, todos os adjetivos têm uma só forma, mas os substantivos derivados deles podem, dependendo do que ocorre nas línguas  românicas,  admitir  duas  formas.  É  possível,  então,  dizer  **un  espaniol**  (um espanhol) e **un spaniola** (uma espanhola), ou **un svedese** (um sueco) e **un svedesa** (uma sueca), mas há apenas **un arabe** (um ou uma árabe) e **un belga** (um ou uma belga), independentemente do sexo.
 
@@ -240,7 +247,7 @@ Muitas vezes, basta substituir a última vogal do substantivo por **-e**: *un so
 
 O  sufixo  **-ista**  serve  tanto  para  substantivos  como  adjetivos:  *un  commun**ista***  (um comunista)*, un pais commun**ista*** (um país comunista). O mesmo vale para -**i**, que é sempre tônico: *le **afghanis*** (os afegãos), *le soldatos **afghani*** (os soldados afegãos).  Outro modo de adjetivar uma palavra é antepor-lhe uma preposição, geralmente **de**. Em vez de *pecia metallic* podemos dizer *pecia de metallo* (peça de metal). Igualmente, podemos trocar *cursa automobilistic* por *cursa de automobiles* (corrida de automóveis) e  *reunion  laboral*  por  *reunion  de  travalio*  (reunião  de  trabalho).  Esse  modo  de  se expressar é mais fácil quando não sabemos qual é o melhor sufixo a ser usado, e pode ser até mesmo mais claro e simples.
 
-O mesmo recurso pode transformar infinitivos verbais em adjetivos: *machina de lavar* (máquina de lavar), *penna de scriber* (caneta, "pena de escrever"), *gumma de effacer* (borracha de apagar), *lamina de rasar* (lâmina de barbear), *ferro de repassar* (ferro de passar roupas).*
+O mesmo recurso pode transformar infinitivos verbais em adjetivos: *machina de lavar* (máquina de lavar), *penna de scriber* (caneta, "pena de escrever"), *gumma de effacer* (borracha de apagar), *lamina de rasar* (lâmina de barbear), *ferro de repassar* (ferro de passar roupas).
 
 Nos adjetivos compostos por duas ou mais palavras, o uso de hífen é opcional: *politico- economic*  ou  *politicoeconomic*,  *centroamerican*  ou  *centro-american*,  *statounitese*  ou *stato-unitese*.  Repare  que  apenas  o  último  elemento  recebe  terminação  típica  de adjetivo.
 
@@ -270,11 +277,11 @@ Os pais **deles** compraram dois **outros** brinquedos.
 
 Ter **pouco** dinheiro é melhor que não ter **nenhum** dinheiro.
 
-***Qual** libros tu va voler? Io te recommenda **iste** libro de poemas.* **Quais** livros você vai querer? Eu lhe recomendo **este** livro de poemas.*
+***Qual** libros tu va voler? Io te recommenda **iste** libro de poemas.* **Quais** livros você vai querer? Eu lhe recomendo **este** livro de poemas.
 
 Todas essas palavras são usadas antes de um substantivo e, como acontece com todo adjetivo, não variam.
 
-Os possessivos são usados sem artigo: não se diz, por exemplo, "*le mi auto*". Além disso,  os  possessivos  têm  forma  diferente  quando  estão  desacompanhados  ou  são colocados após a palavra à qual se referem. Observe:
+Os possessivos são usados sem artigo: não se diz, por exemplo, "*le mi auto*". Além disso, os possessivos têm forma  diferente  quando  estão  desacompanhados ou são colocados após a palavra à qual se referem. Observe:
 
 ***Mi** dictionario non es ci*.
 
@@ -349,7 +356,7 @@ São pronomes relativos: **que** (que), **qui** (que, quem), **le qual** (o qual
 
 *Un del argentinos **de qui** io te parlava deveniva un grande amico mie*. (ou: ***del qual***) Um dos argentinos de quem eu te falei tornou-se um grande amigo meu.
 
-*Le computatores es apparatos **sin le quales** nos ja non pote viver.* (ou: ***sin que***) Os computadores são aparelhos sem os quais já não podemos viver.***
+*Le computatores es apparatos **sin le quales** nos ja non pote viver.* (ou: ***sin que***) Os computadores são aparelhos sem os quais já não podemos viver.
 
 Os  pronomes  **lo  que**  e  **le  qui**  combinam  um  demonstrativo  com  outro  relativo.  O primeiro serve para coisas; o segundo, para pessoas:
 
@@ -419,7 +426,7 @@ No plural, usa-se **illes**, **illas** ou **illos**, conforme o caso: *Ecce Sara
 
 As mesmas orientações servem para o uso das formas **le**, **la** e **lo**. É importante ter em mente que não existe distinção de gênero gramatical em Interlingua. Seres que não têm sexo (como *casa, auto, computator*), ou cujo sexo não é conhecido ou não é relevante para aquilo que se quer dizer (por exemplo *bebe, infante, catto*), devem sempre ser referidos por **illo**  ou  **lo**.  As formas  **ille**  e  **le**  são exclusivas para o sexo masculino, enquanto **illa** e **la** são exclusivas para o sexo feminino – convém não confundir sexo (biológico) com gênero (gramatical).
 
-Como acontece em todas as línguas de controle, a forma gramatical masculina também pode ser usada para englobar homens e mulheres: *Iste personas veniva ci, ma io non sape lo que **illes** vole* (Estas pessoas vieram até aqui, mas eu não sei o que elas querem). Em frases desse tipo, o uso de **illes** transmite uma ideia mais "humana" do que **illos**.*
+Como acontece em todas as línguas de controle, a forma gramatical masculina também pode ser usada para englobar homens e mulheres: *Iste personas veniva ci, ma io non sape lo que **illes** vole* (Estas pessoas vieram até aqui, mas eu não sei o que elas querem). Em frases desse tipo, o uso de **illes** transmite uma ideia mais "humana" do que **illos**.
 
 As palavras **illo** e **lo** também são usadas como pronomes demonstrativos, do mesmo modo que **isto**: ***Isto** es un cuppa* (Isto é uma taça); ***Illo** es un cuppa* (Aquilo é uma taça); ***Lo** que tu vide es un cuppa* (O que você está vendo é uma taça); *Le mie es un tassa e **lo** de mi amica, un cuppa* (A minha é uma xícara e a da minha amiga, uma taça).
 
@@ -507,10 +514,10 @@ Como esse assunto é controvertido, convém relacionar alguns argumentos em favo
 
 1) A palavra que reforça ou delimita não é um adjetivo, como se vê em casos análogos como **nos brasilianos** (nós brasileiros), **vos europeos** (vocês europeus). Usa-se a forma substantiva, e não a forma adjetiva, dos termos em aposição.
 1) Em inglês, a partícula reflexiva *self* é pluralizada depois de um pronome pessoal no plural: *our**selves*** (nós mesmos), *your**selves*** (vocês mesmos), *them**selves*** (eles mesmos). Ou seja, *self*  não é um adjetivo  (invariável  em  inglês), mas antes um  pronome em aposição.
-1) Em francês, a palavra *tous* que se acrescenta a um pronome plural é lida sempre como pronome /tus/, nunca como adjetivo /tu/ (apesar de a grafia ser igual): _nous **tous**_** (nós todos), _vous **tous**_ (vocês todos).
-1) Ainda em francês, o reflexivo *même* só pode ser empregado como pronome (em composição com um pronome pessoal oblíquo), nunca como adjetivo: *Les économistes eux-mêmes* (os próprios economistas, literalmente "os economistas eles-mesmos).**
+1) Em francês, a palavra *tous* que se acrescenta a um pronome plural é lida sempre como pronome /tus/, nunca como adjetivo /tu/ (apesar de a grafia ser igual): _nous **tous**_ (nós todos), _vous **tous**_ (vocês todos).
+1) Ainda em francês, o reflexivo *même* só pode ser empregado como pronome (em composição com um pronome pessoal oblíquo), nunca como adjetivo: *Les économistes eux-mêmes* (os próprios economistas, literalmente "os economistas eles-mesmos).
 
-### Tudo sobre os verbos
+### 4. Tudo sobre os verbos
 
 Em Interlingua, cada verbo tem apenas sete formas diferentes. É pouco, se comparado às cerca de cinquenta formas que pode ter um verbo em português. As formas verbais se dividem em dois grupos: formas finitas e formas nominais.
 
@@ -593,15 +600,13 @@ Além das formas finitas, os verbos têm três formas nominais: o infinitivo, o 
 
 Como se vê no quadro, o particípio presente dos verbos em **-ir** e o particípio passado dos verbos em **-er** se desviam da regularidade absoluta. Com isso, porém, essas formas verbais ficam mais parecidas com as línguas de controle, conservando o aspecto natural de Interlingua.
 
-Por  essa  mesma  razão,  há  muitos  verbos  que  admitem  uma  forma  irregular  para  o particípio  passado:  **facte**  (feito,  de  **facer**),  **viste**  (visto,  de  **vider**),  **posite**  (posto,  de **poner**),  **dicte**  (dito, de  **dicer**),  **morte**  (morto,  de  **morir**),  **impresse**  (impresso,  de **imprimer**)  etc.  Contudo,  para  simplificar,  sempre  é  permitido  optar  pelo  particípio regular terminate em  **-ite**, mesmo que não existam  formas regulares nas línguas de controle: **facite**, **vidite**, **ponite**, **dicite**, **morite**, **imprimite**. Graças a essa possibilidade,
-
-- iniciante já consegue usar os particípios antes de aprender as formas irregulares.
+Por  essa  mesma  razão,  há  muitos  verbos  que  admitem  uma  forma  irregular  para  o particípio  passado:  **facte**  (feito,  de  **facer**),  **viste**  (visto,  de  **vider**),  **posite**  (posto,  de **poner**),  **dicte**  (dito, de  **dicer**),  **morte**  (morto,  de  **morir**),  **impresse**  (impresso,  de **imprimer**)  etc.  Contudo,  para  simplificar,  sempre  é  permitido  optar  pelo  particípio regular terminate em  **-ite**, mesmo que não existam  formas regulares nas línguas de controle: **facite**, **vidite**, **ponite**, **dicite**, **morite**, **imprimite**. Graças a essa possibilidade, iniciante já consegue usar os particípios antes de aprender as formas irregulares.
 
 Na realidade, embora pareçam irregulares à primeira vista, quase todos esses particípios podem ser deduzidos facilmente a partir de substantivos e adjetivos derivados de um determinado verbo. Por exemplo, a partir de palavras como **producto**, **production** e **productive**,  o  usuário  da  língua  saberá  que  o  particípio  irregular  de  **producer**  é **producte**  –  basta  acrescentar  **-e**  ao  radical  **product-**,  que  se  repete  nos  derivados. Outros  casos  análogos  são  **rediger**,  **redacte**  (compare  com  **redaction**,  **redactor**); **invader**,  **invase**  (compare  com  **invasion**,  **invasor**,  **invasive**);  **promitter**,  **promisse** (compare  com  **promissa**,  **promissor**,  **compromisso**);  **leger**,  **lecte**  (compare  com **lection**, **lectura**, **lector**).
 
 Tanto em latim como nas línguas românicas, vários verbos chegaram mesmo a formar um novo infinitivo a partir desse particípio passado irregular, o que acontece também em Interlingua: pode-se dizer **rediger**, mas também **redactar**, sendo este último um verbo totalmente regular. Outro exemplo é **figer**, particípio irregular **fixe**, que rendeu o novo verbo **fixar**. E de **compler**, particípio irregular **complete**, provém **completar**. O particípio passado desses novos verbos é sempre regular: **redactate**, **fixate**, **completate**. O significado do verbo em -**ar** também costuma ser o mesmo do verbo "original", mas existem casos em que o novo verbo adquire uma conotação mais específica: de **dicer** ‘dizer’, particípio **dicte**, derivou **dictar**, ‘ditar’, que é dizer algo para que outra pessoa anote.
 
-Os casos verdadeiramente irregulares são raríssimos. O particípio de **vider** é **viste**, mas as palavras derivadas dele perdem o -**t**-: **vision**, **visor**, **visibile**, **visar**. O verbo **prender**, particípio **prise**, rende derivados como **prision** (prisão) e **interprisa** (empresa); mas os verbos **comprender** e **apprender** têm derivados como **comprension** (compreensão) e **apprension** (apreensão), além de admitir as variantes **comprehender** e **apprehender**.*
+Os casos verdadeiramente irregulares são raríssimos. O particípio de **vider** é **viste**, mas as palavras derivadas dele perdem o -**t**-: **vision**, **visor**, **visibile**, **visar**. O verbo **prender**, particípio **prise**, rende derivados como **prision** (prisão) e **interprisa** (empresa); mas os verbos **comprender** e **apprender** têm derivados como **comprension** (compreensão) e **apprension** (apreensão), além de admitir as variantes **comprehender** e **apprehender**.
 
 Os bons dicionários de Interlingua indicam quando um verbo tem um particípio passado irregular.  E,  não  custa  lembrar,  a  forma  regular  sempre  poderá  ser  usada  –  muitos interlinguistas,  provavelmente  a  maioria,  usam  o  particípio  passado  regular  quase sempre.
 
@@ -643,12 +648,13 @@ Ainda quanto ao tempo passado em Interlingua, podemos obter uma nuance equivalen
 
 O particípio presente (às  vezes  chamado de "gerúndio") pode ser traduzido  de  três maneiras em português:
 
-- como substantivo ou adjetivo, indicando um agente: _un **amante**_** (um ou uma amante)_, un **studiante**_** (um ou uma estudante)_, un **agente** secrete_ (um agente secreto)_, un persona **innocente**_** (uma pessoa inocente)_, un puero **irritante**_** (um menino irritante)_, un anciano **sapien**_ (um ancião sábio).**
-- como  advérbio,  indicando  uma  circunstância:  ***Bibente**  assi,  tu  tosto  morira* (Bebendo assim, você logo morrerá); *Io passava le die **vidente** television* (Passei
-  - dia vendo televisão); ***Faciente** lo, tu me auxiliara multo* (Fazendo isso, você me ajudará muito).
+- como substantivo ou adjetivo, indicando um agente: _un **amante**_ (um ou uma amante)_, un **studiante**_** (um ou uma estudante)_, un **agente** secrete_ (um agente secreto)_, un persona **innocente**_ (uma pessoa inocente)_, un puero **irritante**_ (um menino irritante)_, un anciano **sapien**_ (um ancião sábio).
+
+- como  advérbio,  indicando  uma  circunstância:  ***Bibente**  assi,  tu  tosto  morira* (Bebendo assim, você logo morrerá); *Io passava le die **vidente** television* (Passei o dia vendo televisão); ***Faciente** lo, tu me auxiliara multo* (Fazendo isso, você me ajudará muito).
+
 - como oração adjetiva: *Le puero **portante** pantalones jeans es mi cosino Tom* (O rapaz que está vestindo calça jeans é meu primo Tom); *Le cassas **continente** nostre  cosas  ha  restate  in  le  auto*  (As  caixas  que  contêm  as  nossas  coisas ficaram  no  carro).  Nesse  caso,  sempre  será  possível  optar  por  um  pronome relativo:  *Le  puero  **qui  porta**  pantalones  jeans  es  mi  cosino;  Le  cassas  **que contine** nostre cosas ha restate in le auto*.
 
-Como mostrado acima, o particípio presente termina sempre em **-iente** nos verbos do terceiro grupo (infinitivo em -**ir**): *audir, audiente* (ouvir); **aperir**,* **aperiente** (abrir); **patir**, **patiente** (sofrer); **experir**, **experiente** (experimentar). Há também três verbos com infinitivo em -**er** que têm o particípio presente em **-iente**: **facer**, **faciente** (fazer); **saper**, **sapiente** (saber); **caper**, **capiente** (pegar, capturar). Convém observar que esses três verbos têm derivados em que a vogal da raiz muda de **a** para **i** (**fic-**, **sip-**,* **cip-**), os quais  também  apresentam  a  mesma  irregularidade:  **efficiente**  (eficiente),  **deficiente** (deficiente), **insipiente** (ignorante), **incipiente** (iniciante). Como já explicamos, essas anomalias  visam  a  manter  Interlingua  a  mais  parecida  possível  com  as  línguas  de controle e evitar, portanto, a invenção de palavras de aspecto artificial (por exemplo "*defacente*" em lugar de *deficiente*).
+Como mostrado acima, o particípio presente termina sempre em **-iente** nos verbos do terceiro grupo (infinitivo em -**ir**): *audir, audiente* (ouvir); **aperir**, **aperiente** (abrir); **patir**, **patiente** (sofrer); **experir**, **experiente** (experimentar). Há também três verbos com infinitivo em -**er** que têm o particípio presente em **-iente**: **facer**, **faciente** (fazer); **saper**, **sapiente** (saber); **caper**, **capiente** (pegar, capturar). Convém observar que esses três verbos têm derivados em que a vogal da raiz muda de **a** para **i** (**fic-**, **sip-**, **cip-**), os quais  também  apresentam  a  mesma  irregularidade:  **efficiente**  (eficiente),  **deficiente** (deficiente), **insipiente** (ignorante), **incipiente** (iniciante). Como já explicamos, essas anomalias  visam  a  manter  Interlingua  a  mais  parecida  possível  com  as  línguas  de controle e evitar, portanto, a invenção de palavras de aspecto artificial (por exemplo "*defacente*" em lugar de *deficiente*).
 
 O artigo a seguir se intitula *Participio: solvente universal* e foi publicado na edição número 99  do  Almanac  de  Interlingua,  em  junho  de  2018,  ilustrando  a  enorme  riqueza  lexical proporcionada pelos particípios presente e passado:
 
@@ -662,13 +668,13 @@ Le participio passate servi de base pro diverse altere suffixos latin que es pro
 
 Altere radice versatile es lo del verbo *solvere*, cuje senso basic in latino es ‘disligar’. Iste  senso  prime  se  extende  in  nuances  diverse:  *solvente*,  *insolvente*,  *resolver*, *dissolver*, *absolver*, *solution*. Le ultime se produce a partir del participio passate *solutum*,  de  que  proveni  anque  le  parola  portugese  *dissoluto*,  ‘luxuriose’  –  un persona qui se ha disligate del bon costumes. Le solution de un problema indica que le problema es disfacte, que su dur nucleo es rupte. Le solution chimic indica que materias distincte como aqua e sucro se ha unite in un toto cohese, que non plus se disligara – *solvere* es cognate al greco *lyein*, de que deriva *analyse* e *electrolyse*. Le resolution  de  un  question  nos  demanda  un  analyse  retrospective,  e  un  persona resolute  es  celle  qui  ja  ha  analysate  le  questiones  que  embarassa  su  decision. Absolver es liberar, alontanar un persona de un accusation. Absolute es un cosa concluse, libere, lontan de qualcunque question.
 
-Como já foi dito, não existem tempos contínuos em Interlingua: tanto ‘ele escreve’ como ‘ele está escrevendo’ se diz **ille scribe**. O verbo **star**, aliás, não corresponde ao nosso ‘estar’; **star** é cognado com o inglês *stand* e significa ‘ficar em pé’, ‘estar parado na posição vertical’: *Un homine estranie **sta** sur le trottoir* (Um homem estranho está parado na calçada).* O verbo ‘estar’ em Interlingua é **esser**, igual ao verbo ‘ser’: *Illa non **es** in casa ora* (Ela não está em casa agora). Não se deve dizer, então, "**ille es scribente**" e muito  menos "**ille sta scribente**", mas simplesmente  **ille scribe**. Uma construção extraoficial que se vê usada às vezes é **va** seguido de gerúndio: **le cosas va meliorante** (as coisas vão/estão melhorando) em lugar de **le cosas meliora**.
+Como já foi dito, não existem tempos contínuos em Interlingua: tanto ‘ele escreve’ como ‘ele está escrevendo’ se diz **ille scribe**. O verbo **star**, aliás, não corresponde ao nosso ‘estar’; **star** é cognado com o inglês *stand* e significa ‘ficar em pé’, ‘estar parado na posição vertical’: *Un homine estranie **sta** sur le trottoir* (Um homem estranho está parado na calçada). O verbo ‘estar’ em Interlingua é **esser**, igual ao verbo ‘ser’: *Illa non **es** in casa ora* (Ela não está em casa agora). Não se deve dizer, então, "**ille es scribente**" e muito  menos "**ille sta scribente**", mas simplesmente  **ille scribe**. Uma construção extraoficial que se vê usada às vezes é **va** seguido de gerúndio: **le cosas va meliorante** (as coisas vão/estão melhorando) em lugar de **le cosas meliora**.
 
 Para traduzir o nosso gerúndio após outro verbo, emprega-se **a** seguido do infinitivo: **illa  continuava  a  dormir**  (ela  continuava  dormindo),  **io  remanera  a  creder**  (eu continuarei  acreditando),  **tu  resta  a  pensar**  (você  fica  pensando).  Embora  pouco comum,  também  é  possível  dizer  **illa  es  a  travaliar**  (ela  está  trabalhando)  caso  a construção **illa travalia** não for suficientemente clara.
 
 Dois verbos em sequência podem aparecer separados por **a** ou **de** quando o segundo está no infinitivo, mas não há regras rígidas sobre isso: **io commencia a leger** também pode  ser  dito  **io  commencia  leger**  (começo  a  ler).  As  línguas  de  controle  são divergentes  quanto  a  isso,  e  por  esse  motivo  Interlingua  não  estabelece  normas absolutas. O francês, por exemplo, utiliza a preposição **de** com mais frequência do que o português: **io decideva de viagiar**, diria um interlinguista francófono, ao passo que um lusófono tenderia a dizer simplesmente **io decideva viagiar** (decidi viajar).
 
-### Palavrinhas úteis
+### 5. Palavrinhas úteis
 
 Nesta seção estudaremos os advérbios, as preposições e as conjunções. Em qualquer língua, quem usa com competência essas três classes de palavras é capaz de redigir bons textos.
 
@@ -690,26 +696,25 @@ Os advérbios costumam ser agrupados de acordo com o seu significado:
 
 -de  dúvida  e  aproximação:  **forsan**  (talvez),  **quasi**  (quase),  **circa**  (cerca  de, aproximadamente), **plus o minus** (mais ou menos).
 
--de  realce:  **sur  toto**  (sobretudo),  **ante  toto**  (antes  de  mais  nada),  **specialmente** (especialmente), **particularmente** (particularmente), **primo** (primeiramente).**
+-de  realce:  **sur  toto**  (sobretudo),  **ante  toto**  (antes  de  mais  nada),  **specialmente** (especialmente), **particularmente** (particularmente), **primo** (primeiramente).
 
 -de apresentação: **ecce** (eis, aqui está).
 
 Essa classificação é apenas uma referência, já que às vezes um mesmo advérbio pode ter mais de um sentido: *mover le auto **retro*** (ir com o carro para trás) indica direção, ao passo que *tres annos **retro*** (três anos atrás) indica tempo – é sinônimo de ***ante** tres annos* (há três anos). Da mesma forma, **plus** indica intensidade em *Illes se amava **plus e plus*** (Eles se amavam cada vez mais) e tempo em *Illa **non** le ama **plus*** (Ela não o ama mais).
 
-Os  advérbios  derivados  terminam  em  -**mente**:  **rarmente**  (raramente),  **obviemente** (obviamente), **rapidemente** (rapidamente), **infelicemente** (infelizmente), **inutilemente** (inutilmente),  **amicalmente**  (amigavelmente),  **legiermente**  (levemente).  Quando  o
-
-adjetivo de origem termina em -**c**, acrescenta-se a vogal de ligação -**a-**: **unicamente**, **basicamente**, **logicamente**, **hermeticamente**, **riccamente**.
+Os  advérbios  derivados  terminam  em  -**mente**:  **rarmente**  (raramente),  **obviemente** (obviamente), **rapidemente** (rapidamente), **infelicemente** (infelizmente), **inutilemente** (inutilmente),  **amicalmente**  (amigavelmente),  **legiermente**  (levemente).  Quando o adjetivo de origem termina em -**c**, acrescenta-se a vogal de ligação -**a-**: **unicamente**, **basicamente**, **logicamente**, **hermeticamente**, **riccamente**.
 
 Muitos  advérbios  também  podem  ser  formados  com  **-o**:  **claro**  (=*clarmente*),  **vero** (=*vermente*),  **certo**  (=*certemente*),  **toto**  (=*totalmente*),  **solo**  (=*solmente*),  **justo** (=*justemente*). Outros exemplos são *parlar **alto*** (falar alto) e *parlar **basso*** (falar baixo), *camminar **rapido*** (andar depressa) e *camminar **lento*** (andar devagar), *travaliar **multo*** (trabalhar muito) e *travaliar **poco*** (trabalhar pouco), *mangiar **tanto*** (comer tanto) e *mangiar **tanto poco*** (comer tão pouco).
 
 É comum que o interlinguista iniciante confunda pares como **multo** e **multe**, já que ambos se traduzem por *muito* em português. É preciso distinguir, então, o seguinte:
 
 - adjetivo (**multe**, **poc**, **tante**, **alte*** etc.) é a palavra que modifica um substantivo: ***multe** personas*, ***poc** personas*, ***tante** personas*, *personas **alte***, *personas **basse*** e assim por diante.
+
 - advérbio (**multo**, **poco**, **tanto**, **alto** etc.) é a palavra que modifica:
 1) um adjetivo: ***multo** belle, un **poco** calide* (um pouco quente)*, **tanto** grande*.
-1) um verbo: *parlar **multo**, parlar **poco**, parlar **tanto**, parlar **alto**, parlar **basso**.*
-1) um outro advérbio: ***multo** rapidemente, un **poco** rapido, **tanto** rapido.*
-1) uma frase inteira: ***Certemente** ille venira*; ***Claro** que ille venira*.
+2) um verbo: *parlar **multo**, parlar **poco**, parlar **tanto**, parlar **alto**, parlar **basso**.*
+3) um outro advérbio: ***multo** rapidemente, un **poco** rapido, **tanto** rapido.*
+4) uma frase inteira: ***Certemente** ille venira*; ***Claro** que ille venira*.
 
 Também é preciso distinguir **no**, usado para responder a uma pergunta, e **non**, que traduz a palavra *não* em todas as demais situações: ***No**, io **non** lo sape* (Não, eu não sei). Em respostas indiretas, também se usa **no**: *Illa diceva que **no*** (Ela disse que não); *Io crede que **no*** (Eu acho que não). A diferença é a mesma que existe em inglês (*no* e *not*) e francês (*non* e *ne...pas*).
 
@@ -831,7 +836,7 @@ Estou fazendo isto para que você me ame.
 
 (A finalidade pela qual estou fazendo isso é obter o seu amor)
 
-### Faça as contas
+### 6. Faça as contas
 
 A maneira mais simples de explicar os números é apresentá-los:
 
@@ -915,7 +920,7 @@ então **simplice**,* **duplice**,* **triplice** etc.). Originalmente são adjet
 
 Interlingua adota os principais prefixos numerais latinos usados nas línguas de controle, inclusive  os  de  valor  indefinido:  ***uni**lateral,  **bi**lingue,  **tri**dimensional,  **quadri**latero, **multi**millionario, **pluri**annual*. Há dois desses prefixos que são de natureza fracionária: ***semi**final* (indica ‘metade’), ***sesqui**centennario* (indica ‘um e meio’). Os multiplicativos de  origem  grega  também  são  usados  livremente:  ***tetra**campion,  **penta**gramma, **hexa**gonal*,  ***hemi**spherio*,  ***poly**syllabic*.  Adotam-se,  ainda,  os  prefixos  greco-latinos comuns  ao  Sistema  Internacional  de  pesos  e  medidas:  ***milli**metro*  (um  milésimo), ***centi**metro* (um centésimo), ***deci**metro* (um décimo), ***deca**metro* (dez vezes), ***hecto**metro* (cem vezes), ***kilo**metro* (mil vezes); e outros de uso mais recente: ***mega**byte, **giga**byte, **tera**byte*, ***micro**gramma*, ***nano**metro* etc.
 
-### Em outras palavras
+### 7. Em outras palavras
 
 Os numerais de 11 a 16, estudados na seção anterior, exemplificam como Interlingua permite que existam diferentes maneiras de dizer a mesma coisa em alguns casos. Às vezes,  essas  múltiplas  possibilidades  são  apresentadas  como  irregularidades.  Na verdade, não é bem assim.
 
@@ -1118,7 +1123,7 @@ Enfim, tudo o que se tratou nesta seção não é uma questão gramatical, mas a
 
 Isso quer dizer que não se pode dizer nada em Interlingua sem recorrer ao dicionário? Claro que se pode! A língua é viva e vai evoluindo à medida que as pessoas encontram saídas mais fáceis ou mais adequadas para dizer o que querem. Isso tem de acontecer de forma a não ferir a sonoridade nem as tradições do idioma, evidentemente. Todos os recursos de derivação admitidos em Interlingua provêm das línguas de controle e podem ser  usados  com  bastante  liberdade  pelos  usuários,  apenas  tendo  o  cuidado  de  não inventar aberrações.
 
-### Arranjos e desarranjos
+### 8. Arranjos e desarranjos
 
 Assim como a sua morfologia, a sintaxe de Interlingua é bem maleável e não impõe muitas restrições ao usuário da língua. Já vimos que os adjetivos podem vir tanto antes como  depois  do  substantivo  a  que  se  referem,  e  veremos  agora  mais  algumas orientações sobre o arranjo das palavras para formar orações e textos.
 
@@ -1614,7 +1619,7 @@ Le articulo de Wikipedia in  Interlingua sur le mesme thema presenta ancora alcu
 
 Un interview de 1998 con André Martinet, in que ille parla sur su relation con IALA e con le version definitive de Interlingua.
 
-### Um novo estilo
+### 9. Um novo estilo
 
 Nesta gramática, apresentei as regras essenciais para o manejo de Interlingua e debati, também, algumas alternativas e práticas que não são canônicas, ou seja que não estão explícitas nos textos fundamentais publicados pela IALA por ocasião do lançamento da língua, mas que se desenvolveram a partir do seu uso prático ao longo das últimas sete décadas.
 
@@ -1650,7 +1655,7 @@ Cento Almanaches plus tarde, il es arrivate le momento de concluder iste activit
 
 Io suspecta que le Almanac ha attingite su finalitate. Un bon quantitate de personas se interessava in illo, inviava commentarios, collaborava con textos e con auxilio technic. Le Union Mundial pro Interlingua me offereva gentilmente, desde  tosto,  un  pagina  in  su  sito  pro  immagazinar  le  editiones.  Le  revista *Panorama*,  que  es  le  principal  publication  impresse,  un  referentia  pro  tante interlinguistas,  lo  ha  divulgate  in  su  paginas.  E  un  numero  de  personas  me scribeva pro facer demandas sur Interlingua, solver dubitas o solmente practicar - de iste  conversationes  per  e-posta  e retes social se developpava plure bon amicitates virtual. Io considera tote iste cosas un ver honor e es multe grate a tote le personas qui ha participate de iste processo. Io pensava mesmo de mentionar lor  nomines,  ma  io  certemente  oblidarea  alcun  inter  tantes,  dunque  io  evita committer iste injustitia.
 
-### Interlingua para os poetas
+### 10. Interlingua para os poetas
 
 Uma  das  razões  pelas  quais  as  pessoas  se  interessam  por  uma  língua  auxiliar internacional  é  a  possibilidade  de  produzir  literatura  que  possa  ser  consumida  por plateias  de  diferentes  línguas  nativas.  Poemas,  canções,  contos,  romances,  ensaios, peças,  filmes,  tudo  isso  pode  ser  produzido  e  traduzido  em  Interlingua,  um  idioma suficientemente rico em recursos para proporcionar uma boa experiência  de fruição artística aos seus usuários.
 
@@ -1764,7 +1769,7 @@ Eis, então, as recomendações desta gramática aos compositores e tradutores d
 - Procure fazer apenas elipses que reflitam palavras naturais, existentes em ao menos uma das línguas de controle. No *Sonetto del expectation*, as duas elipses empregadas,  **tan'**  para  **tanto**  e  **pot'rea**  para  **poterea**,  apoiam-se  em  formas existentes em espanhol (*tan* e *podría*, respectivamente). Do contrário, é maior o risco de essas palavras reduzidas não serem reconhecidas pelos leitores.
 - O poeta mais talentoso é o que consegue compor com métrica e rimas perfeitas sem recorrer a muitos expedientes "fraudulentos" como a alteração da forma original  das  palavras.  Portanto,  não  abuse  do  número  de  elipses,  nem  faça elipses desnecessárias. A finalidade desse procedimento é reduzir o número de sílabas de um verso, de modo que ele caiba dentro de uma determinada métrica estabelecida  pelo  poeta.  No  soneto  acima,  por  exemplo,  todos  os  versos precisavam ter cinco sílabas poéticas (e sete sílabas no total).
 
-### Epílogo
+### 11. Epílogo
 
 Em Interlingua ainda existem temas abertos à discussão, como se pôde perceber ao longo desta gramática. Para várias questões há mais de uma resposta, todas elas corretas, ao menos até que uma se cristalize e se sobreponha às demais. É de muito pouca ajuda empenhar-se em discutir se quem diz hungare tem mais razão do que quem prefere hungarian, ou se quem pronuncia cérebro está mais certo do que quem fala cerébro. O que vai decidir essas "quedas de braço" é o uso continuado da língua. É possível que o estudante se sinta confuso com essa falta de rigidez, sobretudo durante o período em que ainda estiver se familiarizando com a língua. Mais tarde, provavelmente verá nisso uma virtude, uma vantagem: a possibilidade de divergir sem brigar. Diferentemente do que ocorreu com outras línguas planejadas, Interlingua não tem passado por cisões. Não há propostas de uma "Interlingua reformada" ou coisa que o valha. Cada usuário sempre pôde se expressar segundo o seu gosto sem que para isso precisasse fabricar uma nova língua. Eventuais erros de ortografia e gramática, tão comuns aos aprendizes de línguas estrangeiras, tampouco causam embaraço à compreensão mútua e não precisam ser condenados como atentados à boa linguagem, como ocorre com frequência nas línguas-padrão nacionais.
 
