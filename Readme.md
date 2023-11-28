@@ -359,10 +359,10 @@ Os pronomes pessoais de terceira pessoa em Vetum têm apenas uma forma:
 - **Le domus de ille es grande.** (A casa dele é grande.) - o gênero da casa é irrelevante, mas a pessoa que fala sabe que a casa pertence a um homem
 - **Le canis de ille es blanco.** (O cachorro dela é branco.) - o gênero do cachorro é irrelevante, mas a pessoa que fala sabe que o cachorro pertence a uma mulher
 
-É possível fazer uma contração juntando o "de + ille" formando-se **de'lle** (/dɛ ˈɛlɛ/).
+É possível fazer uma contração juntando o "de + ille" formando-se **de'lle** (/dɛ ˈilɛ/).
 
 - "de" seria pronunciado como /dɛ/ (semelhante ao "de" em português).
-- "lle" seria pronunciado como /ˈɛlɛ/ (a vogal "e" seguida da consoante "l" duas vezes).
+- "lle" seria pronunciado como /ˈilɛ/ (a vogal "i" seguida da consoante "l" duas vezes).
 
 #### Passo 3: Conjugação do Verbo
 
