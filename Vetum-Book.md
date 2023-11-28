@@ -163,7 +163,7 @@ Dificilmente a posição da sílaba tônica causará erro na compreensão de uma
 
 O trecho a seguir foi retirado do artigo *Le defia de un orthographia supradialectal*, publicado no Almanac de Interlingua número 99 em junho de 2018, que trata sobre a possibilidade de uma mesma grafia ser lida de maneiras diferentes segundo a origem ou sotaque do leitor:
 
-Le orthographia de Interlingua, in certe modo, es tamben supradialectal, un vice que illo permitte plus que un lectura pro plure parolas. On scribe *io fabrica*, que alcunos lege /fábɾika/ e alteres /fabɾíka/. On scribe *conscientia*, que se pote leger /konsiénsja/ o /konstsjéntsja/. On scribe *ha*, que se lege tanto /ha/ como /a/. Iste lecturas  alternative  es  official,  recognite  como  correcte  per  le  canones  de Interlingua. Il ha ancora alteres non-standard, ma practicate per gruppos specific de  parlatores.  Interlinguistas  de  origine  german  e  nordic,  per  exemplo,  sole pronunciar *qualitate* como /kvalitáte/, secundo lor habito native. Consonantes duple  con  lectura  geminate  es  tamben  parte  del  practica  currente  de  alcun interlinguistas,  mesmo  si  isto  non  es  standard. Iste  parlatores  distingue  *anno* /an:o/ de *ano* /ano/, cuje pronunciation official es identic, del mesme modo que locutores qui ha le phonema /y/ in lor lingua native tende a distinguer *papyro* de *papiro* e *beryllo* de *berillos*. Iste casos demonstra que Interlingua ha producte dialectos, ma conserva su unitate como lingua e accommoda con su systema orthographic tote iste variationes.
+Le orthographia de Interlingua, in certe modo, es tamben supradialectal, un vice que illo permitte plus que un lectura pro plure parolas. On scribe *yu fabrica*, que alcunos lege /fábɾika/ e alteres /fabɾíka/. On scribe *conscientia*, que se pote leger /konsiénsja/ o /konstsjéntsja/. On scribe *ha*, que se lege tanto /ha/ como /a/. Iste lecturas  alternative  es  official,  recognite  como  correcte  per  le  canones  de Interlingua. Il ha ancora alteres non-standard, ma practicate per gruppos specific de  parlatores.  Interlinguistas  de  origine  german  e  nordic,  per  exemplo,  sole pronunciar *qualitate* como /kvalitáte/, secundo lor habito native. Consonantes duple  con  lectura  geminate  es  tamben  parte  del  practica  currente  de  alcun interlinguistas,  mesmo  si  isto  non  es  standard. Iste  parlatores  distingue  *anno* /an:o/ de *ano* /ano/, cuje pronunciation official es identic, del mesme modo que locutores qui ha le phonema /y/ in lor lingua native tende a distinguer *papyro* de *papiro* e *beryllo* de *berillos*. Iste casos demonstra que Interlingua ha producte dialectos, ma conserva su unitate como lingua e accommoda con su systema orthographic tote iste variationes.
 
 Como se depreende desse fragmento, existem certas variações em relação às regras oficiais  que  são  praticadas  por  alguns  interlinguistas  e  não  causam  problema  à compreensão. Veja quais são as mais comuns:
 
@@ -189,7 +189,7 @@ O plural é indicado pelo acréscimo de **-s** às palavras que terminam em voga
 
 Nas palavras que não provêm da herança cultural greco-romana nem são de origem românica,  respeita-se  o  plural  da  língua  de  origem  ou  acrescenta-se  apenas  **-s**:  *un **whisky***, *duo **whiskies***; *un **match***, *duo **matches***; *un **sport***, *duo **sports***; *un **kebab***, *duo **kebabs***; *un **test***, *duo **tests***; *un **goal***, *duo **goals**.
 
-É permitido colocar uma palavra adjetiva no plural quando ela vem desacompanhada de substantivo: *Io ganiava tres camisas, un blanc e duo **verdes*** (Eu ganhei três camisas, uma branca e duas verdes); *Illa ha plure libros, alcun **noves** e altere **veteres*** (Ela tem vários livros, alguns novos e outros velhos). Note, porém, que apenas uma palavra deve indicar o plural: *alcun nove**s***, não "*alcunes noves*". Se o substantivo fosse repetido, teríamos *alcun libro**s** nove*, porque, estando presente o substantivo, é somente nele que deve ser indicado o plural.
+É permitido colocar uma palavra adjetiva no plural quando ela vem desacompanhada de substantivo: *Yu ganiava tres camisas, un blanc e duo **verdes*** (Eu ganhei três camisas, uma branca e duas verdes); *Illa ha plure libros, alcun **noves** e altere **veteres*** (Ela tem vários livros, alguns novos e outros velhos). Note, porém, que apenas uma palavra deve indicar o plural: *alcun nove**s***, não "*alcunes noves*". Se o substantivo fosse repetido, teríamos *alcun libro**s** nove*, porque, estando presente o substantivo, é somente nele que deve ser indicado o plural.
 
 Como  os  substantivos  não  têm  gênero  em  Interlingua,  as  palavras  adjetivas  que  os acompanham  não  variam  em  masculino  ou  feminino:  *le  auto  **longe***  (o  automóvel comprido), *le strata **longe*** (a rua comprida), *le tabulas **longe*** (as mesas compridas). Mesmo no caso de palavras que designam seres vivos do sexo masculino ou feminino, não há variação: *un homine **bon*** (um homem bom), *un femina **bon*** (uma mulher boa), *un  puero  **intelligente***  (um  menino  inteligente),  *un  puera  **intelligente***  (uma  menina inteligente).
 
@@ -277,7 +277,7 @@ Os pais **deles** compraram dois **outros** brinquedos.
 
 Ter **pouco** dinheiro é melhor que não ter **nenhum** dinheiro.
 
-***Qual** libros tu va voler? Io te recommenda **iste** libro de poemas.* **Quais** livros você vai querer? Eu lhe recomendo **este** livro de poemas.
+***Qual** libros tu va voler? Yu te recommenda **iste** libro de poemas.* **Quais** livros você vai querer? Eu lhe recomendo **este** livro de poemas.
 
 Todas essas palavras são usadas antes de um substantivo e, como acontece com todo adjetivo, não variam.
 
@@ -318,27 +318,27 @@ Nesse  exemplo,  **iste**  é  adjetivo  porque  acompanha  o  substantivo  **vi
 
 *Alcun personas es ric, **alteres** es povre*. (subentende-se ***altere personas***) Algumas pessoas são ricas, **outras** são pobres.
 
-*Io ha solmente un fratre. **Quantes** ha tu?* (subentende-se ***quante fratres***) Eu tenho só um irmão. **Quantos** você tem?
+*Yu ha solmente un fratre. **Quantes** ha tu?* (subentende-se ***quante fratres***) Eu tenho só um irmão. **Quantos** você tem?
 
 São pronomes interrogativos: **que** (que, o que), **qui** (quem), **ubi** (onde, aonde), **quanto** (quanto), **como** (como). Essas palavras são invariáveis, mas podem combinar-se com preposições: **per que** (por que), **pro que** (para que), **de ubi** (de onde), **a qui** (a quem, para quem), **de qui** (de quem), **con qui** (com quem). Eis alguns exemplos:
 
-***Quanto** costa iste bursa? Io non sape **quanto** illo costa.* Quanto custa esta bolsa? Eu não sei quanto ela custa.
+***Quanto** costa iste bursa? Yu non sape **quanto** illo costa.* Quanto custa esta bolsa? Eu não sei quanto ela custa.
 
-***A qui** pertine iste penna? Io non sape **a qui** illo pertine.*
+***A qui** pertine iste penna? Yu non sape **a qui** illo pertine.*
 
 A quem pertence esta caneta? Não sei a quem ela pertence.
 
 ***Como** va tu parentes? E tu infantes, **como** va?* Como vão os seus pais? E seus filhos, como vão?
 
-***Per que** tu non veni con nos? Perque io debe travaliar.*
+***Per que** tu non veni con nos? Perque yu debe travaliar.*
 
 Por que você não vem conosco? Porque eu preciso trabalhar.
 
 A  terminação  -**cunque**  pode  ser  acrescida  a  alguns  desses  pronomes  para  indicar indiferença. A tradução varia segundo o caso:
 
-***Qualcunque** sia su explicationes, io non vole audir los.* Quaisquer que sejam as explicações dele, não quero ouvi-las.
+***Qualcunque** sia su explicationes, yu non vole audir los.* Quaisquer que sejam as explicações dele, não quero ouvi-las.
 
-*Io acceptara le auxilio de **quicunque**.* Aceitarei a ajuda de quem quer que seja.
+*Yu acceptara le auxilio de **quicunque**.* Aceitarei a ajuda de quem quer que seja.
 
 *Face lo **comocunque** tu prefere.* Faça isso do jeito que você preferir.
 
@@ -354,7 +354,7 @@ São pronomes relativos: **que** (que), **qui** (que, quem), **le qual** (o qual
 
 *Le joculos **que** vos dava a Raphael es inadequate a su etate.*(ou: ***le quales***) Os brinquedos que vocês deram ao Rafael são inadequados à idade dele.
 
-*Un del argentinos **de qui** io te parlava deveniva un grande amico mie*. (ou: ***del qual***) Um dos argentinos de quem eu te falei tornou-se um grande amigo meu.
+*Un del argentinos **de qui** yu te parlava deveniva un grande amico mie*. (ou: ***del qual***) Um dos argentinos de quem eu te falei tornou-se um grande amigo meu.
 
 *Le computatores es apparatos **sin le quales** nos ja non pote viver.* (ou: ***sin que***) Os computadores são aparelhos sem os quais já não podemos viver.
 
@@ -364,7 +364,7 @@ Os  pronomes  **lo  que**  e  **le  qui**  combinam  um  demonstrativo  com  out
 
 O que você está me contando é muito sério.
 
-*Ci es le bibitas que io apportava e la **los que** apportava Roberto.* Aqui estão as bebidas que eu trouxe e lá as que o Roberto trouxe.
+*Ci es le bibitas que yu apportava e la **los que** apportava Roberto.* Aqui estão as bebidas que eu trouxe e lá as que o Roberto trouxe.
 
 ***Les qui** desira participar, per favor leva le mano.*
 
@@ -380,7 +380,7 @@ Os pronomes pessoais em Interlingua são os seguintes:
 
 <table><tr><th colspan="1" rowspan="2" valign="top">Pessoa gramatical </th><th colspan="1" rowspan="2" valign="top">Sujeito </th><th colspan="2">Objeto </th></tr>
 <tr><td colspan="1">Sem preposição </td><td colspan="1">Com preposição </td></tr>
-<tr><td colspan="1">1ª singular </td><td colspan="1"><b>io</b> </td><td colspan="1"><b>me</b> </td><td colspan="1"><b>me</b> </td></tr>
+<tr><td colspan="1">1ª singular </td><td colspan="1"><b>yu</b> </td><td colspan="1"><b>me</b> </td><td colspan="1"><b>me</b> </td></tr>
 <tr><td colspan="1">2ª singular </td><td colspan="1"><b>tu</b> </td><td colspan="1"><b>te</b> </td><td colspan="1"><b>te</b> </td></tr>
 <tr><td colspan="1">3ª singular </td><td colspan="1"><b>ille illa illo</b> </td><td colspan="1"><b>le la lo</b> </td><td colspan="1"><b>ille illa illo</b> </td></tr>
 <tr><td colspan="1">1ª plural </td><td colspan="1"><b>nos</b> </td><td colspan="1"><b>nos</b> </td><td colspan="1"><b>nos</b> </td></tr>
@@ -390,7 +390,7 @@ Os pronomes pessoais em Interlingua são os seguintes:
 
 Há, ainda, os pronomes pessoais **on**, **il** e **se**, que serão explicados adiante. O pronome sujeito é usado sozinho ou como sujeito de um verbo:
 
-***Tu** sape ubi es le pharmacia le plus proxime?  Qui, **io**?*
+***Tu** sape ubi es le pharmacia le plus proxime?  Qui, **yu**?*
 
 Você sabe onde fica a farmácia mais próxima? Quem, eu?
 
@@ -406,7 +406,7 @@ Aqui está minha filha. Tome conta dela, por favor.
 
 *Tu pote explicar **me** como functiona iste telephono?* Você pode me explicar como este telefone funciona?
 
-*Dice a **ille** que io non pote vider **le** ora.* Diga a ele que eu não posso vê-lo agora.
+*Dice a **ille** que yu non pote vider **le** ora.* Diga a ele que eu não posso vê-lo agora.
 
 Os seres vivos machos são referidos pelo pronome pessoal **ille**; os seres vivos fêmeas, por **illa**; para todos os casos restantes, usa-se **illo**. Veja alguns exemplos:
 
@@ -426,17 +426,17 @@ No plural, usa-se **illes**, **illas** ou **illos**, conforme o caso: *Ecce Sara
 
 As mesmas orientações servem para o uso das formas **le**, **la** e **lo**. É importante ter em mente que não existe distinção de gênero gramatical em Interlingua. Seres que não têm sexo (como *casa, auto, computator*), ou cujo sexo não é conhecido ou não é relevante para aquilo que se quer dizer (por exemplo *bebe, infante, catto*), devem sempre ser referidos por **illo**  ou  **lo**.  As formas  **ille**  e  **le**  são exclusivas para o sexo masculino, enquanto **illa** e **la** são exclusivas para o sexo feminino – convém não confundir sexo (biológico) com gênero (gramatical).
 
-Como acontece em todas as línguas de controle, a forma gramatical masculina também pode ser usada para englobar homens e mulheres: *Iste personas veniva ci, ma io non sape lo que **illes** vole* (Estas pessoas vieram até aqui, mas eu não sei o que elas querem). Em frases desse tipo, o uso de **illes** transmite uma ideia mais "humana" do que **illos**.
+Como acontece em todas as línguas de controle, a forma gramatical masculina também pode ser usada para englobar homens e mulheres: *Iste personas veniva ci, ma yu non sape lo que **illes** vole* (Estas pessoas vieram até aqui, mas eu não sei o que elas querem). Em frases desse tipo, o uso de **illes** transmite uma ideia mais "humana" do que **illos**.
 
 As palavras **illo** e **lo** também são usadas como pronomes demonstrativos, do mesmo modo que **isto**: ***Isto** es un cuppa* (Isto é uma taça); ***Illo** es un cuppa* (Aquilo é uma taça); ***Lo** que tu vide es un cuppa* (O que você está vendo é uma taça); *Le mie es un tassa e **lo** de mi amica, un cuppa* (A minha é uma xícara e a da minha amiga, uma taça).
 
-Não há regras rígidas sobre a posição dos pronomes pessoais em relação ao verbo. Assim,  tanto  se  pode  dizer  *Io  **te**  ama*  como  *Io  ama  **te***.  Para  ser  fiel  ao  uso  mais difundido entre as línguas românicas, de um modo geral, coloca-se o pronome depois do verbo apenas em três casos:
+Não há regras rígidas sobre a posição dos pronomes pessoais em relação ao verbo. Assim,  tanto  se  pode  dizer  *Yu  **te**  ama*  como  *Yu  ama  **te***.  Para  ser  fiel  ao  uso  mais difundido entre as línguas românicas, de um modo geral, coloca-se o pronome depois do verbo apenas em três casos:
 
-1) verbo no infinitivo: *Io vole incontrar **te** hodie.* (Quero encontrar você hoje);
+1) verbo no infinitivo: *Yu vole incontrar **te** hodie.* (Quero encontrar você hoje);
 1) verbo no gerúndio: *Auxiliante **le**, tu va facer un bon action.* (Ajudando-o, você vai fazer uma boa ação);
 1) verbo no imperativo:  *Da **me** tu adresse, per favor*. (Dê-me o seu endereço, por favor).
 
-Em  todos  os  demais  casos,  o  pronome  pode  ser  colocado  antes  do  verbo:  *Ille  **la** incontrava presso al placia* (Ele a encontrou perto da praça); *Tu vole que io **te** auxilia?* (Você quer que eu te ajude?); *Illes **nos** va offerer un festa* (Eles vão nos oferecer uma festa). Nessa última frase, poderíamos optar por posicionar o pronome após *offerer*, que está no infinitivo: *Illes va offerer **nos** un festa*.
+Em  todos  os  demais  casos,  o  pronome  pode  ser  colocado  antes  do  verbo:  *Ille  **la** incontrava presso al placia* (Ele a encontrou perto da praça); *Tu vole que yu **te** auxilia?* (Você quer que eu te ajude?); *Illes **nos** va offerer un festa* (Eles vão nos oferecer uma festa). Nessa última frase, poderíamos optar por posicionar o pronome após *offerer*, que está no infinitivo: *Illes va offerer **nos** un festa*.
 
 Diferentemente  do  que  ocorre  em  português  ou  em  outras  línguas,  em  Interlingua muitas regras não têm a função de estabelecer quem escreve certo ou errado. Por isso, elas devem ser encaradas como orientações. Colocar um pronome entre dois verbos (*Illes  va  **nos**  offerer  un  festa*)  não  é  propriamente  um  erro  gramatical;  apenas  não corresponde ao uso mais frequente entre os interlinguistas.
 
@@ -480,7 +480,7 @@ Também se usa **il** com o verbo **haber** para indicar existência:
 
 ***Il habera** un prandio post le graduation* (Haverá um almoço após a formatura).
 
-O pronome reflexivo **se** indica que o objeto é idêntico ao sujeito: *Mario **se** fatigava* (Mário se cansou, isto é, "Mário cansou a si mesmo"). Ele é usado apenas nas terceiras pessoas do singular e do plural; para as outras pessoas, usam-se os pronomes-objeto comuns: *Io **me** fatigava* (Eu me cansei)*, Tu **te** fatigava* (Você se cansou)*, Nos **nos** fatigava*  (Nós  nos  cansamos)*,  Vos  **vos**  fatigava*  (Vocês  se  cansaram)*.*  Veja  mais exemplos:
+O pronome reflexivo **se** indica que o objeto é idêntico ao sujeito: *Mario **se** fatigava* (Mário se cansou, isto é, "Mário cansou a si mesmo"). Ele é usado apenas nas terceiras pessoas do singular e do plural; para as outras pessoas, usam-se os pronomes-objeto comuns: *Yu **me** fatigava* (Eu me cansei)*, Tu **te** fatigava* (Você se cansou)*, Nos **nos** fatigava*  (Nós  nos  cansamos)*,  Vos  **vos**  fatigava*  (Vocês  se  cansaram)*.*  Veja  mais exemplos:
 
 *Illa **se** ledeva con un cultello.* (Ela se machucou com uma faca)
 
@@ -490,7 +490,7 @@ O pronome reflexivo **se** indica que o objeto é idêntico ao sujeito: *Mario *
 
 *Sede **vos**, senioras!* (Sentem-se, senhoras!)
 
-*Io non pote oblidar **me** de isto*. (Não posso me esquecer disso)
+*Yu non pote oblidar **me** de isto*. (Não posso me esquecer disso)
 
 *Nos non **nos** informava sur le test.* (Nós não nos informamos sobre o teste)
 
@@ -534,9 +534,9 @@ As formas finitas correspondem aos "tempos verbais", que em Interlingua são ape
 
 Repare  que,  embora  haja  verbos  terminados  em  **-ar**,  -**er**  e  **-ir**,  isso  não  afeta  a conjugação, que é idêntica para todos os verbos. A partir desse paradigma, pode-se conjugar qualquer verbo. Como indicado no quadro acima, as terminações -**ra** e -**rea** sempre  carregam  o  acento  tônico:  *cantara*  se  pronuncia  "kantará"  e  *cantarea*  é "kantaréa".
 
-A mesma forma verbal serve para todas as pessoas gramaticais: *io **lege*** (eu leio), *tu **lege*** (você lê, tu lês), *ille **lege*** (ele lê), *illa lege* (ela lê), *nos **lege*** (nós lemos, a gente lê), *vos **lege*** (vocês leem, vós ledes), *illes e illas **lege*** (eles e elas leem).
+A mesma forma verbal serve para todas as pessoas gramaticais: *yu **lege*** (eu leio), *tu **lege*** (você lê, tu lês), *ille **lege*** (ele lê), *illa lege* (ela lê), *nos **lege*** (nós lemos, a gente lê), *vos **lege*** (vocês leem, vós ledes), *illes e illas **lege*** (eles e elas leem).
 
-Em Interlingua não há tempos contínuos. Então, ***io canta*** pode ser traduzido como ‘eu canto’ ou ‘eu estou cantando’, segundo o contexto:
+Em Interlingua não há tempos contínuos. Então, ***yu canta*** pode ser traduzido como ‘eu canto’ ou ‘eu estou cantando’, segundo o contexto:
 
 *Antonio **travalia** multo.*** (O Antônio trabalha muito)
 
@@ -544,23 +544,23 @@ Em Interlingua não há tempos contínuos. Então, ***io canta*** pode ser tradu
 
 Também não há distinção entre pretérito perfeito e imperfeito:
 
-*Io **studiava** espaniol per duo annos.* (Eu estudei espanhol por dois anos)
+*Yu **studiava** espaniol per duo annos.* (Eu estudei espanhol por dois anos)
 
-*Io sempre **studiava** espaniol a nocte.* (Eu sempre estudava espanhol à noite)
+*Yu sempre **studiava** espaniol a nocte.* (Eu sempre estudava espanhol à noite)
 
-*Io **studiava** espaniol quando tu **telephonava*** (Eu estava estudando espanhol quando você telefonou)
+*Yu **studiava** espaniol quando tu **telephonava*** (Eu estava estudando espanhol quando você telefonou)
 
-Para o futuro, existe uma construção opcional com o auxiliar **va** seguido do infinitivo. Em outras palavras, podemos escolher entre **io viagiara** (eu viajarei) ou **io va viagiar** (eu vou viajar), exatamente como em português.
+Para o futuro, existe uma construção opcional com o auxiliar **va** seguido do infinitivo. Em outras palavras, podemos escolher entre **yu viagiara** (eu viajarei) ou **yu va viagiar** (eu vou viajar), exatamente como em português.
 
 O condicional equivale ao nosso "futuro do pretérito": *Nina **amarea** ganiar un dono* (Nina adoraria ganhar um presente).
 
 Não  existe  modo  subjuntivo  em  Interlingua.  Os  mesmos  tempos  verbais  usados  no indicativo servem para o subjuntivo, dependendo do sentido da frase:
 
-*Illa vole que io la **visita**.*(Ela quer que eu a visite)
+*Illa vole que yu la **visita**.*(Ela quer que eu a visite)
 
-*Illa voleva que io la **visitava** heri.* (Ela queria que eu a visitasse ontem) *Si illa **vole**, io la visitara deman.* (Se ela quiser, eu a visitarei amanhã) *Quando illa **volera**, io la visitara.* (Quando ela quiser, eu a visitarei)
+*Illa voleva que yu la **visitava** heri.* (Ela queria que eu a visitasse ontem) *Si illa **vole**, yu la visitara deman.* (Se ela quiser, eu a visitarei amanhã) *Quando illa **volera**, yu la visitara.* (Quando ela quiser, eu a visitarei)
 
-Um  erro  comum  dos  lusófonos  que  usam  Interlingua  é  empregar  o  infinitivo  para indicar hipóteses: "*si io studiar plus*" em vez de *si io **studia** plus* (se eu estudar mais). Em Interlingua, usa-se o presente nesses casos, sendo errado usar o infinitivo.
+Um  erro  comum  dos  lusófonos  que  usam  Interlingua  é  empregar  o  infinitivo  para indicar hipóteses: "*si yu studiar plus*" em vez de *si yu **studia** plus* (se eu estudar mais). Em Interlingua, usa-se o presente nesses casos, sendo errado usar o infinitivo.
 
 O infinitivo também não se presta a formar orações reduzidas em Interlingua, o que causa dificuldade para nós falantes do português. É errado dizer "*pro illa apprender*", devendo-se  nesses  casos  usar  uma  oração  subordinada:  *pro  que  illa  apprende*.  A tradução fica ao gosto de cada um, já que em português ambas as formas são corretas: ‘para ela aprender’ ou ‘para que ela aprenda’.
 
@@ -618,9 +618,9 @@ Passado,  futuro  e  condicional  compostos  (ou  "perfeitos")  têm  tradução
 
 Ela tinha comprado uma blusa nova (ou ‘havia comprado’ ou ‘comprara’).
 
-*Io **habera concluse** mi curso le proxime estate.*  Terei concluído meu curso no próximo verão.
+*Yu **habera concluse** mi curso le proxime estate.*  Terei concluído meu curso no próximo verão.
 
-*Si tu habeva demandate, io te lo **haberea dicte**.*
+*Si tu habeva demandate, yu te lo **haberea dicte**.*
 
 Se você tivesse perguntado, eu teria dito isso a você.
 
@@ -635,7 +635,7 @@ A gente tem trabalhado demais ultimamente.
 *Tu ja **ha essite** in Paris?*
 Você já esteve em Paris?
 
-*Io **ha studiate** tote le nocte e ora io ha somno.*
+*Yu **ha studiate** tote le nocte e ora yu ha somno.*
 Estudei a noite toda e agora estou com sono.
 
 É permitido, embora pouco usual, usar o auxiliar **esser** com certos verbos intransitivos, como em francês, italiano ou alemão: *Le film **es finite*** (O filme acabou); *Elvis non **es morte*** (Elvis não morreu); *Le hora **es arrivate*** (É chegada a hora).
@@ -650,7 +650,7 @@ O particípio presente (às  vezes  chamado de "gerúndio") pode ser traduzido  
 
 - como substantivo ou adjetivo, indicando um agente: _un **amante**_ (um ou uma amante)_, un **studiante**_** (um ou uma estudante)_, un **agente** secrete_ (um agente secreto)_, un persona **innocente**_ (uma pessoa inocente)_, un puero **irritante**_ (um menino irritante)_, un anciano **sapien**_ (um ancião sábio).
 
-- como  advérbio,  indicando  uma  circunstância:  ***Bibente**  assi,  tu  tosto  morira* (Bebendo assim, você logo morrerá); *Io passava le die **vidente** television* (Passei o dia vendo televisão); ***Faciente** lo, tu me auxiliara multo* (Fazendo isso, você me ajudará muito).
+- como  advérbio,  indicando  uma  circunstância:  ***Bibente**  assi,  tu  tosto  morira* (Bebendo assim, você logo morrerá); *Yu passava le die **vidente** television* (Passei o dia vendo televisão); ***Faciente** lo, tu me auxiliara multo* (Fazendo isso, você me ajudará muito).
 
 - como oração adjetiva: *Le puero **portante** pantalones jeans es mi cosino Tom* (O rapaz que está vestindo calça jeans é meu primo Tom); *Le cassas **continente** nostre  cosas  ha  restate  in  le  auto*  (As  caixas  que  contêm  as  nossas  coisas ficaram  no  carro).  Nesse  caso,  sempre  será  possível  optar  por  um  pronome relativo:  *Le  puero  **qui  porta**  pantalones  jeans  es  mi  cosino;  Le  cassas  **que contine** nostre cosas ha restate in le auto*.
 
@@ -670,9 +670,9 @@ Altere radice versatile es lo del verbo *solvere*, cuje senso basic in latino es
 
 Como já foi dito, não existem tempos contínuos em Interlingua: tanto ‘ele escreve’ como ‘ele está escrevendo’ se diz **ille scribe**. O verbo **star**, aliás, não corresponde ao nosso ‘estar’; **star** é cognado com o inglês *stand* e significa ‘ficar em pé’, ‘estar parado na posição vertical’: *Un homine estranie **sta** sur le trottoir* (Um homem estranho está parado na calçada). O verbo ‘estar’ em Interlingua é **esser**, igual ao verbo ‘ser’: *Illa non **es** in casa ora* (Ela não está em casa agora). Não se deve dizer, então, "**ille es scribente**" e muito  menos "**ille sta scribente**", mas simplesmente  **ille scribe**. Uma construção extraoficial que se vê usada às vezes é **va** seguido de gerúndio: **le cosas va meliorante** (as coisas vão/estão melhorando) em lugar de **le cosas meliora**.
 
-Para traduzir o nosso gerúndio após outro verbo, emprega-se **a** seguido do infinitivo: **illa  continuava  a  dormir**  (ela  continuava  dormindo),  **io  remanera  a  creder**  (eu continuarei  acreditando),  **tu  resta  a  pensar**  (você  fica  pensando).  Embora  pouco comum,  também  é  possível  dizer  **illa  es  a  travaliar**  (ela  está  trabalhando)  caso  a construção **illa travalia** não for suficientemente clara.
+Para traduzir o nosso gerúndio após outro verbo, emprega-se **a** seguido do infinitivo: **illa  continuava  a  dormir**  (ela  continuava  dormindo),  **yu  remanera  a  creder**  (eu continuarei  acreditando),  **tu  resta  a  pensar**  (você  fica  pensando).  Embora  pouco comum,  também  é  possível  dizer  **illa  es  a  travaliar**  (ela  está  trabalhando)  caso  a construção **illa travalia** não for suficientemente clara.
 
-Dois verbos em sequência podem aparecer separados por **a** ou **de** quando o segundo está no infinitivo, mas não há regras rígidas sobre isso: **io commencia a leger** também pode  ser  dito  **io  commencia  leger**  (começo  a  ler).  As  línguas  de  controle  são divergentes  quanto  a  isso,  e  por  esse  motivo  Interlingua  não  estabelece  normas absolutas. O francês, por exemplo, utiliza a preposição **de** com mais frequência do que o português: **io decideva de viagiar**, diria um interlinguista francófono, ao passo que um lusófono tenderia a dizer simplesmente **io decideva viagiar** (decidi viajar).
+Dois verbos em sequência podem aparecer separados por **a** ou **de** quando o segundo está no infinitivo, mas não há regras rígidas sobre isso: **yu commencia a leger** também pode  ser  dito  **yu  commencia  leger**  (começo  a  ler).  As  línguas  de  controle  são divergentes  quanto  a  isso,  e  por  esse  motivo  Interlingua  não  estabelece  normas absolutas. O francês, por exemplo, utiliza a preposição **de** com mais frequência do que o português: **yu decideva de viagiar**, diria um interlinguista francófono, ao passo que um lusófono tenderia a dizer simplesmente **yu decideva viagiar** (decidi viajar).
 
 ### 5. Palavrinhas úteis
 
@@ -716,9 +716,9 @@ Muitos  advérbios  também  podem  ser  formados  com  **-o**:  **claro**  (=*c
 3) um outro advérbio: ***multo** rapidemente, un **poco** rapido, **tanto** rapido.*
 4) uma frase inteira: ***Certemente** ille venira*; ***Claro** que ille venira*.
 
-Também é preciso distinguir **no**, usado para responder a uma pergunta, e **non**, que traduz a palavra *não* em todas as demais situações: ***No**, io **non** lo sape* (Não, eu não sei). Em respostas indiretas, também se usa **no**: *Illa diceva que **no*** (Ela disse que não); *Io crede que **no*** (Eu acho que não). A diferença é a mesma que existe em inglês (*no* e *not*) e francês (*non* e *ne...pas*).
+Também é preciso distinguir **no**, usado para responder a uma pergunta, e **non**, que traduz a palavra *não* em todas as demais situações: ***No**, yu **non** lo sape* (Não, eu não sei). Em respostas indiretas, também se usa **no**: *Illa diceva que **no*** (Ela disse que não); *Yu crede que **no*** (Eu acho que não). A diferença é a mesma que existe em inglês (*no* e *not*) e francês (*non* e *ne...pas*).
 
-Confundem-se, ainda, o afirmativo **si** (sim) e a conjunção **si** (se); quando houver esse risco, esta gramática recomenda pôr um acento diferencial no advérbio de afirmação: ***Sí**, **si** tu venira nos habera un festa* (Sim, se você vier teremos uma festa). Igualmente se usamos  este  advérbio  como  sinônimo  de  **ya**,  para  intensificar  ou  realçar  algo  que dizemos: *Io vole **sí** que tu veni* (Eu quero sim que você venha). O terceiro **si** (tão) é sinônimo  de  **tanto**  e  dificilmente  seria  confundido  com  os  demais:  ***Si**  tosto  que  le parentes sorti, Julia appella su amica* (Tão logo os pais saem, Júlia liga para a amiga dela).
+Confundem-se, ainda, o afirmativo **si** (sim) e a conjunção **si** (se); quando houver esse risco, esta gramática recomenda pôr um acento diferencial no advérbio de afirmação: ***Sí**, **si** tu venira nos habera un festa* (Sim, se você vier teremos uma festa). Igualmente se usamos  este  advérbio  como  sinônimo  de  **ya**,  para  intensificar  ou  realçar  algo  que dizemos: *Yu vole **sí** que tu veni* (Eu quero sim que você venha). O terceiro **si** (tão) é sinônimo  de  **tanto**  e  dificilmente  seria  confundido  com  os  demais:  ***Si**  tosto  que  le parentes sorti, Julia appella su amica* (Tão logo os pais saem, Júlia liga para a amiga dela).
 
 Há também duas palavras **la** que podem se confundir. Em *Ille **la** basiava* (Ele a beijou), temos o pronome objeto equivalente a ‘ela’. Em *Ille esseva **la*** (Ele estava lá), temos o advérbio de lugar que quer dizer ‘lá’, ‘aí’, ‘ali’, ‘naquele lugar’. Se houver risco de confusão, recomenda-se acentuar o advérbio: *Ille **la** duceva **lá*** (Ele a levou lá).
 
@@ -734,13 +734,13 @@ A Sônia é mais inteligente que a irmã dela.
 
 O César é menos veloz que o irmão dele.
 
-*Tu es **tanto** curiose **como** io.* Você é tão curioso quanto eu.
+*Tu es **tanto** curiose **como** yu.* Você é tão curioso quanto eu.
 
 No superlativo, acrescenta-se opcionalmente **le**:
 
-*Tu es le puera **le plus** belle que io ha viste.* Você é a menina mais linda que eu já vi.
+*Tu es le puera **le plus** belle que yu ha viste.* Você é a menina mais linda que eu já vi.
 
-*Iste es le film **le minus** interessante que io ha viste.* Este é o filme menos interessante que eu já vi.
+*Iste es le film **le minus** interessante que yu ha viste.* Este é o filme menos interessante que eu já vi.
 
 **Troppo de** (demais), **plus de** (mais), **tanto de** (tanto) e **quanto de** (quanto) aparecem diante de substantivos:
 
@@ -748,7 +748,7 @@ No superlativo, acrescenta-se opcionalmente **le**:
 
 *Esque tu vole **plus de** aqua ?* Quer mais água ?
 
-*Io jammais habeva viste **tanto de** pecunia!* (ou: ***tante** pecunia*) Eu nunca tinha visto tanto dinheiro!
+*Yu jammais habeva viste **tanto de** pecunia!* (ou: ***tante** pecunia*) Eu nunca tinha visto tanto dinheiro!
 
 ***Quanto de** sal se debe mitter al ris?* (ou: ***Quante sal** se debe...*) Quanto sal é preciso pôr no arroz?
 
@@ -784,7 +784,7 @@ O  emprego  das  preposições  é  menos  rigoroso  em  Interlingua  do  que  n
 
 As conjunções coordenativas são **e** (e), **o** (ou), **ma** (mas), **ni** (nem). Há também algumas que funcionam em pares: **tanto... como...** (tanto... como...), **ni... ni...** (nem... nem...), **o... o...** (ou... ou...), **sia... sia...** (seja... seja..., quer... quer...), **non solo... ma anque...** (não só... mas também...). Essas conjunções ligam orações ou partes de orações que são independentes entre si. Veja alguns exemplos:
 
-*Carolina **e** io voleva vader al plagia, **ma** il pluveva **e** nos restava in casa.* Carolina e eu queríamos ir à praia, mas choveu e nós ficamos em casa.
+*Carolina **e** yu voleva vader al plagia, **ma** il pluveva **e** nos restava in casa.* Carolina e eu queríamos ir à praia, mas choveu e nós ficamos em casa.
 
 *Tu debe seliger: **o** un cosa **o** le altere.*
 
@@ -798,7 +798,7 @@ Nem meu marido nem minha filha quiseram comer o meu espaguete.
 
 As conjunções subordinativas mais importantes são **que** (que), **si** (se), **como** (como), **quando**  (quando),  **perque**  (porque).  Como  acontece  com  as  preposições,  podem-se formar inúmeras novas conjunções acrescentando-se todo tipo de palavra: ***sin que*** (sem que), ***a minus que*** (a menos que, a não ser que), ***durante que*** (enquanto que, ao passo que), ***proviste que*** (contanto que), ***de sorta que*** ou ***de maniera que*** ou ***assi que*** (de modo que), ***si tosto que*** (assim que, tão logo), ***post que*** (depois que; já que), ***viste que*** (visto que, uma vez que), ***ante que*** (antes que), ***ben que*** (embora, apesar de), ***a mesura que*** (à medida que), ***a fin que*** ou ***pro que*** (a fim de que, para que), ***como si*** (como se), ***assi como*** ou ***del mesme modo que*** (assim como, do mesmo jeito que), ***ultra que*** (além de que). Eis alguns exemplos:
 
-***Como** nos accordava, io te pagara **post que** tu finira le servicio.*
+***Como** nos accordava, yu te pagara **post que** tu finira le servicio.*
 
 Como combinamos, eu pagarei a você depois que você terminar o serviço.
 
@@ -812,25 +812,25 @@ A Clara avisou que se atrasará, de modo que vamos começar sem ela.
 
 As  gramáticas  tradicionalmente  classificam  alguns  advérbios  como  conjunções,  de modo que o leitor desta gramática de Interlingua talvez estranhe algumas classificações apresentadas aqui. A conjunção é um conectivo, um termo que faz a ligação entre partes de  uma  oração  ou  entre  várias  orações.  Em  geral,  tem  posição  fixa.  Já  o  advérbio costuma vir entre vírgulas e pode ser usado de modo mais ou menos livre dentro da oração. Muitas vezes, uma conjunção e um advérbio têm o mesmo significado:
 
-*Illa me tracta mal, **ma** io sape que illa me ama*.
+*Illa me tracta mal, **ma** yu sape que illa me ama*.
 
 **Ma** é conjunção: não pode ser trocado de lugar na oração, e não precisa de uma vírgula para separá-la do que vem à frente.
 
-*Illa me tracta mal. **Totevia**, io sape que illa me ama.*
+*Illa me tracta mal. **Totevia**, yu sape que illa me ama.*
 
-**Totevia** é advérbio: fica separado do resto da oração por uma ou duas vírgulas e pode ser trocado de lugar – *Io sape que illa me ama, totevia. Io sape, totevia, que illa me ama. Io sape que illa, totevia, me ama.*
+**Totevia** é advérbio: fica separado do resto da oração por uma ou duas vírgulas e pode ser trocado de lugar – *Yu sape que illa me ama, totevia. Yu sape, totevia, que illa me ama. Yu sape que illa, totevia, me ama.*
 
 Ao longo de toda a história de Interlingua, tem-se utilizado a conjunção "**proque**" com
 
 - mesmo  sentido  que  **perque**  (porque).  Porém,  **pro**  é  uma  preposição  que  indica finalidade (*para*, *a fim de que*), ao passo que **per** indica razão ou motivo (*por*, *por causa de*).  Por  questão  de  coerência,  então,  recomendamos  apenas  o  uso  de  **perque**  para traduzir a nossa palavra *porque*,* e da forma separada **pro que** para traduzir a expressão *para que*:
 
-  *Io face isto **perque** io te ama*.
+  *Yu face isto **perque** yu te ama*.
 
 Estou fazendo isso porque eu amo você.
 
 (O motivo pelo qual estou fazendo isso é o amor que sinto por você)
 
-*Io face isto **pro que** tu me ama*.
+*Yu face isto **pro que** tu me ama*.
 
 Estou fazendo isto para que você me ame.
 
@@ -908,9 +908,9 @@ Para os numerais ordinais, o mais comum é modificar apenas o último elemento: 
 
 Os  ordinais  também  servem  como  fracionários,  bastando  mudar  a  terminação  para substantivá-lo: *un **tertio** de mi renta* (um terço da minha renda), *un **octavo** del pizza* (um oitavo  da  pizza),  *cinque  **duodecimos**  de  toto*  (cinco  doze  avos  de  tudo),  *trenta **centesimos** de secunda* (trinta centésimos de segundo). A única exceção é **medie**: ***medie** bottilia de vino* (meia garrafa de vinho), ***medie** million de reales* (meio milhão de reais), ***medie**  hora*  (meia  hora).  **Medie**  é  um  adjetivo;  o  substantivo  correspondente  é **medietate** (metade).
 
-**Medie** e **quarto** são usados para dizer as horas: *Il es cinque e quarto* (São 5:15); *Il esseva tres e medie* (Eram 3:30); *Le incontro es a un e tres quartos* ou *Le incontro es a duo minus quarto* (O encontro é à 1:45). Também aparecem em **mediedie** (meio-dia) e **medienocte** (meia-noite). Para os demais horários, usam-se números cardinais: *Ora es sex  e  trenta-cinque*  (Agora  são  6:35);  *Io  me  leva  a  septe  e  quaranta  del  matino* (Levanto-me às 7:40 da manhã); *Io me evelia a septe minus vinti* (Eu acordo às 6:40) .
+**Medie** e **quarto** são usados para dizer as horas: *Il es cinque e quarto* (São 5:15); *Il esseva tres e medie* (Eram 3:30); *Le incontro es a un e tres quartos* ou *Le incontro es a duo minus quarto* (O encontro é à 1:45). Também aparecem em **mediedie** (meio-dia) e **medienocte** (meia-noite). Para os demais horários, usam-se números cardinais: *Ora es sex  e  trenta-cinque*  (Agora  são  6:35);  *Yu  me  leva  a  septe  e  quaranta  del  matino* (Levanto-me às 7:40 da manhã); *Yu me evelia a septe minus vinti* (Eu acordo às 6:40) .
 
-As terminações **-o** e **-mente** também podem servir para transformar os ordinais em advérbios  de  enumeração:  ***Primo**,  io  va  al  cinema;  **secundo**,  al  banca;  **ultimo**,  io retorna a casa* (Primeiro, vou ao cinema; segundo, ao banco; por último volto para casa). A tradução em português é livre: primeiro, primeiramente, em primeiro lugar.
+As terminações **-o** e **-mente** também podem servir para transformar os ordinais em advérbios  de  enumeração:  ***Primo**,  yu  va  al  cinema;  **secundo**,  al  banca;  **ultimo**,  yu retorna a casa* (Primeiro, vou ao cinema; segundo, ao banco; por último volto para casa). A tradução em português é livre: primeiro, primeiramente, em primeiro lugar.
 
 A leitura de números romanos e dias do mês pode usar tanto os números cardinais como os ordinais: *Pedro II* pode ser lido ‘Pedro duo’ ou ‘Pedro secunde’; *Le 1 maio* pode ser ‘le un maio’ ou ‘le prime maio’. Porém, com números maiores que 10, é preferível empregar  os  cardinais:  *le  Papa  Johannes  XXIII*  (‘vinti-tres’);  *le  25  martio*  (‘vinti- cinque’). É possível, mas não obrigatório, acrescentar a preposição **de** às datas: *le 7 **de** septembre **de** 1822* ou somente *le 7 septembre 1822*.*
 
@@ -1001,7 +1001,7 @@ O  verbo  **esser**  admite  tanto  as  suas  formas  regulares  como  outras  m
 |Condicional |*esserea* |*serea* |
 |Imperativo |*esse* |*sia* |
 
-Ocasionalmente, **sia** também aparece como presente do subjuntivo: *Ben que tu **sia** mi amico, io non va auxiliar te iste vice* (Ainda que você seja meu amigo, não vou ajudá-lo desta vez).*
+Ocasionalmente, **sia** também aparece como presente do subjuntivo: *Ben que tu **sia** mi amico, yu non va auxiliar te iste vice* (Ainda que você seja meu amigo, não vou ajudá-lo desta vez).*
 
 Além das palavras tomadas às línguas de controle, Interlingua permite a expansão de seu léxico por meio da derivação. Na seção 2, relacionamos os principais sufixos usados para  formar  adjetivos.  A  seguir,  listamos  sufixos  que  permitem  criar  substantivos derivados:
 
@@ -1043,7 +1043,7 @@ Isso acontece porque as próprias línguas de controle divergem: compare o portu
 
 Um aspecto que certamente torna Interlingua mais simples que as línguas étnicas é a manutenção  da  raiz  das  palavras.  Por  exemplo,  o  radical  **liber-**  não  se  altera  em nenhuma palavra de sua família: *libere, libertate, liberal, liberar, liberation*. Compare com  os  equivalentes  portugueses  *livre,  liberdade,  liberal,  liberar/libertar/livrar, liberação/libertação/livramento*, em que ocorrem dois radicais distintos, um de origem castiça *livr-* e outro de origem etimológica *liber-*. Em Interlingua, apenas uma forma – quase sempre a etimológica – é conservada em todas as palavras de uma mesma família, salvo raras exceções. O pequeno artigo *Derivatos periculose*, do Almanac de Interlingua número 78 (agosto de 2016), trata desse assunto:
 
-On sole utilisar in Interlingua un radical inalterate pro tote le derivatos de un mesme  familia.  Assi  se  justifica  que  on  prefere  *tempore*,  *corpore*,  *homine*, *femina* e *germine* como primitivos, e non formas plus breve trovate in le linguas romanic. Per iste mesme motivo io ha preferite *vetere* al forma optional *vetule*: del prime deriva regularmente *veteran* e *inveterar*. Ma il resta alcun casos que mere caution: on ha *ambassada*, ma *ambassator*; e on ha *latitude* e *longitude*, ma *latitudinal* e *longitudinal*.
+On sole utilisar in Interlingua un radical inalterate pro tote le derivatos de un mesme  familia.  Assi  se  justifica  que  on  prefere  *tempore*,  *corpore*,  *homine*, *femina* e *germine* como primitivos, e non formas plus breve trovate in le linguas romanic. Per iste mesme motivo yu ha preferite *vetere* al forma optional *vetule*: del prime deriva regularmente *veteran* e *inveterar*. Ma il resta alcun casos que mere caution: on ha *ambassada*, ma *ambassator*; e on ha *latitude* e *longitude*, ma *latitudinal* e *longitudinal*.
 
 Já  vimos  na  seção  3  que  certos  verbos  têm  duas  raízes,  e  que  isso  não  afeta  a conjugação, que é sempre regular. Essa segunda raiz serve para formar o particípio passado  irregular  e,  a  partir  dele,  derivar  novas  palavras  através  dos  sufixos  que apresentamos a seguir:
 
@@ -1069,7 +1069,7 @@ A  existência  do  particípio  irregular  é  vista  com  desconfiança  às  
 
 *Le participio passate feminin como utensile derivational*, artigo publicado na edição 88 do Almanac de Interlingua em julho de 2017, mostra as possibilidades oferecidas pela forma feminina do particípio passado nas línguas de controle:*
 
-Un methodo de derivation currente in le linguas romanic es utilisar le forma feminin del participio passate pro formar substantivos abstracte denominante un evento. Assi, un camminata es un evento in que on cammina; un cadita es un evento in que on cade; e un cursa es un evento in que on curre.  In Interlingua, le mesme senso se obtene per vices con le suffixo -**ada**. Io memora un debatto in que  on  argumentava  si  un  evento  in  que  on  bicycla  se  deberea  denominar bicyclata o bicyclada. Iste suffixo sona ben in parolas que lo porta naturalmente, como  promenada  (del  francese  *promenade*),  ma  non  tanto  in  formas  create artificialmente, como currada. Le participio feminin pote indicar sensos diverse tamben: entrata e sortita non es eventos, ma passages per ubi on entra e sorti; e pensata e trovata es le resultato producte per le actos de pensar e trovar. Plus, un analogia permitte accrescer le termination regular  -**ata** a un base non-verbal, como in buccata e manata, le portion que un bucca e un mano succede continer. Altere construction typic del linguage informal romanic consiste in utilisar le participio feminin pro indicar le concretisation de un action: un oculata es le resultato  concrete  de  ocular,  o  sia  examinar  con  le  oculos.  In  espaniol  e portugese, iste parolas se forma multo liberemente, sovente in diminutivo, e se usa con le verbo dar: Io dava solmente un oculatetta rapide al papiros; deman io los legera plus attentivemente. Io debe dar un sortitetta de cinque minutas, ma tu pote restar ci. Le empleo del participio feminin non es productive in Interlingua, il es dicer, on non poterea crear parolas nove per iste methodo, ma solmente reproducer parolas que ja era create in le linguas de controlo. Per exemplo, le evento in que un interprisa falle non se pote denominar "fallita", ma solmente fallimento, le forma que figura in le IED. A Interlingua manca, ancora, un parola equivalente in senso al portugese e espaniol *ida*, italiano *andata*, catalano *anada* - si on poteva utilisar le participio feminin de ir, como face le linguas romanic, iste parola esserea *ita*.
+Un methodo de derivation currente in le linguas romanic es utilisar le forma feminin del participio passate pro formar substantivos abstracte denominante un evento. Assi, un camminata es un evento in que on cammina; un cadita es un evento in que on cade; e un cursa es un evento in que on curre.  In Interlingua, le mesme senso se obtene per vices con le suffixo -**ada**. Yu memora un debatto in que  on  argumentava  si  un  evento  in  que  on  bicycla  se  deberea  denominar bicyclata o bicyclada. Iste suffixo sona ben in parolas que lo porta naturalmente, como  promenada  (del  francese  *promenade*),  ma  non  tanto  in  formas  create artificialmente, como currada. Le participio feminin pote indicar sensos diverse tamben: entrata e sortita non es eventos, ma passages per ubi on entra e sorti; e pensata e trovata es le resultato producte per le actos de pensar e trovar. Plus, un analogia permitte accrescer le termination regular  -**ata** a un base non-verbal, como in buccata e manata, le portion que un bucca e un mano succede continer. Altere construction typic del linguage informal romanic consiste in utilisar le participio feminin pro indicar le concretisation de un action: un oculata es le resultato  concrete  de  ocular,  o  sia  examinar  con  le  oculos.  In  espaniol  e portugese, iste parolas se forma multo liberemente, sovente in diminutivo, e se usa con le verbo dar: Yu dava solmente un oculatetta rapide al papiros; deman yu los legera plus attentivemente. Yu debe dar un sortitetta de cinque minutas, ma tu pote restar ci. Le empleo del participio feminin non es productive in Interlingua, il es dicer, on non poterea crear parolas nove per iste methodo, ma solmente reproducer parolas que ja era create in le linguas de controlo. Per exemplo, le evento in que un interprisa falle non se pote denominar "fallita", ma solmente fallimento, le forma que figura in le IED. A Interlingua manca, ancora, un parola equivalente in senso al portugese e espaniol *ida*, italiano *andata*, catalano *anada* - si on poteva utilisar le participio feminin de ir, como face le linguas romanic, iste parola esserea *ita*.
 
 Todo prefixo de curso internacional também pode ser usado em Interlingua, unindo-se a outras  palavras  sem  hífen:  ***ante**diluvian,  **anti**hygienic,  **auto**estima,  **bio**ingenieria, **extra**ordinari, **hyper**inflation, **hypo**glycemia, **mini**mercato, **neo**classic, **phyto**therapia, **post**deman,  **pre**stablir,  **pro**active,  **pseudo**scientific,  **psycho**social,  **sub**station, **super**homine, **trans**atlantic, **vice**presidente*.
 
@@ -1137,7 +1137,7 @@ Não há problema algum em pôr os termos da oração em outra ordem, contanto q
 
 *Ha morte Theodoro.* (Morreu o Teodoro)
 
-*Con Theresa io va al fin del mundo.* (Com Teresa vou até o fim do mundo)
+*Con Theresa yu va al fin del mundo.* (Com Teresa vou até o fim do mundo)
 
 A ordem alterada das palavras pode ser escolhida por razões estéticas, ou para enfatizar uma determinada informação, ou ainda para indicar que se trata de uma pergunta e não de uma afirmação. A mudança nunca é obrigatória, contudo. Veja a diferença:
 
@@ -1145,7 +1145,7 @@ A ordem alterada das palavras pode ser escolhida por razões estéticas, ou para
 
 *Ha tu pecunia?* (Você tem dinheiro?)
 
-*Pecunia tu ha nulle, io sape.* (Dinheiro você não tem nenhum, eu sei.)
+*Pecunia tu ha nulle, yu sape.* (Dinheiro você não tem nenhum, eu sei.)
 
 Para fazer perguntas, também se pode acrescentar **esque**: *Esque tu ha pecunia?* **Esque** não tem tradução, mas, se quisermos, podemos traduzir assim a pergunta: ‘Por acaso você tem dinheiro?’.
 
@@ -1161,9 +1161,9 @@ Informações  adicionais  podem  ser  acrescentadas  em  diferentes  posições
 
 Nas orações negativas, usa-se **non** antes do verbo:
 
-*Io **sape** lor nomine*. (Eu sei o nome deles)
+*Yu **sape** lor nomine*. (Eu sei o nome deles)
 
-*Io **non sape** lor nomine.* (Eu não sei o nome deles)
+*Yu **non sape** lor nomine.* (Eu não sei o nome deles)
 
 Se houver outras palavras negativas, **non** é omitido:
 
@@ -1171,7 +1171,7 @@ Se houver outras palavras negativas, **non** é omitido:
 
 *Nos ha **jammais** essite in le Statos Unite.* (Nunca estivemos nos Estados Unidos)
 
-A dupla negação é evitada. Interlingua se apoia bastante na simplicidade da sintaxe inglesa, em que cada informação é dada apenas uma vez na oração; como vimos, o mesmo  ocorre  com  o  plural,  que  é  marcado  apenas  em  uma  palavra,  geralmente  o substantivo. Eventualmente, porém, o uso de dois negativos pode servir de realce: *Io ja ha dicte que io **non** ha **nulle** pecunia ci con me!* (Eu já disse que eu não tenho nenhum dinheiro aqui comigo!).
+A dupla negação é evitada. Interlingua se apoia bastante na simplicidade da sintaxe inglesa, em que cada informação é dada apenas uma vez na oração; como vimos, o mesmo  ocorre  com  o  plural,  que  é  marcado  apenas  em  uma  palavra,  geralmente  o substantivo. Eventualmente, porém, o uso de dois negativos pode servir de realce: *Yu ja ha dicte que yu **non** ha **nulle** pecunia ci con me!* (Eu já disse que eu não tenho nenhum dinheiro aqui comigo!).
 
 Os pedidos são formulados com o auxílio de **per favor** ou **si il te/vos place** (por favor):
 
@@ -1185,7 +1185,7 @@ Para responder a uma pergunta, usamos **si** (sim) ou **no** (não):
 
 *Tu vole accompaniar me al ecclesia?* (Você quer me acompanhar à igreja?) ***Si**, con placer.* (Sim, com prazer).
 
-***No**, io regretta.* (Não, sinto muito)
+***No**, yu regretta.* (Não, sinto muito)
 
 Outras respostas possíveis são **claro**, **naturalmente**, **absolutemente**, **obvio que si**/**no** (é óbvio que sim/não), **claro que si/no** (é claro que sim/não), **de nulle maniera** (de jeito nenhum), **plus o minus** (mais ou menos), **forsan** (talvez).
 
@@ -1209,7 +1209,7 @@ O uso de pronomes objeto que estão subentendidos é opcional. A escolha depende
 
 Abaixo estão relacionados vocábulos latinos que são aceitos em Interlingua. Em geral, eles foram incorporados em razão da falta de termos internacionais para classes de palavras gramaticais como conjunções, preposições, pronomes e advérbios. Pense-se por exemplo no pronome indefinido que em português se diz *ninguém*, em espanhol *nadie*, em francês *personne*, em italiano *nessuno* e em inglês *nobody*: é impossível estabelecer um meio termo, uma palavra que seja fácil de reconhecer para usuários de qualquer uma dessas línguas. Em casos assim, a IALA optou por tomar emprestada uma palavra  do  latim,  nesse  caso  *nemo*.  Como  já  foi  dito,  Interlingua  ganhou  forma  na década de 1940, época em que a língua latina ainda era ensinada nas escolas e praticada nas igrejas, de modo que muito mais gente do que hoje reconhecia palavras como *nemo* sem ter de recorrer a um dicionário. Ainda hoje, o latim é língua oficial no Vaticano e suas máximas e expressões são bastante mencionadas no meio jurídico, ainda que soem arcaicas ou mesmo pedantes.
 
-Os interlinguistas pioneiros usavam muito mais palavras latinas em seus textos do que os de hoje. Essa mudança se deve principalmente à aceitação e popularização de termos tomados de empréstimo às próprias línguas de controle, ainda que não figurem na maioria delas, e também pela reformulação de certas expressões. Em lugar de *nemo*, por exemplo, podemos dizer coisas como *nulle persona* ou *nulle gente*, que são mais facilmente  reconhecíveis,  ou  ainda  preferir  um  termo  mais  próximo  às  línguas  de controle, como *necuno*. Em lugar de *sed*, *ego* e *etiam* podemos optar por *ma*, *io* e *anque*, três palavras italianas com ar mais moderno e nem por isso mais difíceis de identificar.
+Os interlinguistas pioneiros usavam muito mais palavras latinas em seus textos do que os de hoje. Essa mudança se deve principalmente à aceitação e popularização de termos tomados de empréstimo às próprias línguas de controle, ainda que não figurem na maioria delas, e também pela reformulação de certas expressões. Em lugar de *nemo*, por exemplo, podemos dizer coisas como *nulle persona* ou *nulle gente*, que são mais facilmente  reconhecíveis,  ou  ainda  preferir  um  termo  mais  próximo  às  línguas  de controle, como *necuno*. Em lugar de *sed*, *ego* e *etiam* podemos optar por *ma*, *yu* e *anque*, três palavras italianas com ar mais moderno e nem por isso mais difíceis de identificar.
 
 Graças  a  renovações  como  essas,  a  Interlingua  de  hoje  soa  mais  moderna, coloquial e viva. De qualquer forma, o estudante irá se deparar com textos produzidos em várias épocas e lugares, de modo que lhe será útil identificar ao menos os latinismos mais usados, razão pela qual se apresenta a lista a seguir. Entre parênteses figuram sugestões de formas mais modernas ou mais claras, a meu ver preferíveis, cabendo de qualquer forma ao usuário escolher a que mais lhe convém.
 
@@ -1249,7 +1249,7 @@ donec (=durante que; usque) dum (=durante)
 
 e... e... (=tanto... como...)
 
-ego (=io)
+ego (=yu)
 
 erga (=verso; contra; sur)
 
@@ -1417,7 +1417,7 @@ ut (=a fin que, pro que)
 
 utrum... an... (=si... o...)
 
-valde (=con vehementia; multissimo) velle (=-rea: *Io velle facer = Io facerea*) vix (=a pena)
+valde (=con vehementia; multissimo) velle (=-rea: *Yu velle facer = Yu facerea*) vix (=a pena)
 
 Em movimento oposto, há também um reduzido número de palavras alternativas que aproxima Interlingua de uma ou outra língua de controle, às vezes com sacrifício da internacionalidade. Algumas são bastante usadas; outras raramente aparecem. Eis as principais, com um equivalente entre parênteses:
 
@@ -1469,7 +1469,7 @@ ser (=esser)
 
 sinon (=si non)
 
-so (=io es)
+so (=yu es)
 
 somos (=nos es)
 
@@ -1489,9 +1489,9 @@ voi (=vos)
 
 ya (=ja)
 
-yo (=io)
+yo (=yu)
 
-Do mesmo modo, há expressões idiomáticas tomadas às línguas de controle: *de bon hora* (cedo), *bon mercato* (barato), *in haste* (às pressas), *a revider* (até a vista), *optime salutes* (saudações, abraços), *salutes cordial* (cordialmente), *dar carta blanc* (dar carta branca, autorizar), *tirage al sorte* (sorteio), *il ha* ou *il face* (há, faz, indicando tempo passado: *il ha duo annos que io non te videva*, ‘faz dois anos que eu não via você’). Contudo, convém usar com cuidado essas novidades, sobretudo porque elas nem sempre são compreensíveis à maioria dos interlinguistas.
+Do mesmo modo, há expressões idiomáticas tomadas às línguas de controle: *de bon hora* (cedo), *bon mercato* (barato), *in haste* (às pressas), *a revider* (até a vista), *optime salutes* (saudações, abraços), *salutes cordial* (cordialmente), *dar carta blanc* (dar carta branca, autorizar), *tirage al sorte* (sorteio), *il ha* ou *il face* (há, faz, indicando tempo passado: *il ha duo annos que yu non te videva*, ‘faz dois anos que eu não via você’). Contudo, convém usar com cuidado essas novidades, sobretudo porque elas nem sempre são compreensíveis à maioria dos interlinguistas.
 
 Diferentemente de outras línguas planejadas, Interlingua não é fruto da cabeça de um homem só, mas resultado da comparação de inúmeros projetos que a antecederam. O artigo *Le interlinguas del 1800s*, que foi publicado no Almanac de Interlingua número 44  em  agosto  de  2013,  analisa  alguns  desses  projetos  e  identifica  neles  diversas características que viriam a compor a gramática de Interlingua que temos hoje.
 
@@ -1548,7 +1548,7 @@ Giuseppe Peano, idealisator del *Latino sine Flexione* e enthusiasta del linguas
 
 
 
-|**Interlingua**|**io**|**tu**|**ille,illa,illo**|**nos**|**vos**|**illes,illas,illos**|**on**|
+|**Interlingua**|**yu**|**tu**|**ille,illa,illo**|**nos**|**vos**|**illes,illas,illos**|**on**|
 | - | - | - | - | - | - | - | - |
 |**Lingua**|me|tu|il,la,id|nos|vos|ils|-|
 |**Communia**|mi|tu|el,ela,lö|nui|voi|loi,lai|-|
@@ -1556,7 +1556,7 @@ Giuseppe Peano, idealisator del *Latino sine Flexione* e enthusiasta del linguas
 |**Mundolingue**|mi|tu|elo,ela,el|noi|voi|elos,elas,eles|on|
 |**Langue Catholique**|eo|tu|elo,ela,el|nos|vos|elos,elas,eles|-|
 |**Novilatiin**|go|tu|lo,la,le|nos|vos|los,las,les|on|
-|**Nuove Roman**|io|tu|il,el|noi|voi|iles,eles|-|
+|**Nuove Roman**|yu|tu|il,el|noi|voi|iles,eles|-|
 |**Lingua Komun**|mi|tu|ilo,ila,ilu|nos|vos|?|om|
 |**Idiom Neutral**|mi|tu,vo|il,ila,it|noi|voi|ili,ilai|on|
 |**Universal**|jo|tu|lo,la,le|nos|vos|li|-|
@@ -1573,7 +1573,7 @@ Le  anno es  1903. Es calorose le debattos sur un ancian question que finalmente
 
 In medio a iste scenario explosive, un professor italian publica un articulo in un revista de mathematicas. Su suggestion es que on debe lassar iste inutile debattos. Le ration es simple: le lingua auxiliar international ja existe! Le latino es tunc le lingua cultural le plus traditional del continente. Inseniate in le scholas ante  centennios,  le  idioma  del  romanos  es  ancora  vivente  in  documentos, inscriptiones, publicationes scientific e ceremonias religiose. Tote homine culte lo cognosce al minus in superficie, post que su parolas supervive in le linguas romanic e in ultra impregna le idiomas germanic e slave. Ecce, dunque, le simple e sol solution.
 
-Il es ver que apprender le latino demanda troppo tempore. Su stylo es archaic  e  su  grammatica  abhorrente,  con  declinationes  intricate  e  centos  de formas  verbal.  Ma  Giuseppe  –  io  prende  le  libertate  de  nominar  per  su prenomine a iste sympathic senioretto italian (assi io lo imagina) –, ille es un enthusiasta del scientias exacte e propone liberar le belle idioma ancestral de tote su inutile cargo de inflexiones. Giuseppe ha justo fabricate le interlingua!
+Il es ver que apprender le latino demanda troppo tempore. Su stylo es archaic  e  su  grammatica  abhorrente,  con  declinationes  intricate  e  centos  de formas  verbal.  Ma  Giuseppe  –  yu  prende  le  libertate  de  nominar  per  su prenomine a iste sympathic senioretto italian (assi yu lo imagina) –, ille es un enthusiasta del scientias exacte e propone liberar le belle idioma ancestral de tote su inutile cargo de inflexiones. Giuseppe ha justo fabricate le interlingua!
 
 Le pedemontese Giuseppe Peano (1858-1932) ganiava notorietate per le valor philosophic de su studios mathematic. Al culmine de su brillante carriera academic,  ille  habeva  le  idea  le  plus  original  del  historia  interlinguistic: simplificar un idioma natural de ample divulgation. Un genio? Forsan non tanto, ma il es facto que usque tunc nulle persona habeva habite le idea de simplificar un lingua existente in vice de construer un totalmente nove. Assi, on non besonia nove  dictionarios  –  il  suffice  utilisar  le  abundante  dictionarios  de  latino  e converter  lor  parolas  sequente  le  orientationes  mathematic  de  Peano.  Le inflexiones se substitue per un grammatica toto synthetic, plen de prepositiones, particulas  e  verbos  auxiliar.  Le  parolas  se  ordina  de  modo  clar  e  directe, formante  phrases  moderne  e  facilemente  comprensibile  per  le  intelligentsia europee.
 
@@ -1627,33 +1627,33 @@ As justificativas para esse tratamento diacrônico e heterodoxo podem ser depree
 
 ***Le ultime Almanac***
 
-In  octobre  2009  veniva  a  publico  le  prime  edition  del  *Almanac  de Interlingua*, con un sol articulo principal e un parve notitia secundari occupante 1½ pagina in total. Io lo inviava al e-posta de alcun interlinguistas e a altere possibile interessatos, attingente circa tres decenas de personas. Parte de illes manifestava lor interesse de reciper le Almanac tote le menses, e assi io me sentiva motivate a prosequer con mi initiativa.
+In  octobre  2009  veniva  a  publico  le  prime  edition  del  *Almanac  de Interlingua*, con un sol articulo principal e un parve notitia secundari occupante 1½ pagina in total. Yu lo inviava al e-posta de alcun interlinguistas e a altere possibile interessatos, attingente circa tres decenas de personas. Parte de illes manifestava lor interesse de reciper le Almanac tote le menses, e assi yu me sentiva motivate a prosequer con mi initiativa.
 
-Le idea de producer material de lectura in Interlingua me instigava ante alcun  annos  ja,  sur  toto  desde  que  le  revista  brasilian  *Internovas*  passava  a publicar se a intervalos longe, sovente irregular. Io desirava poner Interlingua a test,  verificar  su  capacitate  pro  tractar  themas  diverse.  Esque  su  vocabulario sufficeva? Era su grammatica versatile pro textos jornalistic, colloquial, litterari? Como on poterea facer lo plus dynamic, attractive, moderne, sin totevia violar su principios? Me tentava le possibilitate de liberar lo del stylo archaic e artificial que io incontrava in le majoritate del textos que io legeva tunc. In loco de isto, io voleva  elaborar  un  *dolce  stil  novo*  plus  fluide,  plus  colloquial,  in  que  le communication jocava un rolo plus importante que le formalismo.
+Le idea de producer material de lectura in Interlingua me instigava ante alcun  annos  ja,  sur  toto  desde  que  le  revista  brasilian  *Internovas*  passava  a publicar se a intervalos longe, sovente irregular. Yu desirava poner Interlingua a test,  verificar  su  capacitate  pro  tractar  themas  diverse.  Esque  su  vocabulario sufficeva? Era su grammatica versatile pro textos jornalistic, colloquial, litterari? Como on poterea facer lo plus dynamic, attractive, moderne, sin totevia violar su principios? Me tentava le possibilitate de liberar lo del stylo archaic e artificial que yu incontrava in le majoritate del textos que yu legeva tunc. In loco de isto, yu voleva  elaborar  un  *dolce  stil  novo*  plus  fluide,  plus  colloquial,  in  que  le communication jocava un rolo plus importante que le formalismo.
 
-Melior que advocar tal transformation esserea demonstrar lo. Le universo interlinguista  ha  ja  troppo  de  foros  pro  debatto  metalinguistic,  ubi  le participantes  expone  lor  theorias  e  criticas,  sovente  incaute  sur  quante consequentias un unic alteration formal causarea al aspecto del lingua in su toto. Io optava, alora, per publicar textos sur themas diversificate, in que io poterea jocar con le structuras de Interlingua, con le diverse possibilitates offerte per le lingua ipse e per su cinque linguas fonte.
+Melior que advocar tal transformation esserea demonstrar lo. Le universo interlinguista  ha  ja  troppo  de  foros  pro  debatto  metalinguistic,  ubi  le participantes  expone  lor  theorias  e  criticas,  sovente  incaute  sur  quante consequentias un unic alteration formal causarea al aspecto del lingua in su toto. Yu optava, alora, per publicar textos sur themas diversificate, in que yu poterea jocar con le structuras de Interlingua, con le diverse possibilitates offerte per le lingua ipse e per su cinque linguas fonte.
 
-Pro  arrogar  me  un  tal  carga,  io  debeva  evidentemente  apprender Interlingua multo ben. Io debeva studiar continuemente, recercar le linguas de controlo, audir criticas, meliorar sempre. Io expandeva le quantitate de paginas del  Almanac  e,  tante  vices,  contava  sur  collaborationes  que  me  permitteva confrontar stylos redactional. Il es grande le tentation de "corriger" lo que scribe le alteres,  de  rescriber lor parolas secundo nostre parametros favorite,  ma io credeva  –  e  crede  ancora  –  que  le  character  diverse,  liberal,  inclusive  de Interlingua es plus attractive que un eventual rigiditate formal.
+Pro  arrogar  me  un  tal  carga,  yu  debeva  evidentemente  apprender Interlingua multo ben. Yu debeva studiar continuemente, recercar le linguas de controlo, audir criticas, meliorar sempre. Yu expandeva le quantitate de paginas del  Almanac  e,  tante  vices,  contava  sur  collaborationes  que  me  permitteva confrontar stylos redactional. Il es grande le tentation de "corriger" lo que scribe le alteres,  de  rescriber lor parolas secundo nostre parametros favorite,  ma yu credeva  –  e  crede  ancora  –  que  le  character  diverse,  liberal,  inclusive  de Interlingua es plus attractive que un eventual rigiditate formal.
 
-Post tante textos redacte, traducte, revisate, illustrate, per vices mesmo rescripte integralmente, mi vocabulario se multiplicava e mi comprension del mechanica de Interlingua se consolidava. Quando studiantes novelle questiona certe aspectos minus obvie del methodos utilisate per le IALA pro confectionar Interlingua, multe vices io memora haber sentite le mesme diffidentias lore. Io sape hodie que il prende un poco de tempore e de experientia pro acceptar certe characteristicas que, a prime vista, sembla poco sage.
+Post tante textos redacte, traducte, revisate, illustrate, per vices mesmo rescripte integralmente, mi vocabulario se multiplicava e mi comprension del mechanica de Interlingua se consolidava. Quando studiantes novelle questiona certe aspectos minus obvie del methodos utilisate per le IALA pro confectionar Interlingua, multe vices yu memora haber sentite le mesme diffidentias lore. Yu sape hodie que il prende un poco de tempore e de experientia pro acceptar certe characteristicas que, a prime vista, sembla poco sage.
 
 Interlingua es difficile in plure aspectos. Le orthographia es un de illos, ma non le plus. Ultra, su rigor etymologic face valer le pena recercar le graphia del parolas. Il es un opportunitate de instruer se. Como il eveni al studiante de anglese o francese, le studiante de Interlingua essera un amico intime e eterne de su dictionarios. La, ille recercara non solo un, ma plure vices, le correcte graphia de celle parola simplemente impossibile de memorisar, o forsan un accento tonic que on jammais memora sur qual syllaba cade. E, essente tote le dictionarios del mundo incomplete, il non importa quante entratas illos contine, le studiante qui ambi attinger un nivello cognitive plus alte debera familiarisar se tamben con dictionarios  del  cinque  linguas  de  controlo,  in  que  ille  solvera  dubitas  de vocabulario que le IED sol non pote solver.
 
-Totevia,  plus  vices  ha  io  usate  le  dictionarios  pro  consultar  non  le orthographia,  ma  celle  vocalettos  perfide  que  appare  intra  longe  parolas,  in position  atone,  e  que  es  differente  in  cata  lingua  de  controlo:  m**e**ravilia, depart**i**mento, appart**a**mento, platt**e**forma, cer**e**monia, ant**i**cipar, contrar**ie**tate. Le vocales thematic, celles que appare al fin del substantivos, es anque un fonte inexhauribile de incertitude al hora de rediger in Interlingua: minut**a**, alarm**a**, banc**a**,  simi**a**,  cont**o**,  foli**o**,  contrast**o**,  protest**o**,  control**o**,  metall**o**,  crystall**o**, telephon**o**, ancestr**e**, capit**e**, democrat**e**, hypocrit**a**, hepatit**is**, diagnos**e**, neuros**is**. Per que non scriber los totes con un **-e** final, io me demandava alcun vices? Ma alora como on poterea differentiar un libro de un libra, un porto de un porta, un caso de un casa, un puero de un puera... On essayava tal ideas simplistic con decenas de interlinguas plus ancian, e totes terminava sin un solution satisfactori. Altere difficultate al  momento de incontrar le  formas  correcte es  eliger qual suffixo  o  prefixo  portara  un  derivato:  transferi**mento**  e  lava**tura**,  grand**or**  e legier**essa**,  **ag**grandir  e  **im**bellir...  Io  jammais  ha  ben  comprendite  per  que Islanda, Finlandia e Nederland non termina del mesme modo, ma il es assi.
+Totevia,  plus  vices  ha  yu  usate  le  dictionarios  pro  consultar  non  le orthographia,  ma  celle  vocalettos  perfide  que  appare  intra  longe  parolas,  in position  atone,  e  que  es  differente  in  cata  lingua  de  controlo:  m**e**ravilia, depart**i**mento, appart**a**mento, platt**e**forma, cer**e**monia, ant**i**cipar, contrar**ie**tate. Le vocales thematic, celles que appare al fin del substantivos, es anque un fonte inexhauribile de incertitude al hora de rediger in Interlingua: minut**a**, alarm**a**, banc**a**,  simi**a**,  cont**o**,  foli**o**,  contrast**o**,  protest**o**,  control**o**,  metall**o**,  crystall**o**, telephon**o**, ancestr**e**, capit**e**, democrat**e**, hypocrit**a**, hepatit**is**, diagnos**e**, neuros**is**. Per que non scriber los totes con un **-e** final, yu me demandava alcun vices? Ma alora como on poterea differentiar un libro de un libra, un porto de un porta, un caso de un casa, un puero de un puera... On essayava tal ideas simplistic con decenas de interlinguas plus ancian, e totes terminava sin un solution satisfactori. Altere difficultate al  momento de incontrar le  formas  correcte es  eliger qual suffixo  o  prefixo  portara  un  derivato:  transferi**mento**  e  lava**tura**,  grand**or**  e legier**essa**,  **ag**grandir  e  **im**bellir...  Yu  jammais  ha  ben  comprendite  per  que Islanda, Finlandia e Nederland non termina del mesme modo, ma il es assi.
 
-A occasiones, in cerca de un stylo plus fluente pro le lector, io inventava solutiones  que  collide  contra  le  canones.  Per  exemplo,  io  notava  que  alcun parolettas  grammatical  polysemic appare in  contextos  proxime e confunde le lectura:  *Marco  diceva  la  que  ille  si  concordava,  ma  ora  ille  dice  que  non concorda plus; on non sape que ille vole!* Dunque io comenciava a distinguer iste parolas con un accento acute differential, al modo espaniol, o de intonation, al modo hollandese. Dunque io pote leger **lá** como un adverbio e **la** como un pronomine personal, **sí** como un adverbio affirmative e **si*** como un conjunction conditional, **qué** como un pronomine interrogative e **que** como un conjunction o pronomine relative: *Marco diceva lá que ille sí concordava, ma ora ille dice que non  concorda  plus;  on  non  sape  qué  ille  vole!*  Alcun  personas  faceva  nulle commentario sur isto; alcunes reclamava; e alcunes concordava con me.
+A occasiones, in cerca de un stylo plus fluente pro le lector, yu inventava solutiones  que  collide  contra  le  canones.  Per  exemplo,  yu  notava  que  alcun parolettas  grammatical  polysemic appare in  contextos  proxime e confunde le lectura:  *Marco  diceva  la  que  ille  si  concordava,  ma  ora  ille  dice  que  non concorda plus; on non sape que ille vole!* Dunque yu comenciava a distinguer iste parolas con un accento acute differential, al modo espaniol, o de intonation, al modo hollandese. Dunque yu pote leger **lá** como un adverbio e **la** como un pronomine personal, **sí** como un adverbio affirmative e **si*** como un conjunction conditional, **qué** como un pronomine interrogative e **que** como un conjunction o pronomine relative: *Marco diceva lá que ille sí concordava, ma ora ille dice que non  concorda  plus;  on  non  sape  qué  ille  vole!*  Alcun  personas  faceva  nulle commentario sur isto; alcunes reclamava; e alcunes concordava con me.
 
-Per vices io me equivocava, tamben. In le editiones initial del Almanac io soleva distinguer le suffixo substantive **-ista** de su correspondente adjective **-iste**. Como tante adjectivos de Interlingua termina in **-e**, isto me pareva logic tunc. Ma io recipeva le bon consilio de non plus facer lo, e constatava que, de facto, isto es un complication que apporta nulle beneficio al lectura de un texto. Hodie, io me demanda  mesmo  si  il  es  necessari  distinguer  adverbios  in  -**o**  de  lor correspondente adjectivos in **-e**. Io nota que multe interlinguistas se confunde con parolas como *multo* e *multe*, *poco* e *poc*, *tanto* e *tante*. Ante longe tempore io non distingue *melior* de *melio*, perque tres linguas de controlo non lo face e perque isto non es particularmente importante pro le correcte apprehension de un sententia.
+Per vices yu me equivocava, tamben. In le editiones initial del Almanac yu soleva distinguer le suffixo substantive **-ista** de su correspondente adjective **-iste**. Como tante adjectivos de Interlingua termina in **-e**, isto me pareva logic tunc. Ma yu recipeva le bon consilio de non plus facer lo, e constatava que, de facto, isto es un complication que apporta nulle beneficio al lectura de un texto. Hodie, yu me demanda  mesmo  si  il  es  necessari  distinguer  adverbios  in  -**o**  de  lor correspondente adjectivos in **-e**. Yu nota que multe interlinguistas se confunde con parolas como *multo* e *multe*, *poco* e *poc*, *tanto* e *tante*. Ante longe tempore yu non distingue *melior* de *melio*, perque tres linguas de controlo non lo face e perque isto non es particularmente importante pro le correcte apprehension de un sententia.
 
-Un sorta de manual stylistic non scripte passava a guidar mi redaction. Io conventionava usar sempre *establir* in loco de *stablir*, *developpar* in loco de *disveloppar*, *cognite* in loco de *cognoscite*, non perque io considera un forma correcte e le altere incorrecte, ma perque, post experimentar con ambes, io me considerava sufficientemente lucide pro standardisar mi lexico con alcun criterio. Io ha preferite le participios passate irregular, que es plus curte e non echoa un mesme termination *-***ite** trans le texto. In alcun casos, le participio irregular es le sol forma natural existente in tote le linguas fonte romanic (p.ex. *facte*, *dicte*). Quando io lege *facite* e *dicite*, io non pote evitar pensar sur le linguage del infantes qui ancora non ha apprendite a conjugar correctemente e produce lor tentativas  a  partir  del  paradigma  le  plus  usual.  Io  memora  tamben  sur  le sonoritate artificial de Esperanto, in que on ha impression que tote le participios debe  terminar  per  *-ita*,*  -*igita*,  -*iĝita*  o  cosa  simile.  Io  pensa,  plus,  que  iste participios instrue melior sur le ligamines etymologic de un familia lexical: *un **texto** es resultato de un labor fin, que ha essite **texte** filo post filo; illo acquire su proprie **textura**, como un producto **textile***. Si  io usa *tecite* in loco de *texte*, iste ligamine se perde. Totevia, io non es un radical sur iste question. Quando le forma  regular  es  multo  plus  recognoscibile,  io  adhere  promptemente  a  illo: *comprendite*  e  *apprendite*  luce  ben  melior  que  *comprense*  e  *apprense*.  Un participio irregular poterea mesmo causar miscomprension si illo ha acquisite un nove signification (p.ex. *remote*).
+Un sorta de manual stylistic non scripte passava a guidar mi redaction. Yu conventionava usar sempre *establir* in loco de *stablir*, *developpar* in loco de *disveloppar*, *cognite* in loco de *cognoscite*, non perque yu considera un forma correcte e le altere incorrecte, ma perque, post experimentar con ambes, yu me considerava sufficientemente lucide pro standardisar mi lexico con alcun criterio. Yu ha preferite le participios passate irregular, que es plus curte e non echoa un mesme termination *-***ite** trans le texto. In alcun casos, le participio irregular es le sol forma natural existente in tote le linguas fonte romanic (p.ex. *facte*, *dicte*). Quando yu lege *facite* e *dicite*, yu non pote evitar pensar sur le linguage del infantes qui ancora non ha apprendite a conjugar correctemente e produce lor tentativas  a  partir  del  paradigma  le  plus  usual.  Yu  memora  tamben  sur  le sonoritate artificial de Esperanto, in que on ha impression que tote le participios debe  terminar  per  *-ita*,*  -*igita*,  -*iĝita*  o  cosa  simile.  Yu  pensa,  plus,  que  iste participios instrue melior sur le ligamines etymologic de un familia lexical: *un **texto** es resultato de un labor fin, que ha essite **texte** filo post filo; illo acquire su proprie **textura**, como un producto **textile***. Si  yu usa *tecite* in loco de *texte*, iste ligamine se perde. Totevia, yu non es un radical sur iste question. Quando le forma  regular  es  multo  plus  recognoscibile,  yu  adhere  promptemente  a  illo: *comprendite*  e  *apprendite*  luce  ben  melior  que  *comprense*  e  *apprense*.  Un participio irregular poterea mesmo causar miscomprension si illo ha acquisite un nove signification (p.ex. *remote*).
 
-In ultime tempores, io passava a scriber *era* in loco de *esseva*. Io soleva facer lo antea, ma me sentiva intimidate de usar lo in  le Almanac perque le majoritate del interlinguistas prefere formas regularisate del verbos. Ma, si le proprie creatores de Interlingua recommendava formas irregular breve como *es*, *ha*  e  *va* pro parolas  utilisate con troppo de frequentia, e si  *era* es un forma official, autorisate per le canones, dunque il ha nulle bon justification pro rejectar iste paroletta natural e plus facile de identificar per romanophonos native que su synonymo regularisate *esseva*. Un nove reflexion me duce a imbraciar formas breve, plus rapide de leger e pronunciar, sempre que isto sia permisse per le grammatica de Interlingua. Hodie io usa sovente le presente historic, il es dicer le narrativa in tempore presente, evitante un repetition innecessari del termination - **va**. Assi face le novellistas francese contemporanee, qui evita al mesme tempore lor passato simple, que sona archaic, e lor passato composite, que es verbose.
+In ultime tempores, yu passava a scriber *era* in loco de *esseva*. Yu soleva facer lo antea, ma me sentiva intimidate de usar lo in  le Almanac perque le majoritate del interlinguistas prefere formas regularisate del verbos. Ma, si le proprie creatores de Interlingua recommendava formas irregular breve como *es*, *ha*  e  *va* pro parolas  utilisate con troppo de frequentia, e si  *era* es un forma official, autorisate per le canones, dunque il ha nulle bon justification pro rejectar iste paroletta natural e plus facile de identificar per romanophonos native que su synonymo regularisate *esseva*. Un nove reflexion me duce a imbraciar formas breve, plus rapide de leger e pronunciar, sempre que isto sia permisse per le grammatica de Interlingua. Hodie yu usa sovente le presente historic, il es dicer le narrativa in tempore presente, evitante un repetition innecessari del termination - **va**. Assi face le novellistas francese contemporanee, qui evita al mesme tempore lor passato simple, que sona archaic, e lor passato composite, que es verbose.
 
 Mi impeto de facer le lectura fluer me ha impulse a cercar alternativas in le linguas de controlo. Si Interlingua adopta le forma grammatical le plus simple inter su cinque linguas fonte, le mesme orientation pote applicar se al momento de decider sur altere themas. Le francese me autorisava a omitter le preposition *de* del datas: *le 14 julio 2018*. Le articulo definite pote ben disparer, sin ulle damno al comprension, de alcun expressiones adverbial como *per prime vice* (cf. espaniol *por primera vez*) e *in schola* (cf. anglese *in school*). Iste omission del articulo  pote  perfectemente  extender  se  al  locutiones  prepositive:  *sub  (le) commando de*, *pro (le) beneficio de*, *in (le) loco de* etc. E assi, passo post passo, se construe un stylo plus breve, concise, que se lege plus agilemente, sin totevia deformar le base del lingua ni reinventar su morphologia, que es ja ben establite post quasi septe decennios de uso continue.
 
-Cento Almanaches plus tarde, il es arrivate le momento de concluder iste activitate  que  genera  placer,  ma  que  demanda  dedication.  Isto  non  implica abandonar  Interlingua,  claro.  Io  continuara  a  scriber  articulos  de  tempore  in tempore e a prender parte in conversationes que me ha essite fonte de grande satisfaction. Le interlinguistas non es multes in terminos quantitative, ma es in general valorose in terminos qualitative.
+Cento Almanaches plus tarde, il es arrivate le momento de concluder iste activitate  que  genera  placer,  ma  que  demanda  dedication.  Isto  non  implica abandonar  Interlingua,  claro.  Yu  continuara  a  scriber  articulos  de  tempore  in tempore e a prender parte in conversationes que me ha essite fonte de grande satisfaction. Le interlinguistas non es multes in terminos quantitative, ma es in general valorose in terminos qualitative.
 
-Io suspecta que le Almanac ha attingite su finalitate. Un bon quantitate de personas se interessava in illo, inviava commentarios, collaborava con textos e con auxilio technic. Le Union Mundial pro Interlingua me offereva gentilmente, desde  tosto,  un  pagina  in  su  sito  pro  immagazinar  le  editiones.  Le  revista *Panorama*,  que  es  le  principal  publication  impresse,  un  referentia  pro  tante interlinguistas,  lo  ha  divulgate  in  su  paginas.  E  un  numero  de  personas  me scribeva pro facer demandas sur Interlingua, solver dubitas o solmente practicar - de iste  conversationes  per  e-posta  e retes social se developpava plure bon amicitates virtual. Io considera tote iste cosas un ver honor e es multe grate a tote le personas qui ha participate de iste processo. Io pensava mesmo de mentionar lor  nomines,  ma  io  certemente  oblidarea  alcun  inter  tantes,  dunque  io  evita committer iste injustitia.
+Yu suspecta que le Almanac ha attingite su finalitate. Un bon quantitate de personas se interessava in illo, inviava commentarios, collaborava con textos e con auxilio technic. Le Union Mundial pro Interlingua me offereva gentilmente, desde  tosto,  un  pagina  in  su  sito  pro  immagazinar  le  editiones.  Le  revista *Panorama*,  que  es  le  principal  publication  impresse,  un  referentia  pro  tante interlinguistas,  lo  ha  divulgate  in  su  paginas.  E  un  numero  de  personas  me scribeva pro facer demandas sur Interlingua, solver dubitas o solmente practicar - de iste  conversationes  per  e-posta  e retes social se developpava plure bon amicitates virtual. Yu considera tote iste cosas un ver honor e es multe grate a tote le personas qui ha participate de iste processo. Yu pensava mesmo de mentionar lor  nomines,  ma  yu  certemente  oblidarea  alcun  inter  tantes,  dunque  yu  evita committer iste injustitia.
 
 ### 10. Interlingua para os poetas
 
@@ -1704,7 +1704,7 @@ eŭm · pro · mi · sa · lí · kwi · de
 
 ***Sur le composition e le recitation del poema***
 
-Tote le versos de mi *Sonetto del expectation* ha cinque syllabas poetic e fini con un parola proparoxytone, il es dicer cuje accento tonic cade sur le antepenultime syllaba. Le lectura del poema es orientate per le linea al dextra de cata verso, que indica le pronunciation de cata syllaba poetic individualmente. Io experimenta con  le  contraction  de  alcun  syllabas  atone,  indicate  per  un  apostropho.  Iste contractiones,  que  servi  a  preservar  le  metrica  correcte  del  versos,  sempre incontrara last in un o plus linguas romanic natural. Contractiones innecessari, que non interfere con le metrica, es evitate.
+Tote le versos de mi *Sonetto del expectation* ha cinque syllabas poetic e fini con un parola proparoxytone, il es dicer cuje accento tonic cade sur le antepenultime syllaba. Le lectura del poema es orientate per le linea al dextra de cata verso, que indica le pronunciation de cata syllaba poetic individualmente. Yu experimenta con  le  contraction  de  alcun  syllabas  atone,  indicate  per  un  apostropho.  Iste contractiones,  que  servi  a  preservar  le  metrica  correcte  del  versos,  sempre incontrara last in un o plus linguas romanic natural. Contractiones innecessari, que non interfere con le metrica, es evitate.
 
 **Prosa e poesia**
 
@@ -1726,10 +1726,10 @@ Consiste em suprimir uma vogal átona quando ela entra em contato com outra voga
 
 - com o artigo definido **le**, mas apenas no singular: **l'amor folle**, **l'ultime die**, **l'opera prime**.
 - com a preposição **de**: **un historia d'amor**, **un memoria d'infantia**.
-- com os pronomes objeto **me**, **te**, **le**, **la** e **se**: **illa m'observa**, **io t'ama**.
-- com a palavra **que** e outras palavras gramaticais terminadas em **-que**: **ben qu'inutile**, **a fin qu'on**, **anqu'io**, **usqu'ora**, **esqu'illa lo sape?**
+- com os pronomes objeto **me**, **te**, **le**, **la** e **se**: **illa m'observa**, **yu t'ama**.
+- com a palavra **que** e outras palavras gramaticais terminadas em **-que**: **ben qu'inutile**, **a fin qu'on**, **anqu'yu**, **usqu'ora**, **esqu'illa lo sape?**
 
-  A elisão pode ocorrer também antes da letra **h**, desde que se opte por não pronunciar esta letra: **l'human natura**, **le die d'hodie**, **plus qu'hier**, **io l'ha viste**.
+  A elisão pode ocorrer também antes da letra **h**, desde que se opte por não pronunciar esta letra: **l'human natura**, **le die d'hodie**, **plus qu'hier**, **yu l'ha viste**.
 
 Outras elisões específicas podem ser adaptadas a partir do uso nas línguas de controle: **s'il  te  place**  (do  francês  *s’il  te  plaît*),  **cent'annos**  (do  italiano  *cent’anni*),  **n'altere tempore** (do português *noutro tempo*).
 
