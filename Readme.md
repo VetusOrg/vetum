@@ -160,8 +160,8 @@ Os adjetivos em Vetum concordam com os substantivos em número e, algumas vezes,
 Os pronomes pessoais têm formas específicas para cada pessoa gramatical, mas não variam por caso ou função.
 
 - **Nominativo (Caso Reto):** 
-	- Singular: _yu_ (eu), _tu_ (tu, você), _elle_ (ele/ela)
-	- Plural: _nos_ (nós), _vos_ (vós, vocês), _elles_ (eles, elas)
+	- Singular: _yu_ (eu), _tu_ (tu, você), _ille_ (ele/ela)
+	- Plural: _nos_ (nós), _vos_ (vós, vocês), _illes_ (eles, elas)
 - **Objetivo (Caso Oblíquo):** 
 	- Singular: _me_ (me, mim), _te_ (te, você), _lo_ (o, ele), _la_ (a, ela)
 	- Plural: _nos_ (nos, nós), _les_ (os, eles, elas)
