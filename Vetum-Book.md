@@ -1459,7 +1459,7 @@ plutosto (=plus tosto)
 
 pois (=plus tarde, postea) pois que (=post que, perque)
 
-por (=pro)
+por (=pro)
 
 porque (=perque) qualcosa (=alcun cosa) qualcuno (=alcun persona) qualque (=alcun)
 

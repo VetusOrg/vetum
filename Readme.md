@@ -1,41 +1,16 @@
 ## Introdução
 
-O Vetum é uma interlíngua (ConLang) projetada para facilitar a comunicação internacional, proporcionando uma linguagem expressiva e um vocabulário rico. Baseado no latim e em línguas indo-europeias, esta documentação detalha os principais aspectos gramaticais e léxicos de Vetum.
+O Vetum é uma interlíngua (ConLang) projetada para facilitar a comunicação internacional, podendo ser compreendia sem estudo prévio do idioma. Baseado no latim e em línguas indo-europeias, como latim, italiano, inglês, espanhol, etc. Esta documentação detalha os principais aspectos fonéticos e gramaticais de Vetum.
 
 ## Fonética (WIP)
 
 **Fonética de Vetum**
 
-A Vetum é uma conlang internacional baseada em elementos comuns das línguas românicas, germânicas e eslavas. A sua fonética é relativamente simples, com apenas 23 sons consonantais e 5 sons vocálicos.
+A Vetum é uma conlang internacional, então baseia-se em elementos comuns das línguas românicas, germânicas e eslavas. A sua fonética é relativamente simples, com apenas 23 sons consonantais e 5 sons vocálicos.
 
 **Acentuação**
 
 A acentuação em Vetum é tônica, ou seja, a sílaba tônica de uma palavra é a sílaba com a maior intensidade de som. A sílaba tônica é geralmente a última sílaba da palavra, mas pode também ser a penúltima ou a antepenúltima sílaba.
-
-**Exemplos**
-
-| Palavra | Acentuação | Pronúncia |
-|---|---|---|
-| casa | penúltima sílaba | /'kasa/ |
-| libro | última sílaba | /'libro/ |
-| amore | antepenúltima sílaba | /a'more/ |
-
-**Ditongos**
-
-Vetum tem dois ditongos:
-
-| Ditongo | Símbolo | Pronúncia | Exemplo |
-|---|---|---|---|
-| /ei/ | ei | ai | meio |
-| /ou/ | ou | ou | outro |
-
-**Tritongos**
-
-Vetum tem um tritongo:
-
-| Tritongo | Símbolo | Pronúncia | Exemplo |
-|---|---|---|---|
-| /iau/ | iau | au | diau |
 
 **Harmonia vocálica**
 
@@ -61,25 +36,22 @@ A harmonia vocálica é uma característica da fonética de Vetum que consiste n
 
 ### Substantivos
 
-Os substantivos são palavras que nomeiam objetos, conceitos, lugares, entre outros. No Vetum, eles são classificados em três gêneros gramaticais - masculino, feminino e neutro. Por exemplo, "Scientia" significa "Ciência" e pertence ao gênero feminino.
+Os substantivos são palavras que nomeiam objetos, conceitos, lugares, entre outros.
 
-- **Scientia (Feminino)** - Ciência
-- **Domus (Neutro)** - Casa
-- **Computator (Neutro)** - Computador
-- **Planeta (Feminino)** - Planeta
-- **Mathematica (Feminino)** - Matemática
-- **Stellar (Feminino)** - Estrela
-- **Astere (Neutro)** - Astro, estrela
+**Por que gêneros nas palavras?**
 
+Os gêneros gramaticais são categorias linguísticas que atribuem características gramaticais a substantivos, adjetivos, artigos e pronomes, classificando-os como masculinos, femininos ou, em alguns idiomas, neutros. O português é uma língua que possui dois gêneros gramaticais principais: masculino e feminino. Outros idiomas, como o espanhol, também apresentam a categoria de gênero neutro.
+
+Em Vetum, os substantivos comuns não possuem uma marcação de gênero. Por exemplo, "casa" não é "feminino", e "computador" não é "masculino". Apenas existe a classificação nos artigos e pronomes. Entretanto, substantivos próprios que se referem à pessoas, possuem gênero. Por exemplo, "Maria" é feminino, e "João", masculino. E, para não haver confusão, isso só irá servir para substantivos próprios que terminam com "a" para feminino, e "o" para masculino (não importando se está no plural). O resto continuará no gênero neutro.
 ### Adjetivos
 
 Os adjetivos descrevem características ou qualidades dos substantivos. Assim como os substantivos, os adjetivos concordam em gênero e número com os substantivos que modificam. Por exemplo, "Grande" significa "Grande" e concorda em gênero e número com o substantivo que acompanha.
 
-- **Grande (Neutro)** - Grande
-- **Rapide (Neutro)** - Rápido
-- **Scientific (Neutro)** - Científico
-- **Astral (Feminino)** - Astral
-- **Logic (Neutro)** - Lógico
+- **Grande** - Grande
+- **Rapide** - Rápido
+- **Scientific** - Científico
+- **Astral** - Astral
+- **Logicus** - Lógico
 
 ### Verbos
 
@@ -99,6 +71,8 @@ Os advérbios modificam verbos, adjetivos ou outros advérbios e indicam circuns
 
 - **Scientifice** - Cientificamente
 - **Bene** - Bem
+- **Tunc** - Portanto, então
+- **Ergo** - Portanto, pois bem
 
 ### Artigos
 
@@ -151,20 +125,19 @@ Os substantivos em Vetum têm poucas variações de acordo com o número. Geralm
 
 Os adjetivos em Vetum concordam com os substantivos em número e, algumas vezes, em gênero.
 
-- **Singular Masculino:** _bon_ (bom)
-- **Singular Feminino:** _bona_ (boa)
-- **Plural Masculino e Feminino:** _bones_ (bons)
+- **Singular:** _bone_ (bom)
+- **Plural:** _bones_ (bons)
 
 #### Pronomes:
 
 Os pronomes pessoais têm formas específicas para cada pessoa gramatical, mas não variam por caso ou função.
 
-- **Nominativo (Caso Reto):** 
-	- Singular: _yu_ (eu), _tu_ (tu, você), _ille_ (ele/ela)
-	- Plural: _nos_ (nós), _vos_ (vós, vocês), _illes_ (eles, elas)
-- **Objetivo (Caso Oblíquo):** 
-	- Singular: _me_ (me, mim), _te_ (te, você), _lo_ (o, ele), _la_ (a, ela)
-	- Plural: _nos_ (nos, nós), _les_ (os, eles, elas)
+- **Nominativo (Caso Reto):**
+	- Singular: _yu_ (eu), _tu_ (tu, você), _illo, illa, ille_ (ele, ela, ele neutro)
+	- Plural: _nos_ (nós), _vos_ (vós, vocês), _illos, illas, illes_ (eles, elas, ele neutro)
+- **Objetivo (Caso Oblíquo):**
+	- Singular: _me_ (me, mim), _te_ (te, você), _le_ (o, ele), _la_ (a, ela)
+	- Plural: _nos_ (nos, nós), _les_ (os, as, eles, elas)
 
 #### Verbos:
 
@@ -172,39 +145,46 @@ Os verbos em Vetum são relativamente simples, não sofrendo flexões por pessoa
 
 - **Verbo:** _lavar_ (lavar)
     - **Infinitivo:**
-        - _Lava**r**_
-    - **Participio:**
-        - _Lava**nte**_: presente
-        - _Lava**te**_: passado
+        - _lava**r**_
+    - **Particípio:**
+        - _lava**nte**_: presente
+        - _lava**te**_: passado
     - **Indicativo:**
         - **Presente**
-            - _Yu lava_ (Eu lavo)
-            - _Tu lava_ (Você lava)
-            - _Ille lava_ (Ele/Ela lava)
-            - _Nos lava_ (Nós lavamos)
-            - _Vos lava_ (Vós lavais)
-            - _Illes lava_ (Eles/Elas lavam)
+            - _yu lava_ (eu lavo)
+            - _tu lava_ (você lava)
+            - _ille lava_ (ele/ela lava)
+            - _nos lava_ (nós lavamos)
+            - _vos lava_ (vós lavais)
+            - _illes lava_ (eles/elas lavam)
         - **Passado**
-            - _Yu lava**va**_ (Eu lavei)
+            - _yu lava**va**_ (eu lavei)
             - ...
         - **Futuro**
-            - _Yu lava**ra**_
+            - _yu lava**ra**_ (eu lavarei)
             - ...
-        - **Perfeito**
-            - _Yu ha lava**te**_
+        - **Mais-que-perfeito (Pretérito-mais-que-perfeito)**
+            - _yu ha**beva** lava**te**_ (eu tinha lavado)
             - ...
-        - **Mais-que-perfeito**
-            - _Yu ha**beva** lava**te**_
+        - **Passado perfeito**
+            - _yu ha lava**te**_ (eu tenho lavado)
             - ...
         - **Futuro perfeito**
-            - _Yu ha**bera** lavate_
+            - _yu ha**bera** lava**te**_ (eu terei lavado)
+            - ...
+        - **Passado imperfeito**
+            - _yu ha**beva** lavar_ (eu lavava)
+            - ...
+        - **Futuro imperfeito**
+            - _yu ha**berea** lavar_ (eu lavaria)
             - ...
     - **Condicional:**
-        - _Yu lava**rea**_
+        - _yu lava**rea**_ (eu lavaria)
         - ...
     - **Imperativo**
-        - _lava (tu)!_
-        - _vamos lavar!_
+        - Tu lava (tu lava)
+        - Nos lavava (nós lavemos)
+        - Vos lavate (vós lavai)!
 
 ### Concordância de Gênero
 
@@ -216,7 +196,7 @@ Os pronomes pessoais são palavras usadas para substituir nomes, indicando quem 
 
 - **Yu** - Eu
 - **Tu** - Você
-- **Ille** - Ele / Ela
+- **Illo / Illa / Ille** - Ele / Ela
 
 ## Pronomes Possessivos
 
@@ -265,8 +245,8 @@ Os pronomes reflexivos são utilizados quando o sujeito e o objeto da ação sã
 
 Os pronomes reflexivos também podem ser usados para indicar que a ação do verbo é feita para o próprio sujeito.
 
-- **Yu lava mi manos.** - Eu lavo as minhas mãos.
-- **Tu lava tu capillo.** - Você lava o seu cabelo.
+- **Yu lava mi manus.** - Eu lavo as minhas mãos.
+- **Tu lava su capillo.** - Você lava o seu cabelo.
 
 ## Pronomes Interrogativos
 
@@ -312,6 +292,7 @@ As conjunções são palavras que ligam elementos da frase, como palavras, oraç
 - **Se** - Se
 - **Perque** - Porque
 - **Qualcunque** - Qualquer
+- **Pertanto** - Portanto
 
 ## Advérbios de Tempo
 
